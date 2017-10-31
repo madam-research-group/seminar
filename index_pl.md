@@ -4,6 +4,8 @@
 
 ## MADAM - Metody analizy danych: algorytmy i modelowanie
 
+![MADAM](madam_500.svg.png)
+
 Organizatorzy: dr hab. inż. [Marek Gagolewski](http://www.gagolewski.com), dr inż. [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
 Czas: wybrane piątki, godz. 14:15-16:00, s. 318
