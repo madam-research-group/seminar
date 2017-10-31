@@ -1,4 +1,4 @@
-[English](.) | [polski](index_pl.html)
+[English](index.html) | [polski](index_pl.html)
 
 # Welcome!
 
