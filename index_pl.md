@@ -1,3 +1,5 @@
+[English](.) | [polski](index_pl.html)
+
 # Witamy!
 
 ## MADAM - Metody analizy danych: algorytmy i modelowanie
