@@ -14,7 +14,7 @@ Topics:
 * machine learning
 * complex networks
 * algorithms for data analysis
-* models of real-world phenomena
+* models of real-world phenomena in economics and social sciences
 
 # Schedule
 
