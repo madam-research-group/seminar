@@ -15,10 +15,9 @@ Place: [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.
 Topics:
 
 * data aggregation and fusion
-* machine learning
-* complex networks
-* algorithms for data analysis
-* models of real-world phenomena in economics and social sciences
+* complex networks and agent-based models
+* machine learning algorithms
+* interdisciplinary modeling (economics, social sciences, etc.)
 
 # Schedule
 
