@@ -15,11 +15,10 @@ Miejsce: [Wydział Matematyki i Nauk Informacyjnych](https://ww2.mini.pw.edu.pl/
 
 Tematyka:
 
-* agregacja i fuzja danych
-* uczenie maszynowe
-* sieci złożone
-* algorytmy analizy danych
-* modelowanie zjawisk w naukach ekonomicznych i społecznych
+   * agregacja i fuzja danych
+   * sieci złożone i modele agentowe
+   * algorytmy uczenia maszynowego
+   * modelowanie interdyscyplinarne (nauki ekonomiczne, społeczne itp.)
 
 # Plan spotkań
 
