@@ -1,4 +1,4 @@
-[English](index.html) | [polski](index_pl.html)
+[ENGLISH](index.html) | [POLSKI](index_pl.html)
 
 # Welcome!
 
@@ -21,4 +21,4 @@ Topics:
 
 # Schedule
 
-t.b.d.
+## 23.11.2017 [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) *How accidental scientific success is?*
