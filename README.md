@@ -21,7 +21,5 @@ Topics:
 
 # Schedule
 
-###### 23.11.2017 [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) *How accidental scientific success is?*
-
-###### 23.11.2017 [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) *How accidental scientific success is?*
-
+* 23.11.2017 [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) *How accidental scientific success is?*
+Lorem ipsum
