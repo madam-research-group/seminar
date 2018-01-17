@@ -6,7 +6,7 @@
 
 ![MADAM](madam_400_225.png)
 
-Hosts: Dr hab. [Marek Gagolewski](http://www.gagolewski.com) and Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
+Hosts: Prof. [Marek Gagolewski](http://www.gagolewski.com) and Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
 Time: Fridays (selected), 14:15-16:00, room 318
 
