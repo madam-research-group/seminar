@@ -6,7 +6,7 @@
 
 ![MADAM](madam_400_225.png)
 
-Organizatorzy: dr hab. inż. [Marek Gagolewski](http://www.gagolewski.com), dr inż. [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
+Organizatorzy: dr hab. inż. [Marek Gagolewski](http://www.gagolewski.com), prof. PW i dr inż. [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
 Czas: wybrane piątki, godz. 14:15-16:00, s. 318
 
