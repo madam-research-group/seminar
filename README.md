@@ -4,7 +4,7 @@
 
 ## MADAM - Methods for Analysis of Data: Algorithms and Modeling
 
-![MADAM](madam_400_225.png)
+![MADAM](madam_500.png)
 
 Hosts: Prof. [Marek Gagolewski](http://www.gagolewski.com) and Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
