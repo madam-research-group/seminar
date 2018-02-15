@@ -22,7 +22,7 @@ Fridays (selected), 14:15-16:00
 * machine learning algorithms
 * interdisciplinary modeling (economics, social sciences, sports, etc.)
 
-## Schedule - summer semester 2017/2018
+#### Schedule - summer semester 2017/2018
 
 | Date        | Author       | Title |
 |:------------|:-------------|:------|
