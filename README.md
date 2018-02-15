@@ -20,7 +20,6 @@
 </dl>
 
 # Schedule
-* * *
 * 30.03.2018 [Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez) <sup>\[[Ghent University](http://www.kermit.ugent.be/)\] </sup>
 
 **Aggregation through the poset glass**
@@ -47,5 +46,4 @@
 **How accidental scientific success is?**
 > Since the classic work of de Sola Price the rich get richer rule is well known as a most important mechanism governing the citation network dynamic. (Un-)Fortunatelly it is not sufficient to explain every aspect of the bibliometric data. Using the proposed agent-based model for the bibliometric networks we will shed some light on the problem and try  to answer the important question from the title.  Joint work with [A. Cena](http://cena.rexamine.com), [M. Gagolewski](http://www.gagolewski.com) and B. Żogała-Siudem.
 
-* * *
 * * *
