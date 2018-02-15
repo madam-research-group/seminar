@@ -4,20 +4,19 @@
 
 # Seminar info
 
-<dl>
-<dt>Hosts:</dt>
-<dd>Prof. [Marek Gagolewski](http://www.gagolewski.com) and Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)</dd>
-<dt>Time:</dt>
-<dd> Fridays (selected), 14:15-16:00, room 318</dd>
-<dt>Place:</dt>
-<dd> [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), Warsaw University of Technology, [ul. Koszykowa 75](https://goo.gl/maps/83p1mQsCmrz), Warsaw, Poland</dd>
-<dt>Topics:</dt>
-<dd>
+Hosts:
+Prof. [Marek Gagolewski](http://www.gagolewski.com) and Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
+Time:
+Fridays (selected), 14:15-16:00, room 318
+Place:
+[Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), Warsaw University of Technology, [ul. Koszykowa 75](https://goo.gl/maps/83p1mQsCmrz), Warsaw, Poland
+Topics:
+
 * data aggregation and fusion
 * complex networks and agent-based models
 * machine learning algorithms
-* interdisciplinary modeling (economics, social sciences, sports, etc.)</dd>
-</dl>
+* interdisciplinary modeling (economics, social sciences, sports, etc.)
+
 
 # Schedule
 * 30.03.2018 [Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez) <sup>\[[Ghent University](http://www.kermit.ugent.be/)\] </sup>
