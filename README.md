@@ -1,4 +1,4 @@
-[ENGLISH](index.html) | [POLSKI](index_pl.html)
+|[ENGLISH](index.html) | [POLSKI](index_pl.html)|
 
 ![MADAM](madam_500.png)
 
