@@ -25,7 +25,7 @@ Fridays (selected), 14:15-16:00
 ## Schedule
 ##### 30.03.2018 [Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez) <sup>\[[Ghent University](http://www.kermit.ugent.be/)\] </sup>
 
-_Aggregation through the poset glass_
+**_Aggregation through the poset glass_**
 > The aggregation of several objects into a single one is a common study subject in mathematics. Unfortunately, whereas practitioners often need to deal with the aggregation of many different types of objects (rankings, graphs, strings, etc.), the current theory of aggregation is mostly developed for dealing with the aggregation of values in a poset. In this presentation, we will reflect on the limitations of this poset-based theory of aggregation and "jump through the poset glass". On the other side, we will not find Wonderland, but, instead, we will find more questions than answers. Indeed, a new theory of aggregation is being born, and we will need to work together on this reboot for years to come.
 
 
