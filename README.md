@@ -1,4 +1,4 @@
-<div style="text-align: right"> |[ENGLISH](index.html) | [POLSKI](index_pl.html)| </div>
+ |[ENGLISH](index.html) | [POLSKI](index_pl.html)| 
 
 ![MADAM](madam_500.png)
 
