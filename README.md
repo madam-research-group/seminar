@@ -2,7 +2,7 @@
 
 ![MADAM](madam_500.png)
 
-### Seminar info
+## Seminar info
 
 #### Hosts:
 * Prof. [Marek Gagolewski](http://www.gagolewski.com) 
@@ -22,7 +22,7 @@ Fridays (selected), 14:15-16:00
 * machine learning algorithms
 * interdisciplinary modeling (economics, social sciences, sports, etc.)
 
-### Schedule - summer semester 2017/2018
+## Schedule - summer semester 2017/2018
 
 | Date        | Author       | Title |
 |:------------|:-------------|:------|
@@ -30,7 +30,7 @@ Fridays (selected), 14:15-16:00
 
 
 
-### Abstracts
+## Abstracts
 
 ### 30.03.2018 [Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez) <sup>\[[Ghent University](http://www.kermit.ugent.be/)\] </sup>
 
