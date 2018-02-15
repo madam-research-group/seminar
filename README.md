@@ -4,18 +4,18 @@
 
 # Seminar info
 
-### Hosts:
+##### Hosts:
 * Prof. [Marek Gagolewski](http://www.gagolewski.com) 
 * Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
-### Time:
+##### Time:
 Fridays (selected), 14:15-16:00
 
-### Place:
+##### Place:
 Room 318 at
 [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), Warsaw University of Technology, [ul. Koszykowa 75](https://goo.gl/maps/83p1mQsCmrz), Warsaw, Poland
 
-### Topics:
+##### Topics:
 * data aggregation and fusion
 * complex networks and agent-based models
 * machine learning algorithms
