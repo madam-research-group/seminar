@@ -2,18 +2,22 @@
 
 ![MADAM](madam_500.png)
 
-Hosts: Prof. [Marek Gagolewski](http://www.gagolewski.com) and Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
+# Seminar info
 
-Time: Fridays (selected), 14:15-16:00, room 318
-
-Place: [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), Warsaw University of Technology, [ul. Koszykowa 75](https://goo.gl/maps/83p1mQsCmrz), Warsaw, Poland
-
-Topics:
-
+<dl>
+<dt>Hosts:</dt>
+<dd>Prof. [Marek Gagolewski](http://www.gagolewski.com) and Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)</dd>
+<dt>Time:</dt>
+<dd> Fridays (selected), 14:15-16:00, room 318</dd>
+<dt>Place:</dt>
+<dd> [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), Warsaw University of Technology, [ul. Koszykowa 75](https://goo.gl/maps/83p1mQsCmrz), Warsaw, Poland</dd>
+<dt>Topics:</dt>
+<dd>
 * data aggregation and fusion
 * complex networks and agent-based models
 * machine learning algorithms
-* interdisciplinary modeling (economics, social sciences, sports, etc.)
+* interdisciplinary modeling (economics, social sciences, sports, etc.)</dd>
+</dl>
 
 # Schedule
 
