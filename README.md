@@ -22,7 +22,13 @@ Fridays (selected), 14:15-16:00
 * machine learning algorithms
 * interdisciplinary modeling (economics, social sciences, sports, etc.)
 
-## Schedule
+## Summer 2017/2018
+| Date         | Title             | Author       |
+|:-------------|:------------------|:-------------|
+| 31.02.2018   | Bla               | Lorem Ipsum  |
+
+
+## Abstracts
 ##### 30.03.2018 [Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez) <sup>\[[Ghent University](http://www.kermit.ugent.be/)\] </sup>
 
 **_Aggregation through the poset glass_**
