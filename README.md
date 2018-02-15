@@ -12,7 +12,9 @@
 Fridays (selected), 14:15-16:00
 
 #### Place:
-**room 318** [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), WUT, [ul. Koszykowa 75](https://goo.gl/maps/83p1mQsCmrz), Warsaw, Poland
+**room 318** @ [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), WUT, 
+
+[ul. Koszykowa 75](https://goo.gl/maps/83p1mQsCmrz), Warsaw, Poland
 
 #### Topics:
 * data aggregation and fusion
