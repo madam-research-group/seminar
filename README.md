@@ -23,6 +23,7 @@ Fridays (selected), 14:15-16:00
 * interdisciplinary modeling (economics, social sciences, sports, etc.)
 
 ## Summer 2017/2018
+
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
