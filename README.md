@@ -23,21 +23,6 @@ Warsaw University of Technology,
 * machine learning algorithms
 * interdisciplinary modeling (economics, social sciences, sports, etc.)
 
-  
-  <dt>topics</dt>
-<dd>
-
-* data aggregation and fusion
-* complex networks and agent-based models
-* machine learning algorithms
-* interdisciplinary modeling (economics, social sciences, sports, etc.)
-
-
-</dd>
-
-</dl>
-
-
 ## Schedule
 * 30.03.2018 [Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez) <sup>\[[Ghent University](http://www.kermit.ugent.be/)\] </sup>
 
