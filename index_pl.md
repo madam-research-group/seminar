@@ -2,21 +2,32 @@
 
 ![MADAM](madam_500.png)
 
-Organizatorzy: dr hab. inż. [Marek Gagolewski](http://www.gagolewski.com), prof. PW i dr inż. [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
+## O seminarium
 
-Czas: wybrane piątki, godz. 14:15-16:00, s. 318
+#### Prowadzący:
+* dr hab. inż. [Marek Gagolewski](http://www.gagolewski.com), prof. PW
+* dr inż. [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
-Miejsce: [Wydział Matematyki i Nauk Informacyjnych](https://ww2.mini.pw.edu.pl/) Politechniki Warszawskiej,
-[ul. Koszykowa 75](https://goo.gl/maps/83p1mQsCmrz), Warszawa
+#### Czas:
+wybrane piątki, godz. 14:15-16:00,
 
-Tematyka:
+#### Miejsce:
+**sala 318** @ [Wydział Matematyki i Nauk Informacyjnych](https://ww2.mini.pw.edu.pl/) Politechniki Warszawskiej,
+[ul. Koszykowa 75, Warszawa](https://goo.gl/maps/83p1mQsCmrz)
 
-   * agregacja i fuzja danych
-   * sieci złożone i modele agentowe
-   * algorytmy uczenia maszynowego
-   * modelowanie interdyscyplinarne (nauki ekonomiczne, społeczne itp.)
+#### Tematyka:
+* agregacja i fuzja danych
+* sieci złożone i modele agentowe
+* algorytmy uczenia maszynowego
+* modelowanie interdyscyplinarne (nauki ekonomiczne, społeczne itp.)
 
-# Plan spotkań
+#### Plan spotkań - semestr letni 2017/2018
+
+| Date        | Author       | Title |
+|:------------|:-------------|:------|
+| 31.02.2018  | John Doe     | Lorem Ipsum  |
+
+# Streszczenia referatów
 
 * 30.03.2018 [Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez) <sup>\[[Ghent University](http://www.kermit.ugent.be/)\] </sup>
 
