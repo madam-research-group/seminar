@@ -24,9 +24,11 @@ Wendesdays (selected), 16:15-18:00
 
 #### Schedule - summer semester 2017/2018
 
-| Date     | Author                                                                          | Title                       |
-|:---------|:--------------------------------------------------------------------------------|:----------------------------|
-|28.03.2018|[Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez)|Aggregation through the poset glass  |
+| Date     | Author              | Title                               |
+|:---------|:--------------------|:------------------------------------|
+|14.03.2018|Antoni Ruciński      |TBA                                  |
+|28.03.2018|Raúl Pérez-Fernández |Aggregation through the poset glass  |
+
 
 
 
