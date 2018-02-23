@@ -9,7 +9,7 @@
 * Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
 #### Time:
-Fridays (selected), 14:15-16:00
+Wendesdays (selected), 16:15-18:00
 
 #### Place:
 **room 318** @ [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), WUT, 
@@ -24,15 +24,15 @@ Fridays (selected), 14:15-16:00
 
 #### Schedule - summer semester 2017/2018
 
-| Date        | Author       | Title |
-|:------------|:-------------|:------|
-| 31.02.2018  | John Doe     | Lorem Ipsum  |
+| Date     | Author                                                                          | Title                       |
+|:---------|:--------------------------------------------------------------------------------|:----------------------------|
+|28.03.2018|[Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez)|Aggregation through the poset glass  |
 
 
 
 ## Abstracts
 
-##### 30.03.2018 [Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez) <sup>\[[Ghent University](http://www.kermit.ugent.be/)\] </sup>
+##### 28.03.2018 [Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez) <sup>\[[Ghent University](http://www.kermit.ugent.be/)\] </sup>
 
 **_Aggregation through the poset glass_**
 > The aggregation of several objects into a single one is a common study subject in mathematics. Unfortunately, whereas practitioners often need to deal with the aggregation of many different types of objects (rankings, graphs, strings, etc.), the current theory of aggregation is mostly developed for dealing with the aggregation of values in a poset. In this presentation, we will reflect on the limitations of this poset-based theory of aggregation and "jump through the poset glass". On the other side, we will not find Wonderland, but, instead, we will find more questions than answers. Indeed, a new theory of aggregation is being born, and we will need to work together on this reboot for years to come.
