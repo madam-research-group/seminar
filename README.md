@@ -40,7 +40,8 @@ Wendesdays (selected), 16:15-18:00
 **_Aggregation through the poset glass_**
 > The aggregation of several objects into a single one is a common study subject in mathematics. Unfortunately, whereas practitioners often need to deal with the aggregation of many different types of objects (rankings, graphs, strings, etc.), the current theory of aggregation is mostly developed for dealing with the aggregation of values in a poset. In this presentation, we will reflect on the limitations of this poset-based theory of aggregation and "jump through the poset glass". On the other side, we will not find Wonderland, but, instead, we will find more questions than answers. Indeed, a new theory of aggregation is being born, and we will need to work together on this reboot for years to come.
 
-#### *Winter semester 2017/2018
+* * *
+#### Winter semester 2017/2018
 
 
 ##### 26.01.2018 [Marek Gagolewski](http://www.gagolewski.com) <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/) &  [SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
