@@ -12,7 +12,7 @@
 wybrane piątki, godz. 14:15-16:00,
 
 #### Miejsce:
-**sala 318** @ [Wydział Matematyki i Nauk Informacyjnych](https://ww2.mini.pw.edu.pl/) Politechniki Warszawskiej,
+**sala 318** @ [Wydział Matematyki i Nauk Informacyjnych](https://ww2.mini.pw.edu.pl/) PW,
 [ul. Koszykowa 75, Warszawa](https://goo.gl/maps/83p1mQsCmrz)
 
 #### Tematyka:
@@ -23,7 +23,7 @@ wybrane piątki, godz. 14:15-16:00,
 
 #### Plan spotkań - semestr letni 2017/2018
 
-| Date        | Author               | Title                               |
+| Data        | Autorka/Autor        | Tytuł wystąpienia                   |
 |:------------|:---------------------|:------------------------------------|
 | 14.03.2018  | Antoni Ruciński      | TBA                                 |
 | 21.03.2018  | Agnieszka Geras      | TBA                                 |
