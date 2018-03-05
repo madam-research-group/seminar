@@ -39,7 +39,7 @@ Wendesdays (selected), 16:15-18:00
 ##### 26.01.2018 Agnieszka Geras <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/)\] </sup>
 
 **_Should we introduce a 'dislike' button for academic papers?_**
-> Citations scores and the h-index are basic tools used for measuring the quality of scientific work. Nonetheless, while evaluating academic achievements one rarely takes into consideration for what reason the paper was mentioned by another author - whether in order to highlight the connection between their work or to bring to the reader’s attention any mistakes or flaws. In my talk I will shed some insight into the problem of "negative" citations analyzing data from the Stack Exchange and using the proposed agent-based model. Joint work with [Marek Gągolewski](http://www.gagolewski.com) and [Grzegorz Siudem](http://if.pw.edu.pl/~siudem).
+> Citations scores and the h-index are basic tools used for measuring the quality of scientific work. Nonetheless, while evaluating academic achievements one rarely takes into consideration for what reason the paper was mentioned by another author - whether in order to highlight the connection between their work or to bring to the reader’s attention any mistakes or flaws. In my talk I will shed some insight into the problem of "negative" citations analyzing data from the [Stack Exchange](https://stackexchange.com/) and using the proposed agent-based model. Joint work with [Marek Gągolewski](http://www.gagolewski.com) and [Grzegorz Siudem](http://if.pw.edu.pl/~siudem).
 
 
 ##### 28.03.2018 [Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez) <sup>\[[Ghent University](http://www.kermit.ugent.be/)\] </sup>
