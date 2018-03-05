@@ -32,7 +32,7 @@ wybrane piątki, godz. 14:15-16:00,
 
 # Streszczenia referatów
 
-##### 24.11.2017 [Antoni Ruciński](https://anru-project.wixsite.com/anru-project) <sup>\[[WUT](http://fizyka.pw.edu.pl)\] </sup>
+##### 14.03.2018 [Antoni Ruciński](https://anru-project.wixsite.com/anru-project) <sup>\[[WUT](http://fizyka.pw.edu.pl)\] </sup>
 
 **_Analiza warszawskiej sieci tramwajowej_**
 > Have you ever wondered how the transport system really works and what are the trams traffic rules? What is the impact of a single tram stop to the entire network? What would happen if the most significant stop is cancelled? No? Don't worry! I guess that thousand of people travelling by public transport everyday have not wondered neither.
