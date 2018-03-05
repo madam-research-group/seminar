@@ -24,11 +24,11 @@ wybrane piątki, godz. 14:15-16:00,
 
 #### Plan spotkań - semestr letni 2017/2018
 
-| Data        | Autorka/Autor        | Tytuł wystąpienia                   |
-|:------------|:---------------------|:------------------------------------|
-| 14.03.2018  | Antoni Ruciński      | TBA                                 |
-| 21.03.2018  | Agnieszka Geras      | TBA                                 |
-| 14.03.2018  | Raúl Pérez-Fernández | Aggregation through the poset glass |
+| Data        | Autorka/Autor                          | Tytuł wystąpienia                      |
+|:------------|:---------------------------------------|:---------------------------------------|
+| 14.03.2018  | Antoni Ruciński                        | TBA                                    |
+| 21.03.2018  | Agnieszka Geras                        | Czy nauka potrzebuje ujemnych cytowań? |
+| 14.03.2018  | Raúl Pérez-Fernández                   | Aggregation through the poset glass    |
 
 # Streszczenia referatów
 
