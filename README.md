@@ -24,11 +24,11 @@ Wendesdays (selected), 16:15-18:00
 
 #### Schedule - summer semester 2017/2018
 
-| Date     | Author                                  | Title                                                      |
-|:---------|:----------------------------------------|:-----------------------------------------------------------|
-|14.03.2018|Antoni Ruciński                          |TBA                                                         |
-|21.03.2018|Agnieszka Geras                          |Should we introduce a 'dislike' button for academic papers? |
-|28.03.2018|Raúl Pérez-Fernández                     |Aggregation through the poset glass                         |
+| Date     | Author                                  | Title                                             |
+|:---------|:----------------------------------------|:--------------------------------------------------|
+|14.03.2018|Antoni Ruciński                          |TBA                                                |
+|21.03.2018|Agnieszka Geras                          |Should we introduce a 'dislike' button for papers? |
+|28.03.2018|Raúl Pérez-Fernández                     |Aggregation through the poset glass                |
 
 
 
