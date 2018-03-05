@@ -37,7 +37,7 @@ wybrane piątki, godz. 14:15-16:00,
 **_Analiza warszawskiej sieci tramwajowej_**
 > Have you ever wondered how the transport system really works and what are the trams traffic rules? What is the impact of a single tram stop to the entire network? What would happen if the most significant stop is cancelled? No? Don't worry! I guess that thousand of people travelling by public transport everyday have not wondered neither.
 
-> Online and timetable data has made it possible to answer to the questions and indicate the most meaningful features of the network. On one hand various centrality measures have been calculated to locate the most influential nodes. On the other, percentage share of individual tram lines or low-floor trams has given information about the traffic  organisation.
+> [Online](https://api.um.warszawa.pl/#) and [timetable](ftp://rozklady.ztm.waw.pl) data has made it possible to answer to the questions and indicate the most meaningful features of the network. On one hand various centrality measures have been calculated to locate the most influential nodes. On the other, percentage share of individual tram lines or low-floor trams has given information about the traffic  organisation.
 
 > What is the trams' ability to adhere to a timetable? Which lines are the most delayed and why? Don't know? Come and listen to my speech!
 
