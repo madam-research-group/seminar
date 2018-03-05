@@ -26,7 +26,7 @@ Wendesdays (selected), 16:15-18:00
 
 | Date     | Author                                  | Title                                             |
 |:---------|:----------------------------------------|:--------------------------------------------------|
-|14.03.2018|Antoni Ruciński                          |TBA                                                |
+|14.03.2018|Antoni Ruciński                          |Analysis of the Warsaw rail transport network      |
 |21.03.2018|Agnieszka Geras                          |Should we introduce a 'dislike' button for papers? |
 |28.03.2018|Raúl Pérez-Fernández                     |Aggregation through the poset glass                |
 
@@ -34,6 +34,15 @@ Wendesdays (selected), 16:15-18:00
 
 
 ## Abstracts
+
+##### 24.11.2017 [Antoni Ruciński](https://anru-project.wixsite.com/anru-project) <sup>\[[WUT](http://fizyka.pw.edu.pl)\] </sup>
+
+**_Analysis of the Warsaw rail transport network_**
+> Have you ever wondered how the transport system really works and what are the trams traffic rules? What is the impact of a single tram stop to the entire network? What would happen if the most significant stop is cancelled? No? Don't worry! I guess that thousand of people travelling by public transport everyday have not wondered neither.
+
+> Online and timetable data has made it possible to answer to the questions and indicate the most meaningful features of the network. On one hand various centrality measures have been calculated to locate the most influential nodes. On the other, percentage share of individual tram lines or low-floor trams has given information about the traffic  organisation.
+
+> What is the trams' ability to adhere to a timetable? Which lines are the most delayed and why? Don't know? Come and listen to my speech!
 
 
 ##### 21.03.2018 Agnieszka Geras <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/)\] </sup>
