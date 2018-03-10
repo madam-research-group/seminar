@@ -9,7 +9,7 @@
 * dr inż. [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
 #### Czas:
-wybrane piątki, godz. 14:15-16:00,
+wybrane środy, godz. 16:15-18:00,
 
 #### Miejsce:
 **sala 318** @ [Wydział Matematyki i Nauk Informacyjnych](https://ww2.mini.pw.edu.pl/) Politechniki Warszawskiej,
