@@ -32,6 +32,17 @@ wybrane środy, godz. 16:15-18:00,
 
 # Streszczenia referatów
 
+##### 28.03.2018 [Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez) <sup>\[[Ghent University](http://www.kermit.ugent.be/)\] </sup>
+
+**Aggregation through the poset glass**
+> The aggregation of several objects into a single one is a common study subject in mathematics. Unfortunately, whereas practitioners often need to deal with the aggregation of many different types of objects (rankings, graphs, strings, etc.), the current theory of aggregation is mostly developed for dealing with the aggregation of values in a poset. In this presentation, we will reflect on the limitations of this poset-based theory of aggregation and "jump through the poset glass". On the other side, we will not find Wonderland, but, instead, we will find more questions than answers. Indeed, a new theory of aggregation is being born, and we will need to work together on this reboot for years to come.
+
+##### 21.03.2018 Agnieszka Geras <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/)\] </sup>
+
+**_Czy nauka potrzebuje ujemnych cytowań?_**
+> Citations scores and the h-index are basic tools used for measuring the quality of scientific work. Nonetheless, while evaluating academic achievements one rarely takes into consideration for what reason the paper was mentioned by another author - whether in order to highlight the connection between their work or to bring to the reader’s attention any mistakes or flaws. In my talk I will shed some insight into the problem of "negative" citations analyzing data from the [Stack Exchange](https://stackexchange.com/) and using the proposed agent-based model. Joint work with [Marek Gągolewski](http://www.gagolewski.com) and [Grzegorz Siudem](http://if.pw.edu.pl/~siudem).
+
+
 ##### 14.03.2018 [Antoni Ruciński](https://anru-project.wixsite.com/anru-project) <sup>\[[WUT](http://fizyka.pw.edu.pl)\] </sup>
 
 **_Analiza warszawskiej sieci tramwajowej_**
@@ -41,18 +52,6 @@ wybrane środy, godz. 16:15-18:00,
 
 > What is the trams' ability to adhere to a timetable? Which lines are the most delayed and why? Don't know? Come and listen to my speech!
 
-
-
-##### 21.03.2018 Agnieszka Geras <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/)\] </sup>
-
-**_Czy nauka potrzebuje ujemnych cytowań?_**
-> Citations scores and the h-index are basic tools used for measuring the quality of scientific work. Nonetheless, while evaluating academic achievements one rarely takes into consideration for what reason the paper was mentioned by another author - whether in order to highlight the connection between their work or to bring to the reader’s attention any mistakes or flaws. In my talk I will shed some insight into the problem of "negative" citations analyzing data from the [Stack Exchange](https://stackexchange.com/) and using the proposed agent-based model. Joint work with [Marek Gągolewski](http://www.gagolewski.com) and [Grzegorz Siudem](http://if.pw.edu.pl/~siudem).
-
-
-##### 28.03.2018 [Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez) <sup>\[[Ghent University](http://www.kermit.ugent.be/)\] </sup>
-
-**Aggregation through the poset glass**
-> The aggregation of several objects into a single one is a common study subject in mathematics. Unfortunately, whereas practitioners often need to deal with the aggregation of many different types of objects (rankings, graphs, strings, etc.), the current theory of aggregation is mostly developed for dealing with the aggregation of values in a poset. In this presentation, we will reflect on the limitations of this poset-based theory of aggregation and "jump through the poset glass". On the other side, we will not find Wonderland, but, instead, we will find more questions than answers. Indeed, a new theory of aggregation is being born, and we will need to work together on this reboot for years to come.
 
 * * *
 #### Semestr zimowy 2017/2018
