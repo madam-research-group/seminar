@@ -26,6 +26,7 @@ Wednesdays (selected), 16:15-18:00
 
 | Date     | Author                                  | Title                                             |
 |:---------|:----------------------------------------|:--------------------------------------------------|
+|14.03.2018|Antoni Ruciński                          |Analysis of the Warsaw rail transport network      |
 |21.03.2018|Agnieszka Geras                          |Should we introduce a 'dislike' button for papers? |
 |28.03.2018|Raúl Pérez-Fernández                     |Aggregation through the poset glass                |
 
