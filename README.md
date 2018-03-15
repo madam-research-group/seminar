@@ -9,7 +9,7 @@
 * Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
 #### Time:
-Wendesdays (selected), 16:15-18:00
+Wednesdays (selected), 16:15-18:00
 
 #### Place:
 **room 318** @ [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), WUT, 
