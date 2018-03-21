@@ -12,7 +12,7 @@
 Wednesdays (selected), 16:15-18:00
 
 #### Place:
-**room 318** @ [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), WUT, 
+**room 431** @ [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), WUT, 
 
 [ul. Koszykowa 75, Warsaw, Poland](https://goo.gl/maps/83p1mQsCmrz)
 
