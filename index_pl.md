@@ -12,7 +12,7 @@
 wybrane środy, godz. 16:15-18:00,
 
 #### Miejsce:
-**sala 318** @ [Wydział Matematyki i Nauk Informacyjnych](https://ww2.mini.pw.edu.pl/) Politechniki Warszawskiej,
+**sala 431** @ [Wydział Matematyki i Nauk Informacyjnych](https://ww2.mini.pw.edu.pl/) Politechniki Warszawskiej,
 
 [ul. Koszykowa 75, Warszawa](https://goo.gl/maps/83p1mQsCmrz)
 
