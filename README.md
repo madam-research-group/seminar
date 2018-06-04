@@ -94,7 +94,7 @@ During my presentation I will show this unintuitive result both by means of nume
 
 | Date     | Author                  | Title                                                                                  |
 |:---------|:------------------------|:---------------------------------------------------------------------------------------|
-|24.11.2017|[Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)           |[How accidental scientific success is?](#24-11-2017)              |
+|24.11.2017|[Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)           |[How accidental scientific success is?](#24112017)              |
 |05.01.2018|[Jan Lasek](http://lasek.rexamine.com/)                       |Measuring the efficacy of league formats           |
 |26.01.2018|[Marek Gagolewski](http://www.gagolewski.com)                 |Stochastic properties of discrete Sugeno integrals |
 
