@@ -92,11 +92,11 @@ During my presentation I will show this unintuitive result both by means of nume
 * * *
 #### Winter semester 2017/2018
 
-| Date     | Author                  | Title                                                                   |
-|:---------|:------------------------|:------------------------------------------------------------------------|
-|24.11.2017|[Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)|How accidental scientific success is?|
-|05.01.2018|[Jan Lasek](http://lasek.rexamine.com/)|Measuring the efficacy of league formats in ranking football teams  |
-|26.01.2018|[Marek Gagolewski](http://www.gagolewski.com) |Stochastic properties of the Hirsch index and other discrete Sugeno integrals |
+| Date     | Author                  | Title                                                                                  |
+|:---------|:------------------------|:---------------------------------------------------------------------------------------|
+|24.11.2017|[Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)           |How accidental scientific success is?              |
+|05.01.2018|[Jan Lasek](http://lasek.rexamine.com/)                       |Measuring the efficacy of league formats           |
+|26.01.2018|[Marek Gagolewski](http://www.gagolewski.com)                 |Stochastic properties of discrete Sugeno integrals |
 
 
 ##### 26.01.2018 [Marek Gagolewski](http://www.gagolewski.com) <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/) &  [SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
