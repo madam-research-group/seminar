@@ -112,8 +112,10 @@ During my presentation I will show this unintuitive result both by means of nume
 
 
 #### 24.11.2017  
-##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[[WUT](http://fizyka.pw.edu.pl)\] </sup>
 
 **_How accidental scientific success is?_**
+
+##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[[WUT](http://fizyka.pw.edu.pl)\] </sup>
+
 > Since the classic work of de Sola Price the rich get richer rule is well known as a most important mechanism governing the citation network dynamic. (Un-)Fortunatelly it is not sufficient to explain every aspect of the bibliometric data. Using the proposed agent-based model for the bibliometric networks we will shed some light on the problem and try  to answer the important question from the title.  Joint work with [A. Cena](http://cena.rexamine.com), [M. Gagolewski](http://www.gagolewski.com) and B. Żogała-Siudem.
 
