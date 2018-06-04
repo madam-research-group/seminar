@@ -111,9 +111,9 @@ During my presentation I will show this unintuitive result both by means of nume
 > Choosing between different tournament designs based on their accuracy in ranking teams is an important topic in football since many domestic championships underwent changes in the recent years. In particular, the transformations of Ekstraklasa -- the top-tier football competition in Poland -- is a topic receiving much attention from the organizing body of the competition, participating football clubs as well as supporters. In this presentation we will discuss the problem of measuring the accuracy of different league formats in ranking teams. We will present various models for rating teams that will be next used to simulate a number of tournaments to evaluate their efficacy, for example, by measuring the probability of the best team win. Finally, we will discuss several other aspects of league formats including the influence of the number of points allocated for a win on the final league standings.
 
 
-#### 24.11.2017  
+##### 24.11.2017  
 
-**_How accidental scientific success is?_**
+#### **_How accidental scientific success is?_**
 
 ##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[[WUT](http://fizyka.pw.edu.pl)\] </sup>
 
