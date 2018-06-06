@@ -95,20 +95,25 @@ During my presentation I will show this unintuitive result both by means of nume
 | Date     | Author                  | Title                                                                                  |
 |:---------|:------------------------|:---------------------------------------------------------------------------------------|
 |24.11.2017|[Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)           |[How accidental scientific success is?](#24112017)              |
-|05.01.2018|[Jan Lasek](http://lasek.rexamine.com/)                       |Measuring the efficacy of league formats           |
-|26.01.2018|[Marek Gagolewski](http://www.gagolewski.com)                 |Stochastic properties of discrete Sugeno integrals |
+|05.01.2018|[Jan Lasek](http://lasek.rexamine.com/)                       |[Measuring the efficacy of league formats](05012018)           |
+|26.01.2018|[Marek Gagolewski](http://www.gagolewski.com)                 |[Stochastic properties of discrete Sugeno integrals](26012018) |
+
+###### 26.01.2018  
+
+#### **_Stochastic properties of the Hirsch index and other discrete Sugeno integrals_**
+
+##### [Marek Gagolewski](http://www.gagolewski.com) <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/) &  [SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
+
+> <div style="text-align:justify">Hirsch's h-index is perhaps the most popular citation-based measure of scientific excellence. Many of its natural generalizations can be expressed as simple functions of some discrete Sugeno integrals. In this talk we shall review some less-known results concerning various stochastic properties of the discrete Sugeno integral with respect to a symmetric normalized capacity, i.e., weighted lattice polynomial functions of real-valued random variables - both in i.i.d. (independent and identically distributed) and non-i.i.d. (with some dependence structure) cases. For instance, we will be interested in investigating their exact and asymptotic distributions. Based on these, we can, among others, show that the h-index is a consistent estimator of some natural probability distribution's location characteristic. Moreover, we can derive a statistical test to verify whether the difference between two h-indices (say, h'=7 vs. h''=10 in cases where both authors published 40 papers) is actually significant.</div>
 
 
-##### 26.01.2018 [Marek Gagolewski](http://www.gagolewski.com) <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/) &  [SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
+###### 05.01.2018  
 
-**_Stochastic properties of the Hirsch index and other discrete Sugeno integrals_**
-> Hirsch's h-index is perhaps the most popular citation-based measure of scientific excellence. Many of its natural generalizations can be expressed as simple functions of some discrete Sugeno integrals. In this talk we shall review some less-known results concerning various stochastic properties of the discrete Sugeno integral with respect to a symmetric normalized capacity, i.e., weighted lattice polynomial functions of real-valued random variables - both in i.i.d. (independent and identically distributed) and non-i.i.d. (with some dependence structure) cases. For instance, we will be interested in investigating their exact and asymptotic distributions. Based on these, we can, among others, show that the h-index is a consistent estimator of some natural probability distribution's location characteristic. Moreover, we can derive a statistical test to verify whether the difference between two h-indices (say, h'=7 vs. h''=10 in cases where both authors published 40 papers) is actually significant.
+#### **_Measuring the efficacy of league formats in ranking football teams_**
 
+##### [Jan Lasek](http://lasek.rexamine.com/) <sup>[[deepsense.ai](https://deepsense.ai/)]</sup>
 
-##### 05.01.2018 [Jan Lasek](http://lasek.rexamine.com/) <sup>[[deepsense.ai](https://deepsense.ai/)]</sup>
-
-**_Measuring the efficacy of league formats in ranking football teams_**
-> Choosing between different tournament designs based on their accuracy in ranking teams is an important topic in football since many domestic championships underwent changes in the recent years. In particular, the transformations of Ekstraklasa -- the top-tier football competition in Poland -- is a topic receiving much attention from the organizing body of the competition, participating football clubs as well as supporters. In this presentation we will discuss the problem of measuring the accuracy of different league formats in ranking teams. We will present various models for rating teams that will be next used to simulate a number of tournaments to evaluate their efficacy, for example, by measuring the probability of the best team win. Finally, we will discuss several other aspects of league formats including the influence of the number of points allocated for a win on the final league standings.
+> <div style="text-align:justify">Choosing between different tournament designs based on their accuracy in ranking teams is an important topic in football since many domestic championships underwent changes in the recent years. In particular, the transformations of Ekstraklasa -- the top-tier football competition in Poland -- is a topic receiving much attention from the organizing body of the competition, participating football clubs as well as supporters. In this presentation we will discuss the problem of measuring the accuracy of different league formats in ranking teams. We will present various models for rating teams that will be next used to simulate a number of tournaments to evaluate their efficacy, for example, by measuring the probability of the best team win. Finally, we will discuss several other aspects of league formats including the influence of the number of points allocated for a win on the final league standings.</div>
 
 
 ###### 24.11.2017  
