@@ -24,14 +24,15 @@ Wednesdays (selected), 16:15-18:00
 
 #### Schedule - summer semester 2017/2018
 
-| Date     | Author                       | Title                                                                   |
-|:---------|:-----------------------------|:------------------------------------------------------------------------|
-|14.03.2018|Antoni Ruciński               |Analysis of the Warsaw rail transport network                            |
-|21.03.2018|Agnieszka Geras               |Should we introduce a 'dislike' button for papers?                       |
-|28.03.2018|Raúl Pérez-Fernández          |Aggregation through the poset glass                                      |
-|08.06.2018|Hossein Yazdani               |Bounded Fuzzy Possibilistic Method of Critical Objects Processing        |
-|20.06.2018|Maciej Bartoszuk              |A source code similarity assessment system                               |
-|27.06.2018|Mateusz Wiliński              |Detectability of Macroscopic Structures in Directed Network              |
+| Date       | Author                       | Title                                                                   |
+|:-----------|:-----------------------------|:------------------------------------------------------------------------|
+| 14.03.2018 |  Antoni Ruciński             |Analysis of the Warsaw rail transport network                            |
+| 21.03.2018 |  Agnieszka Geras             |Should we introduce a 'dislike' button for papers?                       |
+| 28.03.2018 |  Raúl Pérez-Fernández        |Aggregation through the poset glass                                      |
+| 08.06.2018 |  Hossein Yazdani             |Bounded Fuzzy Possibilistic Method of Critical Objects Processing        |
+| 18.06.2018 |  Maciej J. Mrowiński         |TBA                                                                      |
+| 20.06.2018 |  Maciej Bartoszuk            |A source code similarity assessment system                               |
+| 27.06.2018 |  Mateusz Wiliński            |Detectability of Macroscopic Structures in Directed Network              |
 
 
 
