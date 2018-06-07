@@ -77,7 +77,7 @@ During my presentation I will show this unintuitive result both by means of nume
 ##### 21.03.2018 Agnieszka Geras <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/)\] </sup>
 
 **_Should we introduce a 'dislike' button for academic papers?_**
-> <div style="text-align:justify">Citations scores and the h-index are basic tools used for measuring the quality of scientific work. Nonetheless, while evaluating academic achievements one rarely takes into consideration for what reason the paper was mentioned by another author - whether in order to highlight the connection between their work or to bring to the reader’s attention any mistakes or flaws. In my talk I will shed some insight into the problem of "negative" citations analyzing data from the <a hrev="https://stackexchange.com">Stack Exchange</a> and using the proposed agent-based model. Joint work with  <a href="http://www.gagolewski.com">M. Gągolewski</a>  and <a hrev="http://if.pw.edu.pl/~siudem">G. Siudem</a>.</div>
+> <div style="text-align:justify">Citations scores and the h-index are basic tools used for measuring the quality of scientific work. Nonetheless, while evaluating academic achievements one rarely takes into consideration for what reason the paper was mentioned by another author - whether in order to highlight the connection between their work or to bring to the reader’s attention any mistakes or flaws. In my talk I will shed some insight into the problem of "negative" citations analyzing data from the <a hrev="https://stackexchange.com">Stack Exchange</a> and using the proposed agent-based model. Joint work with  <a href="http://www.gagolewski.com">M. Gągolewski</a>  and <a href="http://if.pw.edu.pl/~siudem">G. Siudem</a>.</div>
 
 
 
