@@ -26,13 +26,13 @@ Wednesdays (selected), 16:15-18:00
 
 | Date     | Author                     | Title                                                                                |
 |:---------|:---------------------------|:-------------------------------------------------------------------------------------|
-|14.03.2018|Antoni Ruciński             |[Analysis of the Warsaw rail transport network](#14032018)                            |
+|14.03.2018|[Antoni Ruciński](https://anru-project.wixsite.com/anru-project)             |[Analysis of the Warsaw rail transport network](#14032018)                            |
 |21.03.2018|Agnieszka Geras             |[Should we introduce a 'dislike' button for papers?](#21032018)                       |
-|28.03.2018|Raúl Pérez-Fernández        |[Aggregation through the poset glass](#28032018)                                      |
-|08.06.2018|Hossein Yazdani             |[Bounded Fuzzy Possibilistic Method of Critical Objects Processing](#08062018)        |
+|28.03.2018|[Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez)        |[Aggregation through the poset glass](#28032018)                                      |
+|08.06.2018|[Hossein Yazdani](https://www.researchgate.net/profile/Hossein_Yazdani)             |[Bounded Fuzzy Possibilistic Method of Critical Objects Processing](#08062018)        |
 |18.06.2018|Maciej J. Mrowiński         |TBA                                                                                   |
-|20.06.2018|Maciej Bartoszuk            |[A source code similarity assessment system](#20062018)                               |
-|27.06.2018|Mateusz Wiliński            |[Detectability of Macroscopic Structures in Directed Network](#27062018)              |
+|20.06.2018|[Maciej Bartoszuk](http://bartoszuk.rexamine.com/)                           |[A source code similarity assessment system](#20062018)                                      |
+|27.06.2018|[Mateusz Wiliński](https://www.researchgate.net/profile/Mateusz_Wilinski)    |[Detectability of Macroscopic Structures in Directed Network](#27062018)              |
 
 
 
