@@ -77,18 +77,18 @@ During my presentation I will show this unintuitive result both by means of nume
 ##### 21.03.2018 Agnieszka Geras <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/)\] </sup>
 
 **_Should we introduce a 'dislike' button for academic papers?_**
-> <div style="text-align:justify">Citations scores and the h-index are basic tools used for measuring the quality of scientific work. Nonetheless, while evaluating academic achievements one rarely takes into consideration for what reason the paper was mentioned by another author - whether in order to highlight the connection between their work or to bring to the reader’s attention any mistakes or flaws. In my talk I will shed some insight into the problem of "negative" citations analyzing data from the <a hrev="https://stackexchange.com/">Stack Exchange</a> and using the proposed agent-based model. Joint work with <a hrev="http://www.gagolewski.com">M. Gągolewski</a>  and <a hrev="http://if.pw.edu.pl/~siudem">G. Siudem</a>.</div>
+> <div style="text-align:justify">Citations scores and the h-index are basic tools used for measuring the quality of scientific work. Nonetheless, while evaluating academic achievements one rarely takes into consideration for what reason the paper was mentioned by another author - whether in order to highlight the connection between their work or to bring to the reader’s attention any mistakes or flaws. In my talk I will shed some insight into the problem of "negative" citations analyzing data from the <a hrev="https://stackexchange.com">Stack Exchange</a> and using the proposed agent-based model. Joint work with <a hrev="http://www.gagolewski.com">M. Gągolewski</a>  and <a hrev="http://if.pw.edu.pl/~siudem">G. Siudem</a>.</div>
 
 
 
 ##### 14.03.2018 [Antoni Ruciński](https://anru-project.wixsite.com/anru-project) <sup>\[[WUT](http://fizyka.pw.edu.pl)\] </sup>
 
 **_Analysis of the Warsaw rail transport network_**
-><div style="text-align:justify"> Have you ever wondered how the transport system really works and what are the trams traffic rules? What is the impact of a single tram stop to the entire network? What would happen if the most significant stop is cancelled? No? Don't worry! I guess that thousand of people travelling by public transport everyday have not wondered neither.</ div>
+><div style="text-align:justify"> Have you ever wondered how the transport system really works and what are the trams traffic rules? What is the impact of a single tram stop to the entire network? What would happen if the most significant stop is cancelled? No? Don't worry! I guess that thousand of people travelling by public transport everyday have not wondered neither.</div>
 
-> <div style="text-align:justify"> <a hrev="https://api.um.warszawa.pl/#">Online</a> and <a hrev="ftp://rozklady.ztm.waw.pl">timetable</a> data has made it possible to answer to the questions and indicate the most meaningful features of the network. On one hand various centrality measures have been calculated to locate the most influential nodes. On the other, percentage share of individual tram lines or low-floor trams has given information about the traffic  organisation.</ div>
+> <div style="text-align:justify"> <a hrev="https://api.um.warszawa.pl/">Online</a> and <a hrev="ftp://rozklady.ztm.waw.pl">timetable</a> data has made it possible to answer to the questions and indicate the most meaningful features of the network. On one hand various centrality measures have been calculated to locate the most influential nodes. On the other, percentage share of individual tram lines or low-floor trams has given information about the traffic  organisation.</div>
 
-> <div style="text-align:justify"> What is the trams' ability to adhere to a timetable? Which lines are the most delayed and why? Don't know? Come and listen to my speech!</ div>
+> <div style="text-align:justify"> What is the trams' ability to adhere to a timetable? Which lines are the most delayed and why? Don't know? Come and listen to my speech!</div>
 
 
 
