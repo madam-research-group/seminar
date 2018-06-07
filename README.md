@@ -139,7 +139,7 @@ During my presentation I will show this unintuitive result both by means of nume
 
 #### **_How accidental scientific success is?_**
 
-##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[[WUT](http://fizyka.pw.edu.pl)\] </sup>
+##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[ <a href="http://fizyka.pw.edu.pl)\" style="color:crimson;">WUT</a>] </sup>
 
-> <div style="text-align:justify">Since the classic work of de Sola Price the rich get richer rule is well known as a most important mechanism governing the citation network dynamic. (Un-)Fortunatelly it is not sufficient to explain every aspect of the bibliometric data. Using the proposed agent-based model for the bibliometric networks we will shed some light on the problem and try  to answer the important question from the title.  Joint work with  <a href="http://cena.rexamine.com" style="color:crimson;">A. Cena</a>, <a href="http://www.gagolewski.com">M. Gagolewski</a> and B. Żogała-Siudem. </div>
+> <div style="text-align:justify">Since the classic work of de Sola Price the rich get richer rule is well known as a most important mechanism governing the citation network dynamic. (Un-)Fortunatelly it is not sufficient to explain every aspect of the bibliometric data. Using the proposed agent-based model for the bibliometric networks we will shed some light on the problem and try  to answer the important question from the title.  Joint work with  <a href="http://cena.rexamine.com">A. Cena</a>, <a href="http://www.gagolewski.com">M. Gagolewski</a> and B. Żogała-Siudem. </div>
 
