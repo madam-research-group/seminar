@@ -46,7 +46,7 @@ Wednesdays (selected), 16:15-18:00
 
 #### **_Detectability of Macroscopic Structures in Directed Networks: a Stochastic Block Model Approach_**
 
-##### 27.06.2018 [Mateusz Wiliński](https://www.researchgate.net/profile/Mateusz_Wilinski) <sup>\[[Scuola Normale Superiore di Pisa](www.sns.it)\] </sup>
+##### [Mateusz Wiliński](https://www.researchgate.net/profile/Mateusz_Wilinski) <sup>\[[Scuola Normale Superiore di Pisa](www.sns.it)\] </sup>
 
 > <div style="text-align:justify">Disentangling network macroscopic structures is one of the funding problems in complexity science and also an important subjects in other fields like mathematics, physics or computer science. It is also interesting from the point of view of machine learning and data mining. One of the most basic models of communities in networks are the stochastic block models. It was recently shown in that in this case the detectability of real communities only from the network topology is limited. Even though the results were shown only for planted partition, where there are only two parameters, the conclusions are universal.</div>
 
