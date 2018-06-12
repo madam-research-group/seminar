@@ -65,7 +65,7 @@ During my presentation I will show this unintuitive result both by means of nume
 
 ###### 18.06.2018  
 
-#### **_ Cartesian Genetic Programming with memory _**
+#### **_Cartesian Genetic Programming with memory_**
 
 ##### Maciej J. Mrowiński <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
 
