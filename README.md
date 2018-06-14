@@ -30,8 +30,8 @@ Wednesdays (selected), 16:15-18:00
 |21.03.2018|Agnieszka Geras             |[Should we introduce a 'dislike' button for papers?](#21032018)                       |
 |28.03.2018|[Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez)        |[Aggregation through the poset glass](#28032018)                                      |
 |08.06.2018|[Hossein Yazdani](https://www.researchgate.net/profile/Hossein_Yazdani)             |[Bounded Fuzzy Possibilistic Method of Critical Objects Processing](#08062018)        |
-|21.06.2018|Maciej J. Mrowiński         |[ Cartesian Genetic Programming with memory](#18062018)                                                                                   |
-|21.06.2018|[Maciej Bartoszuk](http://bartoszuk.rexamine.com/)                           |[A source code similarity assessment system](#20062018)                                      |
+|21.06.2018|Maciej J. Mrowiński         |[ Cartesian Genetic Programming with memory](#21062018)                                                                                   |
+|20.06.2018|[Maciej Bartoszuk](http://bartoszuk.rexamine.com/)                           |[A source code similarity assessment system](#20062018)                                      |
 |27.06.2018|[Mateusz Wiliński](https://www.researchgate.net/profile/Mateusz_Wilinski)    |[Detectability of Macroscopic Structures in Directed Network](#27062018)              |
 
 
@@ -62,8 +62,7 @@ During my presentation I will show this unintuitive result both by means of nume
 
 ##### Maciej J. Mrowiński <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
 
-> <div style="text-align:justify">Cartesian Genetic Programming (CGP) is an evolutionary programming algorithm whose purpose is to evolve computer programs using concepts inspired by natural selection. It's range of applications is wide and
-includes problems like optimisation or image processing. Programs in CGP are encoded as graphs. The structure of an encoded CGP program is very similar to a multilayer perceptron network with different activation functions assigned to nodes and with equal weights of all connections. A CGP program is evolved using the so called 4+1 algorithm, which tries to maximise a user-provided fitness function by creating, via mutation, new generations of programs. </div>
+> <div style="text-align:justify">Cartesian Genetic Programming (CGP) is an evolutionary programming algorithm whose purpose is to evolve computer programs using concepts inspired by natural selection. It's range of applications is wide and includes problems like optimisation or image processing. Programs in CGP are encoded as graphs. The structure of an encoded CGP program is very similar to a multilayer perceptron network with different activation functions assigned to nodes and with equal weights of all connections. A CGP program is evolved using the so called 4+1 algorithm, which tries to maximise a user-provided fitness function by creating, via mutation, new generations of programs. </div>
 
 > <div style="text-align:justify">Recurrent Cartesian Genetic Programming (RCGP) is a variant of CGP which allows cycles in the graphs representing programs, which implicitly introduces memory into CGP. The addition of memory broadens the range of applications of CGP and makes it a more viable tool for problems like time series forecasting. In our work, we propose a modification of CGP which results in an explicit inclusion of memory. We achieve this by directly including a shift register in each node of the CGP graph and constantly providing these registers with values processed by nodes. Thanks to this approach (which we call SRMCGP Shift Register Memory CGP), users gain fine-grained control over the memory in the program, which is not possible in RCGP, and avoid forward, recurrent connections. In order to study the memory capabilities of RCGP and SRMCGP, we performed numerical simulations of programs whose purpose was to memorise and repeat the input signal after a given number of time steps. Our results suggest that SRMCGP is much more efficient than RCGP [UTF-8?]â usable solutions/programs can be acquired faster through SRMCGP. Additionally, SRMCGP results in a smaller number of active nodes which makes SRMCGP programs less costly (it terms of computation time) to decode. SRMCGP is also more likely to actually create usable solutions/programs.
  </div>
@@ -87,7 +86,7 @@ includes problems like optimisation or image processing. Programs in CGP are enc
 
 ###### 08.06.2018  
 
-**Friday 12:15, [SRI PAS](http://www.ibspan.waw.pl/glowna/en) room 200**
+**<div style="color:crimson;> Friday 12:15, <a href="http://www.ibspan.waw.pl/glowna/en">SRI PAS</a> room 200 </div>**
 
 #### **_Bounded Fuzzy Possibilistic Method of Critical Objects Processing in Machine Learning_**
 
@@ -161,7 +160,7 @@ includes problems like optimisation or image processing. Programs in CGP are enc
 
 #### **_How accidental scientific success is?_**
 
-##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[ <a href="http://fizyka.pw.edu.pl)\" style="color:crimson;">WUT</a> ] </sup>
+##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
 
 > <div style="text-align:justify">Since the classic work of de Sola Price the rich get richer rule is well known as a most important mechanism governing the citation network dynamic. (Un-)Fortunatelly it is not sufficient to explain every aspect of the bibliometric data. Using the proposed agent-based model for the bibliometric networks we will shed some light on the problem and try  to answer the important question from the title.  Joint work with  <a href="http://cena.rexamine.com">A. Cena</a>, <a href="http://www.gagolewski.com">M. Gagolewski</a> and B. Żogała-Siudem. </div>
 
