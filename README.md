@@ -47,7 +47,6 @@ Wednesdays (selected), 16:15-18:00
 
 
 ---
----
 
 
 #### Schedule -  2017/2018
