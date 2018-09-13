@@ -28,8 +28,7 @@ Wednesdays (selected), 16:15-18:00
 
 | Date     | Author                     | Title                                                                                |
 |:---------|:---------------------------|:-------------------------------------------------------------------------------------|
-|20.09.2018|[Anna Cena](http://cena.rexamine.com/)|[Adaptive hierarchical clustering algorithms based on data aggregation
-methods](#20092018)                                                                                                            |
+|20.09.2018|[Anna Cena](http://cena.rexamine.com/)|[Adaptive hierarchical clustering algorithms based on data aggregation methods](#20092018)                                                                                                            |
 
 
 
@@ -64,7 +63,7 @@ methods](#20092018)                                                             
 |08.06.2018|[Hossein Yazdani](https://www.researchgate.net/profile/Hossein_Yazdani) |[Bounded Fuzzy Possibilistic Method of Critical Objects Processing](#08062018)                                                                                        |
 |21.06.2018|Maciej J. Mrowiński                                      |[ Cartesian Genetic Programming with memory](#21062018)  |
 |20.06.2018|[Maciej Bartoszuk](http://bartoszuk.rexamine.com/)       |[A source code similarity assessment system](#20062018)  |
-|27.06.2018|[Mateusz Wiliński](https://www.researchgate.net/profile/Mateusz_Wilinski)  [Detectability of Macroscopic Structures in Directed Network](#27062018)                                                                                                |
+|27.06.2018|[Mateusz Wiliński](https://www.researchgate.net/profile/Mateusz_Wilinski)|  [Detectability of Macroscopic Structures in Directed Network](#27062018)                                                                                                |
 
 
 
