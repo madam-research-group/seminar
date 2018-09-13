@@ -23,7 +23,7 @@ wybrane czwartki, godz. wkrótce,
 * modelowanie interdyscyplinarne (nauki ekonomiczne, społeczne itp.)
 
 
-#### Schedule 
+### Terminy spotkań 
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
@@ -32,7 +32,7 @@ wybrane czwartki, godz. wkrótce,
 
 
 
-## Abstracts
+### Streszczenia referatów
 
 ###### 20.09.2018  
 
@@ -48,7 +48,7 @@ wybrane czwartki, godz. wkrótce,
 ---
 
 
-#### Schedule -  2017/2018
+#### Terminy -  2017/2018
 
 | Date     | Author                     | Title                                                                                |
 |:---------|:---------------------------|:-------------------------------------------------------------------------------------|
@@ -71,7 +71,7 @@ wybrane czwartki, godz. wkrótce,
 
 
 
-## Streszczenia referatów - 2017/2018
+### Streszczenia referatów - 2017/2018
 
 
 ###### 27.06.2018  
