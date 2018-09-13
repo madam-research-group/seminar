@@ -37,7 +37,8 @@ Thursdays (selected), TBA
 
 ###### 20.09.2018  
 
-<div style="color:crimson;"> Thursday 16:15 </div>
+<div style="color:crimson;"> Thursday 16:15, **room 431** @ [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), WUT, 
+ </div>
 
 
 #### **_Adaptive hierarchical clustering algorithms based on data aggregation methods_**
