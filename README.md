@@ -37,6 +37,9 @@ Thursdays (selected), TBA
 
 ###### 20.09.2018  
 
+<div style="color:crimson;"> Thursday 16:15 </div>
+
+
 #### **_Adaptive hierarchical clustering algorithms based on data aggregation methods_**
 
 ##### [Anna Cena](http://cena.rexamine.com/) <sup>\[[SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
