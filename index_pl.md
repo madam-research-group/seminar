@@ -9,7 +9,7 @@
 * dr inż. [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
 #### Czas:
-wybrane czwartki, godz. wkrótce,
+wybrane czwartki, godz. 12:15-14:00,
 
 #### Miejsce:
 **sala 431** @ [Wydział Matematyki i Nauk Informacyjnych](https://ww2.mini.pw.edu.pl/) Politechniki Warszawskiej,
@@ -25,9 +25,9 @@ wybrane czwartki, godz. wkrótce,
 
 ### Terminy spotkań 
 
-| Date     | Author                                       | Title                                                               |
-|:---------|:---------------------------------------------|:--------------------------------------------------------------------|
-|20.09.2018|[Anna Cena](http://cena.rexamine.com/) |[Adaptive hierarchical clustering algorithms based on data aggregation methods](#20092018)                                                                                                             |
+| Date     | Author                                     | Title                                                              |
+|:---------|:-------------------------------------------|:-------------------------------------------------------------------|
+|20.09.2018|[Anna Cena](http://cena.rexamine.com/)      |[Adaptacyjne algorytmy hierarchicznej analizy skupień oparte na metodach agregacji danych](#20092018)                                                                                                             |
 
 
 
