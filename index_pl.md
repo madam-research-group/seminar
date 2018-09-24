@@ -12,9 +12,7 @@
 wybrane czwartki, godz. 12:15-14:00,
 
 #### Miejsce:
-**sala 431** @ [Wydział Matematyki i Nauk Informacyjnych](https://ww2.mini.pw.edu.pl/) Politechniki Warszawskiej,
-
-[ul. Koszykowa 75, Warszawa](https://goo.gl/maps/83p1mQsCmrz)
+**sala 431** @ [Wydział Matematyki i Nauk Informacyjnych](https://ww2.mini.pw.edu.pl/) PW, [ul. Koszykowa 75, Warszawa](https://goo.gl/maps/83p1mQsCmrz)
 
 #### Tematyka:
 * agregacja i fuzja danych
