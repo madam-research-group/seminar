@@ -27,7 +27,7 @@ Thursdays (selected), 12:15-14:00
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
 |20.09.2018|[Anna Cena](http://cena.rexamine.com/) |[Adaptive hierarchical clustering algorithms based on data aggregation methods](#20092018)                                                                                                            |
-|04.10.2018|Agnieszka I. Geras |[Power law and its application](#04102018)    
+|04.10.2018|Agnieszka I. Geras                     |[Power law and its application](#04102018)                             |
 
 
 
