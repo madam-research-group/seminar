@@ -25,7 +25,8 @@ wybrane czwartki, godz. 12:15-14:00,
 
 | Date     | Author                                     | Title                                                              |
 |:---------|:-------------------------------------------|:-------------------------------------------------------------------|
-|20.09.2018|[Anna Cena](http://cena.rexamine.com/)      |[Adaptacyjne algorytmy hierarchicznej analizy skupień oparte na metodach agregacji danych](#20092018)                                                                                                             ||04.10.2018|Agnieszka I. Geras |[Rozkłady potęgowe i ich zastosowania](#04102018)    
+|20.09.2018|[Anna Cena](http://cena.rexamine.com/)      |[Adaptacyjne algorytmy hierarchicznej analizy skupień oparte na metodach agregacji danych](#20092018)                      |
+|04.10.2018|Agnieszka I. Geras                          |[Rozkłady potęgowe i ich zastosowania](#04102018)                   |
 
 
 
