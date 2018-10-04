@@ -25,12 +25,25 @@ wybrane czwartki, godz. 12:15-14:00,
 
 | Date     | Author                                     | Title                                                              |
 |:---------|:-------------------------------------------|:-------------------------------------------------------------------|
-|20.09.2018|[Anna Cena](http://cena.rexamine.com/)      |[Adaptacyjne algorytmy hierarchicznej analizy skupień oparte na metodach agregacji danych](#20092018)                                                                                                             |
+|20.09.2018|[Anna Cena](http://cena.rexamine.com/)      |[Adaptacyjne algorytmy hierarchicznej analizy skupień oparte na metodach agregacji danych](#20092018)                                                                                                             ||04.10.2018|Agnieszka I. Geras |[Rozkłady potęgowe i ich zastosowania](#04102018)    
 
 
 
 
 ### Streszczenia referatów
+
+
+
+###### 04.10.2018  
+
+#### **_Rozkłady potęgowe i ich zastosowania_**
+
+##### Agnieszka I. Geras <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/)\] </sup>
+
+> <div style="text-align:justify">The normal distribution is commonly identified in natural sciences. However, it may not be the "dominant" distribution. We observe many phenomena which are extreme valued, heavy-tailed or described by power-law type functions. In this talk we will present statistical framework for discerning and quantifying power-law behaviour in empirical data, shed some light on the origins of power-law (the famous "the rich get richer rule") and take a look at interesting applications in the latest research concerning human online behaviour. </div>
+
+
+
 
 ###### 20.09.2018  
 
