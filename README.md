@@ -26,12 +26,23 @@ Thursdays (selected), 12:15-14:00
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
-|20.09.2018|[Anna Cena](http://cena.rexamine.com/) |[Adaptive hierarchical clustering algorithms based on data aggregation methods](#20092018)                                                                                                             |
-
+|20.09.2018|[Anna Cena](http://cena.rexamine.com/) |[Adaptive hierarchical clustering algorithms based on data aggregation methods](#20092018)                                                                                                            |
+|04.10.2018|Agnieszka I. Geras |[Power law and its application](#04102018)    
 
 
 
 ### Abstracts
+
+
+###### 04.10.2018  
+
+#### **_Power law and its application_**
+
+##### Agnieszka I. Geras <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/)\] </sup>
+
+> <div style="text-align:justify">The normal distribution is commonly identified in natural sciences. However, it may not be the "dominant" distribution. We observe many phenomena which are extreme valued, heavy-tailed or described by power-law type functions. In this talk we will present statistical framework for discerning and quantifying power-law behaviour in empirical data, shed some light on the origins of power-law (the famous "the rich get richer rule") and take a look at interesting applications in the latest research concerning human online behaviour. </div>
+
+
 
 ###### 20.09.2018  
 
@@ -59,7 +70,7 @@ Thursdays (selected), 12:15-14:00
 |05.01.2018|[Jan Lasek](http://lasek.rexamine.com/)            |[Measuring the efficacy of league formats](#05012018)          |
 |26.01.2018|[Marek Gagolewski](http://www.gagolewski.com)      |[Stochastic properties of discrete Sugeno integrals](#26012018)| 
 |14.03.2018|[Antoni Ruciński](https://anru-project.wixsite.com/anru-project)|[Analysis of the Warsaw rail transport network](#14032018)                                                                                                                    |
-|21.03.2018|Agnieszka Geras                                    |[Should we introduce a 'dislike' button for papers?](#21032018)|
+|21.03.2018|Agnieszka I. Geras                                    |[Should we introduce a 'dislike' button for papers?](#21032018)|
 |28.03.2018|[Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez)  |[Aggregation through the poset glass](#28032018)                                                                                                              |
 |08.06.2018|[Hossein Yazdani](https://www.researchgate.net/profile/Hossein_Yazdani) |[Bounded Fuzzy Possibilistic Method of Critical Objects Processing](#08062018)                                                                                        |
 |21.06.2018|Maciej J. Mrowiński                                      |[ Cartesian Genetic Programming with memory](#21062018)  |
@@ -132,7 +143,7 @@ During my presentation I will show this unintuitive result both by means of nume
 
 #### **_Should we introduce a 'dislike' button for academic papers?_**
 
-##### Agnieszka Geras <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/)\] </sup>
+##### Agnieszka I. Geras <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/)\] </sup>
 
 > <div style="text-align:justify">Citations scores and the h-index are basic tools used for measuring the quality of scientific work. Nonetheless, while evaluating academic achievements one rarely takes into consideration for what reason the paper was mentioned by another author - whether in order to highlight the connection between their work or to bring to the reader’s attention any mistakes or flaws. In my talk I will shed some insight into the problem of "negative" citations analyzing data from the <a href="https://stackexchange.com">Stack Exchange</a> and using the proposed agent-based model. Joint work with  <a href="http://www.gagolewski.com">M. Gągolewski</a>  and <a href="http://if.pw.edu.pl/~siudem">G. Siudem</a>.</div>
 
