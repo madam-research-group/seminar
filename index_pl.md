@@ -9,10 +9,10 @@
 * dr inż. [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
 #### Czas:
-wybrane czwartki, godz. 12:15-14:00,
+wybrane czwartki, godz. 11:05-12:30,
 
 #### Miejsce:
-**sala 431** @ [Wydział Matematyki i Nauk Informacyjnych](https://ww2.mini.pw.edu.pl/) PW, [ul. Koszykowa 75, Warszawa](https://goo.gl/maps/83p1mQsCmrz)
+**sala 211** @ [Wydział Matematyki i Nauk Informacyjnych](https://ww2.mini.pw.edu.pl/) PW, [ul. Koszykowa 75, Warszawa](https://goo.gl/maps/83p1mQsCmrz)
 
 #### Tematyka:
 * agregacja i fuzja danych
@@ -27,11 +27,36 @@ wybrane czwartki, godz. 12:15-14:00,
 |:---------|:-------------------------------------------|:-------------------------------------------------------------------|
 |20.09.2018|[Anna Cena](http://cena.rexamine.com/)      |[Adaptacyjne algorytmy hierarchicznej analizy skupień oparte na metodach agregacji danych](#20092018)                      |
 |04.10.2018|Agnieszka I. Geras                          |[Rozkłady potęgowe i ich zastosowania](#04102018)                   |
-
+|29.11.2018|Barbara Żogała-Siudem |[Dobór zmiennych w modelach liniowych z
+wykorzystaniem indeksów wielowymiarowych](#29112018)                                                                                                            |
+|28.02.2019|[Grzegorz Siudem](http://if.pw.edu.pl) |[Interpolacja z dowolną precyzją](#28022019)                                                                                                            |
 
 
 
 ### Streszczenia referatów
+
+###### 28.02.2019 
+
+#### **_Interpolacja z dowolną precyzją_**
+
+##### [Grzegorz Siudem](http://if.pw.edu.pl) <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
+
+> <div style="text-align:justify">The problem of the interpolation (e.g. fitting to some experimental data) is a well-known case in the numerical analysis. There are plenty of the typical solutions, however, most of them fail when one expects the results with arbitrarily high precision.  In this talk, we present the long story of such failures which happily ends with a surprisingly elegant solution.  Joint work with G. Świątek.
+
+ </div>
+
+
+
+###### 29.11.2018  
+
+#### **_Dobór zmiennych w modelach liniowych z wykorzystaniem indeksów wielowymiarowych_**
+
+##### Barbara Żogała-Siudem <sup>\[[SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
+
+> <div style="text-align:justify">TBA </div>
+
+
+
 
 
 
