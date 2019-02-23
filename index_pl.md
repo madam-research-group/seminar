@@ -41,7 +41,7 @@ wykorzystaniem indeksów wielowymiarowych](#29112018)                           
 
 ##### [Grzegorz Siudem](http://if.pw.edu.pl/~siudem) <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
 
-> <div style="text-align:justify">The problem of the interpolation (e.g. fitting to some experimental data) is a well-known case in the numerical analysis. There are plenty of the typical solutions, however, most of them fail when one expects the results with arbitrarily high precision.  In this talk, we present the long story of such failures which happily ends with a surprisingly elegant solution.  Joint work with G. Świątek. </div>
+> <div style="text-align:justify">The problem of the interpolation (e.g. fitting to some experimental data) is a well-known case in the numerical analysis. There are plenty of the typical solutions, however, most of them fail when one expects the results with arbitrarily high precision.  In this talk, we present the long story of such failures which happily ends with a surprisingly elegant solution.  Joint work with G. Świątek.</div>
 
 
 
