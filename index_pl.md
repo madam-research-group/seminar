@@ -27,8 +27,7 @@ wybrane czwartki, godz. 11:05-12:30,
 |:---------|:-------------------------------------------|:-------------------------------------------------------------------|
 |20.09.2018|[Anna Cena](http://cena.rexamine.com/)      |[Adaptacyjne algorytmy hierarchicznej analizy skupień oparte na metodach agregacji danych](#20092018)                      |
 |04.10.2018|Agnieszka I. Geras                          |[Rozkłady potęgowe i ich zastosowania](#04102018)                   |
-|29.11.2018|Barbara Żogała-Siudem |[Dobór zmiennych w modelach liniowych z
-wykorzystaniem indeksów wielowymiarowych](#29112018)                                                                                                            |
+|29.11.2018|Barbara Żogała-Siudem |[Dobór zmiennych w modelach liniowych z wykorzystaniem indeksów wielowymiarowych](#29112018)                                                                                                            |
 |28.02.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem) |[Interpolacja z dowolną precyzją](#28022019)                                                                                                            |
 
 
