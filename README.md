@@ -9,10 +9,10 @@
 * Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
 #### Time:
-Thursdays (selected), 12:15-14:00
+Thursdays (selected), 11:05-12:30
 
 #### Place:
-**room 431** @ [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), WUT, [ul. Koszykowa 75, Warsaw](https://goo.gl/maps/83p1mQsCmrz)
+**room 211** @ [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), WUT, [ul. Koszykowa 75, Warsaw](https://goo.gl/maps/83p1mQsCmrz)
 
 #### Topics:
 * data aggregation and fusion
@@ -28,10 +28,34 @@ Thursdays (selected), 12:15-14:00
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
 |20.09.2018|[Anna Cena](http://cena.rexamine.com/) |[Adaptive hierarchical clustering algorithms based on data aggregation methods](#20092018)                                                                                                            |
 |04.10.2018|Agnieszka I. Geras                     |[Power law and its application](#04102018)                             |
+|29.11.2018|Barbara Żogała-Siudem |[Variable selection algorithms for linear models based on multidimensional index](#29112018)                                                                                                            |
+|28.02.2019|[Grzegorz Siudem](http://if.pw.edu.pl) |[Interpolation with an arbitrary precision](#28022019)                                                                                                            |
 
 
 
 ### Abstracts
+
+###### 28.02.2019 
+
+#### **_Interpolation with an arbitrary precision_**
+
+##### [Grzegorz Siudem](http://if.pw.edu.pl) <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
+
+> <div style="text-align:justify">The problem of the interpolation (e.g. fitting to some experimental data) is a well-known case in the numerical analysis. There are plenty of the typical solutions, however, most of them fail when one expects the results with arbitrarily high precision.  In this talk, we present the long story of such failures which happily ends with a surprisingly elegant solution.  Joint work with G. Świątek.
+
+ </div>
+
+
+
+###### 29.11.2018  
+
+#### **_Variable selection algorithms for linear models based on multidimensional index_**
+
+##### Barbara Żogała-Siudem <sup>\[[SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
+
+> <div style="text-align:justify">TBA </div>
+
+
 
 
 ###### 04.10.2018  
