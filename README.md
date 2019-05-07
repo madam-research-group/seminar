@@ -30,10 +30,82 @@ Thursdays (selected), 11:05-12:30
 |04.10.2018|Agnieszka I. Geras                     |[Power law and its application](#04102018)                             |
 |29.11.2018|Barbara Żogała-Siudem |[Variable selection algorithms for linear models based on multidimensional index](#29112018)                                                                                                            |
 |28.02.2019|[Grzegorz Siudem](http://if.pw.edu.pl) |[Interpolation with an arbitrary precision](#28022019)                                                                                                            |
+|16.05.2019|[Grzegorz Siudem](http://if.pw.edu.pl) |[Methodology of University Rankings S01E01](#16052019)                                                                                                            |
+|23.05.2019|[Anna Cena](http://cena.rexamine.com/) |[Methodology of University Rankings S01E02](#23052019)                                                                                                            |
+|30.05.2019|Barbara Żogała-Siudem  |[Methodology of University Rankings S01E03](#30052019)                                                                                                            |
+|31.05.2019|[Jan Lasek](http://lasek.rexamine.com/)       |[TBA](#31052019)                                                                                                            |
+|06.06.2019|Maciej J. Mrowiński       |[Methodology of University Rankings S01E04](#06062019)                                                                                                            |
+|13.06.2019|Jarosław Klamut|[Activity clustering in continuous-time random walk formalism](#13062019)                                                                                                            |
+
 
 
 
 ### Abstracts
+
+
+###### 13.06.2019 
+
+#### **_Activity clustering in continuous-time random walk formalism_**
+
+##### Jarosław Klamut <sup>\[[UW](https://www.fuw.edu.pl/)\] </sup>
+
+> <div style="text-align:justify">Over 50 years ago, two physicists Montroll and Weiss in the physical context of dispersive transport and diffusion introduced stochastic process, named Continuous-Time Random Walk (CTRW). The trajectory of such a process is created by elementary events ‘spatial’ jumps preceded by waiting time. Since introduction, CTRW found innumerable application in different fields [1] including high-frequency finance [2], where jumps are considered as price increments and waiting times represent inter-trade times. Our latest results [3] suggest that dependencies between inter-trade times are the key element to explain activity clustering in financial time-series. We introduce the new CTRW model with long-term memory in waiting times, able to successfully describe power-law decaying time autocorrelation of the absolute values of price changes. We test our model on the empirical data from Polish stock market.
+
+- [1] Kutner, R.,  Masoliver, J. (2017), The continuous time random walk, still trendy: fifty-year history, state of art and outlook, Eur. Phys. J. B, 90(3), 50
+- [2] Scalas, E. (2006), Five years of continuous-time random walks in econophysics, In The complex networks of economic interactions (pp. 3-16), Springer, Berlin, Heidelberg.
+- [3] Klamut, J. & Gubiec, T. (2019), Directed continuous-time random walk with memory, Eur. Phys. J. B 92:69. 
+</div>
+
+
+###### 06.06.2019 
+
+#### **_Methodology of University Rankings S01E04_**
+
+##### Maciej J. Mrowiński <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
+
+> <div style="text-align:justify">TBA</div>
+
+
+
+###### 31.06.2019  
+
+#### **_TBA_**
+
+##### [Jan Lasek](http://lasek.rexamine.com/) <sup>[[deepsense.ai](https://deepsense.ai/)]</sup>
+
+> <div style="text-align:justify">TBA</div>
+
+
+###### 30.05.2019 
+
+#### **_Methodology of University Rankings S01E03_**
+
+##### Barbara Żogała-Siudem <sup>\[[SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
+
+> <div style="text-align:justify">TBA</div>
+
+
+
+###### 23.05.2019  
+
+#### **_Methodology of University Rankings S01E02_**
+
+##### [Anna Cena](http://cena.rexamine.com/) <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/)\] </sup>
+
+> <div style="text-align:justify">TBA </div>
+
+
+
+###### 16.05.2019 
+
+#### **_Methodology of University Rankings S01E01_**
+
+##### [Grzegorz Siudem](http://if.pw.edu.pl) <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
+
+> <div style="text-align:justify">TBA</div>
+
+
+
 
 ###### 28.02.2019 
 
