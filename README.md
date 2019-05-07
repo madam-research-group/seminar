@@ -51,9 +51,9 @@ Thursdays (selected), 11:05-12:30
 
 > <div style="text-align:justify">Over 50 years ago, two physicists Montroll and Weiss in the physical context of dispersive transport and diffusion introduced stochastic process, named Continuous-Time Random Walk (CTRW). The trajectory of such a process is created by elementary events ‘spatial’ jumps preceded by waiting time. Since introduction, CTRW found innumerable application in different fields [1] including high-frequency finance [2], where jumps are considered as price increments and waiting times represent inter-trade times. Our latest results [3] suggest that dependencies between inter-trade times are the key element to explain activity clustering in financial time-series. We introduce the new CTRW model with long-term memory in waiting times, able to successfully describe power-law decaying time autocorrelation of the absolute values of price changes. We test our model on the empirical data from Polish stock market.
 
-- [1] Kutner, R.,  Masoliver, J. (2017), The continuous time random walk, still trendy: fifty-year history, state of art and outlook, Eur. Phys. J. B, 90(3), 50
-- [2] Scalas, E. (2006), Five years of continuous-time random walks in econophysics, In The complex networks of economic interactions (pp. 3-16), Springer, Berlin, Heidelberg.
-- [3] Klamut, J. & Gubiec, T. (2019), Directed continuous-time random walk with memory, Eur. Phys. J. B 92:69. 
+[1] Kutner, R.,  Masoliver, J. (2017), The continuous time random walk, still trendy: fifty-year history, state of art and outlook, Eur. Phys. J. B, 90(3), 50
+[2] Scalas, E. (2006), Five years of continuous-time random walks in econophysics, In The complex networks of economic interactions (pp. 3-16), Springer, Berlin, Heidelberg.
+[3] Klamut, J. & Gubiec, T. (2019), Directed continuous-time random walk with memory, Eur. Phys. J. B 92:69. 
 </div>
 
 
