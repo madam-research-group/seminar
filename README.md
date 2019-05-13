@@ -56,9 +56,19 @@ Thursdays (selected), 11:05-12:30
 > <div style="text-align:justify">
 [2] Scalas, E. (2006), Five years of continuous-time random walks in econophysics, In The complex networks of economic interactions (pp. 3-16), Springer, Berlin, Heidelberg.</div>
 
-> <div style="text-align:justify">
-[3] Klamut, J. & Gubiec, T. (2019), Directed continuous-time random walk with memory, Eur. Phys. J. B 92:69. 
-</div>
+> <div style="text-align:justify"> [3] Klamut, J. & Gubiec, T. (2019), Directed continuous-time random walk with memory, Eur. Phys. J. B 92:69.</div>
+
+
+###### 06.06.2019.2  
+
+<div style="color:crimson;"> Thursday, second seminar that day 18:10, room ?, Math building, WUT. </div>
+
+
+#### **_New data-driven rating systems for association football_**
+
+##### [Jan Lasek](http://lasek.rexamine.com/) <sup>[[deepsense.ai](https://deepsense.ai/)]</sup>
+
+> <div style="text-align:justify">TBA</div>
 
 
 ###### 06.06.2019 
@@ -71,16 +81,10 @@ Thursdays (selected), 11:05-12:30
 
 
 
-###### 06.06.2019.2  
-
-#### **_New data-driven rating systems for association football_**
-
-##### [Jan Lasek](http://lasek.rexamine.com/) <sup>[[deepsense.ai](https://deepsense.ai/)]</sup>
-
-> <div style="text-align:justify">Since 2003 (when the ARWU was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News.</div>
-
-
 ###### 30.05.2019 
+
+<div style="color:crimson;"> Thursday 14:00, room 211, Math building, WUT. </div>
+
 
 #### **_Methodology of University Rankings S01E03_**
 
@@ -91,6 +95,9 @@ Thursdays (selected), 11:05-12:30
 
 
 ###### 23.05.2019  
+
+<div style="color:crimson;"> Thursday 14:00, room 211, Math building, WUT. </div>
+
 
 #### **_Methodology of University Rankings S01E02_**
 
@@ -106,7 +113,7 @@ Thursdays (selected), 11:05-12:30
 
 ##### [Grzegorz Siudem](http://if.pw.edu.pl) <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
 
-> <div style="text-align:justify">TBA</div>
+> <div style="text-align:justify">Since 2003 (when the ARWU was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News.</div>
 
 
 
