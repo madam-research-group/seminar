@@ -33,8 +33,8 @@ Thursdays (selected), 11:05-12:30
 |16.05.2019|[Grzegorz Siudem](http://if.pw.edu.pl) |[Methodology of University Rankings S01E01](#16052019)                                                                                                            |
 |23.05.2019|[Anna Cena](http://cena.rexamine.com/) |[Methodology of University Rankings S01E02](#23052019)                                                                                                            |
 |30.05.2019|Barbara Żogała-Siudem  |[Methodology of University Rankings S01E03](#30052019)                                                                                                            |
-|31.05.2019|[Jan Lasek](http://lasek.rexamine.com/)       |[TBA](#31052019)                                                                                                            |
 |06.06.2019|Maciej J. Mrowiński       |[Methodology of University Rankings S01E04](#06062019)                                                                                                            |
+|06.06.2019|[Jan Lasek](http://lasek.rexamine.com/)       |[New data-driven rating systems for association football](#060620192)                                                                                                            |
 |13.06.2019|Jarosław Klamut|[Activity clustering in continuous-time random walk formalism](#13062019)                                                                                                            |
 
 
@@ -67,17 +67,17 @@ Thursdays (selected), 11:05-12:30
 
 ##### Maciej J. Mrowiński <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
 
-> <div style="text-align:justify">TBA</div>
+> <div style="text-align:justify">Since 2003 (when the ARWU was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News.</div>
 
 
 
-###### 31.06.2019  
+###### 06.06.2019.2  
 
-#### **_TBA_**
+#### **_New data-driven rating systems for association football_**
 
 ##### [Jan Lasek](http://lasek.rexamine.com/) <sup>[[deepsense.ai](https://deepsense.ai/)]</sup>
 
-> <div style="text-align:justify">TBA</div>
+> <div style="text-align:justify">Since 2003 (when the ARWU was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News.</div>
 
 
 ###### 30.05.2019 
@@ -86,7 +86,7 @@ Thursdays (selected), 11:05-12:30
 
 ##### Barbara Żogała-Siudem <sup>\[[SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
 
-> <div style="text-align:justify">TBA</div>
+> <div style="text-align:justify">Since 2003 (when the ARWU was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News.</div>
 
 
 
@@ -96,7 +96,7 @@ Thursdays (selected), 11:05-12:30
 
 ##### [Anna Cena](http://cena.rexamine.com/) <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/)\] </sup>
 
-> <div style="text-align:justify">TBA </div>
+> <div style="text-align:justify">Since 2003 (when the ARWU was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News. </div>
 
 
 
