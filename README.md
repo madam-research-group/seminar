@@ -77,7 +77,7 @@ Thursdays (selected), 11:05-12:30
 
 ##### Maciej J. Mrowiński <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
 
-> <div style="text-align:justify">Since 2003 (when the ShanghaiRanking was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News. Joint work with [Anna Cena](http://cena.rexamine.com/), [Grzegorz Siudem](http://if.pw.edu.pl) and Barbara Żogała-Siudem under the [InternationalVisibility Project](http://intvp.edu.pl/).</div>
+> <div style="text-align:justify">Since 2003 (when the ShanghaiRanking was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News. Joint work with <a href="http://cena.rexamine.com/)">A. Cena</a>, <a href="http://if.pw.edu.pl">G. Siudem</a> and B. Żogała-Siudem under the <a href="http://intvp.edu.pl/">InternationalVisibility Project</a>.</div>
 
 
 
@@ -90,7 +90,7 @@ Thursdays (selected), 11:05-12:30
 
 ##### Barbara Żogała-Siudem <sup>\[[SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
 
-> <div style="text-align:justify">Since 2003 (when the ShanghaiRanking was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News. Joint work with [Anna Cena](http://cena.rexamine.com/), Maciej J. Mrowinski and [Grzegorz Siudem](http://if.pw.edu.pl) under the  [InternationalVisibility Project](http://intvp.edu.pl/).</div>
+> <div style="text-align:justify">Since 2003 (when the ShanghaiRanking was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News. Joint work with <a href="http://cena.rexamine.com/)">A. Cena</a>, M.J. Mrowiński and <a href="http://if.pw.edu.pl">G. Siudem</a>. under the  <a href="http://intvp.edu.pl/">InternationalVisibility Project</a>.</div>
 
 
 
@@ -103,7 +103,7 @@ Thursdays (selected), 11:05-12:30
 
 ##### [Anna Cena](http://cena.rexamine.com/) <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/)\] </sup>
 
-> <div style="text-align:justify">Since 2003 (when the ShanghaiRanking was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News. Joint work with Maciej J. Mrowinski, [Grzegorz Siudem](http://if.pw.edu.pl) and Barbara Żogała-Siudem under the [InternationalVisibility Project](http://intvp.edu.pl/).</div>
+> <div style="text-align:justify">Since 2003 (when the ShanghaiRanking was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News. Joint work with M.J. Mrowiński, <a href="http://if.pw.edu.pl">G. Siudem</a> and B. Żogała-Siudem under the <a href="http://intvp.edu.pl/">InternationalVisibility Project</a>.</div>
 
 
 
@@ -113,7 +113,7 @@ Thursdays (selected), 11:05-12:30
 
 ##### [Grzegorz Siudem](http://if.pw.edu.pl) <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
 
-> <div style="text-align:justify">Since 2003 (when the ShanghaiRanking was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News. Joint work with [Anna Cena](http://cena.rexamine.com/), Maciej J. Mrowinski and Barbara Żogała-Siudem under the [InternationalVisibility Project](http://intvp.edu.pl/).</div>
+> <div style="text-align:justify">Since 2003 (when the ShanghaiRanking was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News. Joint work with <a href="http://cena.rexamine.com/">A. Cena</a>, M.J. Mrowinski and B. Żogała-Siudem under the <a href="http://intvp.edu.pl/">InternationalVisibility Project</a>.</div>
 
 
 
