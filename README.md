@@ -30,17 +30,31 @@ Thursdays (selected), 11:05-12:30
 |04.10.2018|Agnieszka I. Geras                     |[Power law and its application](#04102018)                             |
 |29.11.2018|Barbara Żogała-Siudem |[Variable selection algorithms for linear models based on multidimensional index](#29112018)                                                                                                            |
 |28.02.2019|[Grzegorz Siudem](http://if.pw.edu.pl) |[Interpolation with an arbitrary precision](#28022019)                                                                                                            |
-|16.05.2019|[Grzegorz Siudem](http://if.pw.edu.pl) |[Methodology of University Rankings S01E01 - QS](#16052019)                                                                                                            |
-|23.05.2019|[Anna Cena](http://cena.rexamine.com/) |[Methodology of University Rankings S01E02 - Times Higher Education](#23052019)                                                                                                            |
-|30.05.2019|Barbara Żogała-Siudem  |[Methodology of University Rankings S01E03 - ShanghaiRanking](#30052019)                                                                                                            |
+|23.05.2019|[Grzegorz Siudem](http://if.pw.edu.pl) |[Methodology of University Rankings S01E01 - QS](#23052019)                                                                                                            |
+|30.05.2019|[Anna Cena](http://cena.rexamine.com/) |[Methodology of University Rankings S01E02 - Times Higher Education](#30052019)                                                                                                            |
+|30.05.2019|Barbara Żogała-Siudem  |[Methodology of University Rankings S01E03 - ShanghaiRanking](#300520192)                                                                                                            |
 |06.06.2019|Maciej J. Mrowiński       |[Methodology of University Rankings S01E04 - US News](#06062019)                                                                                                            |
 |06.06.2019|[Jan Lasek](http://lasek.rexamine.com/)       |[New data-driven rating systems for association football](#060620192)                                                                                                            |
 |13.06.2019|Jarosław Klamut|[Activity clustering in continuous-time random walk formalism](#13062019)                                                                                                            |
+|27.06.2019|Mikołaj Biesaga & Szymon Talaga|[Discovery of socio-semantic networks based on discourse analysis on large corpora of documents](#27062019)                                                                                                            |
 
 
 
 
 ### Abstracts
+
+###### 27.06.2019 
+
+#### **_Discovery of socio-semantic networks based on discourse analysis on large corpora of documents_**
+
+##### Mikołaj Biesaga & Szymon Talaga <sup>\[[UW](http://iss.uw.edu.pl/en/)\] </sup>
+
+> <div style="text-align:justify">While reading newspapers of different publishers and watching different news channels humans intuitively perceive how different actors are described by different discourse sources. Can we do it in an automated and systematic fashion? Recent advances in natural language processing (NLP) techniques together with the increase of easily accessible computational power make it possible to create new analytic methods for studying socio-semantic systems. Especially, entity recognition methods and advanced part of speech tagging turned out to be crucial for automatic text processing. They allow to not only discover and classify main actors but also to understand semantics which are ascribed to them by content producers.</div>
+
+> <div style="text-align:justify">We propose a novel approach to automated discourse analysis on large corpora of documents which is a combination of four methods: entity recognition methods, topic modelling, sentiment analysis and analysis of syntactic dependencies. This approach allows to identify main actors (entity recognition method) and analyze differences in regard to how they are described (sentiment analysis and syntactic analysis) by different content sources. The differences are described along two main dimensions: semantics and sentiment (emotional valence). This technique makes it possible to discover complex networks of relations between actors and their discursive representations as well as content generating sources.</div>
+
+> <div style="text-align:justify">We present results of an application of the proposed approach to a corpus of texts published in 2017 and 2018 by leading European online magazines such as POLITICO Europe and Euronews English. The scope of the articles was narrowed to issues related to European Union (EU), Europe itself and world affairs as viewed from the European perspective. The main aim herein was to determine crucial actors (i.e. politicians, institutions) present in the discourse and  discover how discourse generating actors (i.e. POLITICO Europe, Euronews English) perceive/depict important public figures and institutions over the time period. The analysis is based on English content exclusively, but we will also discuss how this approach might be extended to other languages.</div>
+
 
 
 ###### 13.06.2019 
