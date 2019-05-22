@@ -75,7 +75,7 @@ Thursdays (selected), 11:05-12:30
 
 ###### 06.06.2019.2  
 
-<div style="color:crimson;"> Thursday, second seminar that day 18:10, room ?, Math building, WUT. </div>
+<div style="color:crimson;"> Thursday, second seminar that day 18:10, room 103, Math building, WUT. </div>
 
 
 #### **_New data-driven rating systems for association football_**
@@ -95,9 +95,9 @@ Thursdays (selected), 11:05-12:30
 
 
 
-###### 30.05.2019 
+###### 30.05.2019.2 
 
-<div style="color:crimson;"> Thursday 14:00, room 211, Math building, WUT. </div>
+<div style="color:crimson;"> Thursday 15:00, room 103, Math building, WUT. </div>
 
 
 #### **_Methodology of University Rankings S01E03 - ShanghaiRanking_**
@@ -108,9 +108,9 @@ Thursdays (selected), 11:05-12:30
 
 
 
-###### 23.05.2019  
+###### 30.05.2019  
 
-<div style="color:crimson;"> Thursday 14:00, room 211, Math building, WUT. </div>
+<div style="color:crimson;"> Thursday 14:00, room 103, Math building, WUT. </div>
 
 
 #### **_Methodology of University Rankings S01E02 -  Times Higher Education_**
@@ -121,7 +121,10 @@ Thursdays (selected), 11:05-12:30
 
 
 
-###### 16.05.2019 
+###### 23.05.2019 
+
+<div style="color:crimson;"> Thursday 14:00, room 101, Math building, WUT. </div>
+
 
 #### **_Methodology of University Rankings S01E01 - QS_**
 
