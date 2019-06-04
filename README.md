@@ -33,7 +33,7 @@ Thursdays (selected), 11:05-12:30
 |23.05.2019|[Grzegorz Siudem](http://if.pw.edu.pl) |[Methodology of University Rankings S01E01 - QS](#23052019)                                                                                                            |
 |30.05.2019|[Anna Cena](http://cena.rexamine.com/) |[Methodology of University Rankings S01E02 - Times Higher Education](#30052019)                                                                                                            |
 |30.05.2019|Barbara Żogała-Siudem  |[Methodology of University Rankings S01E03 - ShanghaiRanking](#300520192)                                                                                                            |
-|06.06.2019|Maciej J. Mrowiński       |[Methodology of University Rankings S01E04 - US News](#06062019)                                                                                                            |
+|19.06.2019|Maciej J. Mrowiński       |[Methodology of University Rankings S01E04 - US News](#06062019)                                                                                                            |
 |06.06.2019|[Jan Lasek](http://lasek.rexamine.com/)       |[New data-driven rating systems for association football](#060620192)                                                                                                            |
 |13.06.2019|Jarosław Klamut|[Activity clustering in continuous-time random walk formalism](#13062019)                                                                                                            |
 |27.06.2019|Mikołaj Biesaga & Szymon Talaga|[Discovery of socio-semantic networks based on discourse analysis on large corpora of documents](#27062019)                                                                                                            |
@@ -75,17 +75,17 @@ Thursdays (selected), 11:05-12:30
 
 ###### 06.06.2019.2  
 
-<div style="color:crimson;"> Thursday, second seminar that day 18:10, room 103, Math building, WUT. </div>
+<div style="color:crimson;"> Thursday, 18:10, room 103, Math building, WUT. </div>
 
 
 #### **_New data-driven rating systems for association football_**
 
 ##### [Jan Lasek](http://lasek.rexamine.com/) <sup>[[deepsense.ai](https://deepsense.ai/)]</sup>
 
-> <div style="text-align:justify">TBA</div>
+> <div style="text-align:justify">Rating systems in sports have a number of important applications. These include constructing prediction models, providing team seedings for tournaments and qualifying rounds, or creating interesting match-ups. In this presentation, we discuss the methods for building accurate team ratings with a particular focus on association football. We present several well-founded baseline approaches and how they can be optimised to yield even better results in terms of match outcome prediction accuracy. Further, we also present a bottom-up approach which is based on deriving team ratings via individual player ratings from EA Sports FIFA video game. Next, we highlight the theory underlying the prominent Elo model. This serves as an inspiration for developing new, accurate as well as interpretable rating systems. We propose several such schemes in which the ratings are updated after consecutive matches using transparent update rules. As a further development of the bottom-up approach toward accurately measuring player skills, we propose a new model for player movements. The model is estimated using positional data that describe exact player positions during a match at a high frequency. In turn, it can be used to devise player and, in the next step, team ratings. Finally, we discuss how team rating models can be used to evaluate different league formats in a simulation study. This is an important issue in tournament design as domestic league formats vary significantly from country to country and can change from year to year. This study may help decision makers in sports to choose the optimal design that produces the most accurate team rankings.</div>
 
 
-###### 06.06.2019 
+###### 19.06.2019 
 
 #### **_Methodology of University Rankings S01E04 - US News_**
 
