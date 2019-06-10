@@ -58,6 +58,9 @@ Thursdays (selected), 11:05-12:30
 
 ###### 13.06.2019 
 
+<div style="color:crimson;"> Thursday, 15:15, room 102, Math building, WUT. </div>
+
+
 #### **_Activity clustering in continuous-time random walk formalism_**
 
 ##### Jarosław Klamut <sup>\[[UW](https://www.fuw.edu.pl/)\] </sup>
