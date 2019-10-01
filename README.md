@@ -43,7 +43,7 @@ Tuesday, 16:30-18:00
 
 
 > <div style="text-align:justify">
-Science of Science describes the new interdisciplinary field which combines traditional Bibliometry, Phylosophy and Sociology of Science with Complexity Science and Data Science. In this talk, I will present a summary of the recent achievements in the field as well as the list of (still) open questions. In addition to those purely academic considerations, we also consider the practical consequences of such research (e.g. in the context of the planning of scientific career or  during ranking universities).</div>
+Science of Science describes the new interdisciplinary field which combines traditional Bibliometry, Philosophy and Sociology of Science with Complexity Science and Data Science. In this talk, I will present a summary of the recent achievements in the field as well as the list of (still) open questions. In addition to those purely academic considerations, we also consider the practical consequences of such research (e.g. in the context of the planning of scientific career or  during ranking universities).</div>
 
 
 
