@@ -8,10 +8,10 @@
 * Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
 #### Time:
-Thursdays (selected), 11:05-12:30
+Tuesday, 16:30-18:00
 
 #### Place:
-**room 211** @ [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), WUT, [ul. Koszykowa 75, Warsaw](https://goo.gl/maps/83p1mQsCmrz)
+**room 103** @ [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), WUT, [ul. Koszykowa 75, Warsaw](https://goo.gl/maps/83p1mQsCmrz)
 
 #### Topics:
 * data aggregation and fusion
@@ -23,13 +23,46 @@ Thursdays (selected), 11:05-12:30
 
 ### Schedule 
 
+
+| Date     | Author                                       | Title                                                               |
+|:---------|:---------------------------------------------|:--------------------------------------------------------------------|
+|08.10.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[How to measure Science?](#08102019)                                                                                                            |
+
+
+
+
+
+
+### Abstracts
+
+###### 08.10.2019 
+
+#### **_How to measure Science?_**
+
+##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
+
+
+> <div style="text-align:justify">TBA</div>
+
+
+
+
+
+
+
+---
+
+
+### Schedule -  2018/2019
+
+
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
 |20.09.2018|[Anna Cena](http://cena.rexamine.com/) |[Adaptive hierarchical clustering algorithms based on data aggregation methods](#20092018)                                                                                                            |
 |04.10.2018|Agnieszka I. Geras                     |[Power law and its application](#04102018)                             |
 |29.11.2018|Barbara Żogała-Siudem |[Variable selection algorithms for linear models based on multidimensional index](#29112018)                                                                                                            |
-|28.02.2019|[Grzegorz Siudem](http://if.pw.edu.pl) |[Interpolation with an arbitrary precision](#28022019)                                                                                                            |
-|23.05.2019|[Grzegorz Siudem](http://if.pw.edu.pl) |[Methodology of University Rankings S01E01 - QS](#23052019)                                                                                                            |
+|28.02.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[Interpolation with an arbitrary precision](#28022019)                                                                                                            |
+|23.05.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[Methodology of University Rankings S01E01 - QS](#23052019)                                                                                                            |
 |30.05.2019|[Anna Cena](http://cena.rexamine.com/) |[Methodology of University Rankings S01E02 - Times Higher Education](#30052019)                                                                                                            |
 |30.05.2019|Barbara Żogała-Siudem  |[Methodology of University Rankings S01E03 - ShanghaiRanking](#300520192)                                                                                                            |
 |06.06.2019|[Jan Lasek](http://lasek.rexamine.com/)       |[New data-driven rating systems for association football](#060620192)                                                                                                            |
@@ -120,7 +153,7 @@ Thursdays (selected), 11:05-12:30
 
 #### **_Methodology of University Rankings S01E01 - QS_**
 
-##### [Grzegorz Siudem](http://if.pw.edu.pl) <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
+##### [Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
 
 > <div style="text-align:justify">Since 2003 (when the ShanghaiRanking was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News. Joint work with <a href="http://cena.rexamine.com/">A. Cena</a>, M.J. Mrowinski and B. Żogała-Siudem under the <a href="http://intvp.edu.pl/">InternationalVisibility Project</a>.</div>
 
@@ -131,7 +164,7 @@ Thursdays (selected), 11:05-12:30
 
 #### **_Interpolation with an arbitrary precision_**
 
-##### [Grzegorz Siudem](http://if.pw.edu.pl) <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
+##### [Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
 
 > <div style="text-align:justify">The problem of the interpolation (e.g. fitting to some experimental data) is a well-known case in the numerical analysis. There are plenty of the typical solutions, however, most of them fail when one expects the results with arbitrarily high precision.  In this talk, we present the long story of such failures which happily ends with a surprisingly elegant solution.  Joint work with G. Świątek.</div>
 
