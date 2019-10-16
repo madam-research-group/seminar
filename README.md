@@ -8,10 +8,10 @@
 * Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
 #### Time:
-Tuesday, 16:30-18:00
+Fridays, 14:00-16:00
 
 #### Place:
-**room 103** @ [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), WUT, [ul. Koszykowa 75, Warsaw](https://goo.gl/maps/83p1mQsCmrz)
+**room 328** @ [Faculty of Mathematics and Information Science](https://ww2.mini.pw.edu.pl/), WUT, [ul. Koszykowa 75, Warsaw](https://goo.gl/maps/83p1mQsCmrz)
 
 #### Topics:
 * data aggregation and fusion
