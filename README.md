@@ -38,7 +38,7 @@ Fridays, 14:00-16:00
 
 ### Abstracts
 
-###### 08.10.2019 
+###### 24.01.2020 
 
 #### **_Scientific problems in the universities' rankings_**
 
