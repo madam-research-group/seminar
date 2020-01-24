@@ -4,6 +4,7 @@
 ## Seminar info
 
 #### Hosts:
+* Dr [Anna Cena](http://cena.rexamine.com/)
 * Prof. [Marek Gagolewski](http://www.gagolewski.com) 
 * Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
@@ -26,14 +27,40 @@ Fridays, 14:00-16:00
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
-|08.10.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[How to measure Science?](#08102019)                                                                                                            |
-
+|08.10.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |      [How to measure Science?](#08102019)                                                                                                      |
+|18.10.2019|-- |Recent literature review |
+|26.11.2019|[Anna Cena](http://cena.rexamine.com/) |[The true dimension of scientific impact](#26112019)  |
+|24.01.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[Scientific problems in the universities' rankings](#24012020)                                                                                                      |
 
 
 
 
 
 ### Abstracts
+
+###### 08.10.2019 
+
+#### **_Scientific problems in the universities' rankings_**
+
+##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
+
+
+> <div style="text-align:justify">
+TBA</div>
+
+
+###### 26.11.2019 
+
+#### **_The true dimension of scientific impact_**
+
+##### [Anna Cena](http://cena.rexamine.com/) <sup>\[ <a href="https://ww2.mini.pw.edu.pl/)\">WUT</a> ] </sup>
+
+
+> <div style="text-align:justify">
+The growing popularity of bibliometric indexes  (whose most famous example is the h-index by J.E. Hirsch) is opposed by those claiming that one's scientific impact cannot be reduced to a single number. Some even believe that our complex reality fails to submit to any quantitative description. We argue that neither of the two controversial extremes is true.
+By assuming that some citations are distributed according to the rich get richer rule (preferential attachment)  while some others are assigned totally at random (all in all, a paper needs a bibliography), we have crafted a  model that accurately summarizes citation records with merely three easily interpretable parameters: productivity, total impact,
+and how lucky an  author has been so far.</div>
+
 
 ###### 08.10.2019 
 
