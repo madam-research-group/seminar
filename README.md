@@ -59,23 +59,28 @@ TBA</div>
 |08.10.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |      [How to measure Science?](#08102019)                                                                                                      |
 |18.10.2019|-- |Recent literature review |
 |26.11.2019|[Anna Cena](http://cena.rexamine.com/) |[The true dimension of scientific impact](#26112019)  |
-|24.01.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[Scientific problems in the universities' rankings](#24012020)                                                                                                      |
-
+|24.01.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |Scientific problems in the universities' rankings                                                                                                      |
+|05.05.2020|working seminar |Bibliometric models review                                                                                                      |
+|19.05.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[Pareto-Tsallis distribution for bibliometric data](#19052020)                                                                                                      |
 
 
 
 
 ### Abstracts 2019-2021
 
-###### 24.01.2020 
+###### 19.05.2020 
 
-#### **_Scientific problems in the universities' rankings_**
+#### **_Pareto-Tsallis distribution for bibliometric data_**
 
 ##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
 
 
 > <div style="text-align:justify">
-TBA</div>
+During the talk we will follow the work: Néda Z, Varga L, Biró TS (2017) Science and Facebook: The same popularity law!. PLOS ONE 12(7): e0179656. https://doi.org/10.1371/journal.pone.0179656 and derivate Pareto-Tsallis distribution as an usefull tool in the description of the citation networ.</div>
+
+
+
+
 
 
 ###### 26.11.2019 
