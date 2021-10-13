@@ -62,7 +62,8 @@ TBA</div>
 |24.01.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |Scientific problems in the universities' rankings                                                                                                      |
 |05.05.2020|working seminar |Bibliometric models review                                                                                                      |
 |19.05.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[Pareto-Tsallis distribution for bibliometric data](#19052020)                                                                                                      |
-|17.07.2020|Przemysław Nowak |[Preferential attachment rules in modeling bibliometric data](#17072020)      |                                                     |08.09.2020|Barbara Żogała-Siudem |[How to fit to bibliometric data?](#08092020)                                                |
+|17.07.2020|Przemysław Nowak |[Preferential attachment rules in modeling bibliometric data](#17072020)      |        
+|08.09.2020|Barbara Żogała-Siudem |[How to fit to bibliometric data?](#08092020)                                                |
 
 
 
