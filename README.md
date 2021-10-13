@@ -62,12 +62,21 @@ TBA</div>
 |24.01.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |Scientific problems in the universities' rankings                                                                                                      |
 |05.05.2020|working seminar |Bibliometric models review                                                                                                      |
 |19.05.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[Pareto-Tsallis distribution for bibliometric data](#19052020)                                                                                                      |
-|17.07.2020|Przemysław Nowak |[Preferential attachment rules in modeling bibliometric data](#17072020)                                                                                                      |
+|17.07.2020|Przemysław Nowak |[Preferential attachment rules in modeling bibliometric data](#17072020)                                                             |08.09.2020|Barbara Żogała-Siudem |[How to fit to bibliometric data?](#08092020)                                                                                                      |
 
 
 
 
 ### Abstracts 2019-2021
+
+###### 08.09.2020 
+
+#### **_How to fit to bibliometric data?_**
+
+##### Barbara Żogała-Siudem <sup>\[[SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
+
+> <div style="text-align:justify">TBA</div>
+
 
 
 ###### 17.07.2020 
@@ -79,12 +88,6 @@ TBA</div>
 
 > <div style="text-align:justify">
 The purpose of this talk was the analysis and modification of preferential attachment rule. It was done based on Barabási-Albert model for citation network and Ionescu-Chopard model for vectors of citations. It has been proposed to modify preferential attachment by adding random attachment.  By applying those approaches to data from DBLP database, it was proved that both BAand IC models gave the same results.</div>
-
-
-
-
-
-
 
 
 
