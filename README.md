@@ -40,7 +40,7 @@ Mondays, 9:00-11:00 (Warsaw)
 
 #### **_TBA_**
 
-##### Przemysław Nowak
+##### Przemysław Nowak <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
 
 
 > <div style="text-align:justify">
@@ -62,11 +62,31 @@ TBA</div>
 |24.01.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |Scientific problems in the universities' rankings                                                                                                      |
 |05.05.2020|working seminar |Bibliometric models review                                                                                                      |
 |19.05.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[Pareto-Tsallis distribution for bibliometric data](#19052020)                                                                                                      |
+|17.07.2020|Przemysław Nowak |[Preferential attachment rules in modeling bibliometric data](#17072020)                                                                                                      |
 
 
 
 
 ### Abstracts 2019-2021
+
+
+###### 17.07.2020 
+
+#### **_Preferential attachment rules in modeling bibliometric data_**
+
+##### Przemysław Nowak <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
+
+
+> <div style="text-align:justify">
+The purpose of this talk was the analysis and modification of preferential attachment rule. It was done based on Barabási-Albert model for citation network and Ionescu-Chopard model for vectors of citations. It has been proposed to modify preferential attachment by adding random attachment.  By applying those approaches to data from DBLP database, it was proved that both BAand IC models gave the same results.</div>
+
+
+
+
+
+
+
+
 
 ###### 19.05.2020 
 
@@ -76,7 +96,7 @@ TBA</div>
 
 
 > <div style="text-align:justify">
-During the talk we will follow the work: Néda Z, Varga L, Biró TS (2017) Science and Facebook: The same popularity law!. PLOS ONE 12(7): e0179656. https://doi.org/10.1371/journal.pone.0179656 and derivate Pareto-Tsallis distribution as an usefull tool in the description of the citation networ.</div>
+During the talk we will follow the work: Néda Z, Varga L, Biró TS (2017) Science and Facebook: The same popularity law!. PLOS ONE 12(7): e0179656. https://doi.org/10.1371/journal.pone.0179656 and derivate Pareto-Tsallis distribution as an usefull tool in the description of the citation network.</div>
 
 
 
