@@ -12,7 +12,7 @@
 Mondays, 9:00-11:00 (Warsaw)
 
 #### Place:
-**we are meeting online (Teams/zoom), feel free to write an e-mail and ask for the link**
+**We are meeting online (Teams/zoom), feel free to write an e-mail and ask for the link**
 
 #### Topics:
 * data aggregation and fusion
@@ -27,6 +27,35 @@ Mondays, 9:00-11:00 (Warsaw)
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
+|04.10.2021|-- |Group's last research summary|
+|18.10.2021|Przemysław Nowak |[TBA](#18102021)                                                                                                      |
+
+
+
+
+
+### Abstracts
+
+###### 18.10.2021 
+
+#### **_TBA_**
+
+##### Przemysław Nowak
+
+
+> <div style="text-align:justify">
+TBA</div>
+
+
+
+
+---
+
+### Schedule 2019-2021 
+
+
+| Date     | Author                                       | Title                                                               |
+|:---------|:---------------------------------------------|:--------------------------------------------------------------------|
 |08.10.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |      [How to measure Science?](#08102019)                                                                                                      |
 |18.10.2019|-- |Recent literature review |
 |26.11.2019|[Anna Cena](http://cena.rexamine.com/) |[The true dimension of scientific impact](#26112019)  |
@@ -36,7 +65,7 @@ Mondays, 9:00-11:00 (Warsaw)
 
 
 
-### Abstracts
+### Abstracts 2019-2021
 
 ###### 24.01.2020 
 
@@ -74,12 +103,7 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 
 
-
-
-
-
 ---
-
 
 ### Schedule -  2018/2019
 
@@ -100,7 +124,7 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 
 
-### Abstracts
+### Abstracts 2018-2019
 
 ###### 27.06.2019 
 
