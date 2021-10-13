@@ -64,11 +64,37 @@ TBA</div>
 |19.05.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[Pareto-Tsallis distribution for bibliometric data](#19052020)                                                                                                      |
 |17.07.2020|Przemysław Nowak |[Preferential attachment rules in modeling bibliometric data](#17072020)      |        
 |08.09.2020|Barbara Żogała-Siudem |[How to fit to bibliometric data?](#08092020)                                                |
-
+|26.10.2020|[Marek Gagolewski](http://www.gagolewski.com)      |[Ockham's index](#26102020)| 
+|19.11.2020|[Anna Cena](http://cena.rexamine.com/) |Citation models vs. bibliometric indices  |
+|15.02.2021|Barbara Żogała-Siudem |How to fit to measure errors in bibliometric data?                                                |
+|12.07.2021|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[DGBD](#12072021)                                                                                                      |
 
 
 
 ### Abstracts 2019-2021
+
+###### 12.07.2021 
+
+#### **_DGBD_**
+
+##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
+
+
+> <div style="text-align:justify">
+Discrete Generalized Beta Distribution (DGBD) finds application in the description of data coming from an impressively broad spectrum of fields and disciplines. From scienceometrics, to income and complex network modeling, to art and ecology. What is this distribution? What makes it universal? And whether has anything to do with Beta Distribution ? I will try to answer these questions during my talk. .</div>
+
+
+
+
+
+###### 26.10.2020  
+
+#### **_Ockham's index_**
+
+##### [Marek Gagolewski](http://www.gagolewski.com) <sup>\[[Deakin University](https://www.deakin.edu.au/)</sup>
+
+> <div style="text-align:justify">TBA</div>
+
 
 ###### 08.09.2020 
 
