@@ -44,7 +44,8 @@ Mondays, 9:00-11:00 (Warsaw)
 
 
 > <div style="text-align:justify">
-TBA</div>
+Price model for the growth of a bibliographic network is a known approach since 1965. In our case we distribute citations using both preferential attachment (also known as rich get richer) and random attachment rule. Applying the new method based on rank-size distribution we show that Price model can be described with Pareto-type 2 distribution. Moreover, knowing of this Pareto-Price relation we perform different estimators of the underlying model parameters, based on DBLP database.
+</div>
 
 
 
