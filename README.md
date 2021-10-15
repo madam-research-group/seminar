@@ -28,7 +28,7 @@ Mondays, 9:00-11:00 (Warsaw)
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
 |04.10.2021|-- |Group's last research summary|
-|18.10.2021|Przemysław Nowak |[TBA](#18102021)                                                                                                      |
+|18.10.2021|Przemysław Nowak |[Luck, Reason, and the Price–Pareto type-2 Distributions](#18102021)                                                                                                      |
 
 
 
@@ -38,7 +38,7 @@ Mondays, 9:00-11:00 (Warsaw)
 
 ###### 18.10.2021 
 
-#### **_TBA_**
+#### **_Luck, Reason, and the Price–Pareto type-2 Distributions_**
 
 ##### Przemysław Nowak <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
 
