@@ -50,6 +50,7 @@ Citation network is one of numerous examples of complex networks. Recent years h
 One of these models is the IC model, proposed in 2013 by Georgia Ionescu and Bastien Chopard. It reconstructs a citation vector based only on the numbers of publications and citations of a given author. In every time step constant number of citations is distributed among papers. There are two different groups of citations – self and external, both distributed according to the preferential attachment rule.
  
 In my Engineer’s and Master’s Theses I worked on some modifications of the IC model, which were ment to improve its efficiency. I tested new ideas for numbers of citations distributed in every time step and new methods of citation distribution. In both cases modifications were based on the analysis of real bibliometric data. In my presentation I would like to talk about the IC model, proposed modifications and obtained results.</div>
+</div>
 
 
 
