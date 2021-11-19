@@ -45,18 +45,13 @@ Mondays, 9:00-11:00 (Warsaw)
 
 
 > <div style="text-align:justify">
-Citation network is one of numerous examples of complex networks. Recent years have witnessed a growing interest of scientific community in various methods of estimating and measuring of the performance of researchers’ outputs. Scientific impact of a researcher can be now determined by multiple bibliometric indicators. Moreover, many models for the citation network have been developed over the years.
-</div>
-> <div style="text-align:justify">
-One of these models is the IC model, proposed in 2013 by Georgia Ionescu and Bastien Chopard. It reconstructs a citation vector based only on the numbers of publications and citations of a given author. In every time step constant number of citations is distributed among papers. There are two different groups of citations – self and external, both distributed according to the preferential attachment rule.
-</div>
+Citation network is one of numerous examples of complex networks. Recent years have witnessed a growing interest of scientific community in various methods of estimating and measuring of the performance of researchers’ outputs. Scientific impact of a researcher can be now determined by multiple bibliometric indicators. Moreover, many models for the citation network have been developed over the years.</div>
 
 > <div style="text-align:justify">
-In my Engineer’s and Master’s Theses I worked on some modifications of the IC model, which were ment to improve its efficiency. I tested new ideas for numbers of citations distributed in every time step and new methods of citation distribution. In both cases modifications were based on the analysis of real bibliometric data. In my presentation I would like to talk about the IC model, proposed modifications and obtained results.
-</div>
+One of these models is the IC model, proposed in 2013 by Georgia Ionescu and Bastien Chopard. It reconstructs a citation vector based only on the numbers of publications and citations of a given author. In every time step constant number of citations is distributed among papers. There are two different groups of citations – self and external, both distributed according to the preferential attachment rule.</div>
 
-
-
+> <div style="text-align:justify">
+In my Engineer’s and Master’s Theses I worked on some modifications of the IC model, which were ment to improve its efficiency. I tested new ideas for numbers of citations distributed in every time step and new methods of citation distribution. In both cases modifications were based on the analysis of real bibliometric data. In my presentation I would like to talk about the IC model, proposed modifications and obtained results.</div>
 
 
 
