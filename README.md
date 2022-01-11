@@ -30,12 +30,53 @@ Mondays, 9:00-11:00 (Warsaw)
 |04.10.2021|-- |Group's last research summary|
 |18.10.2021|Przemysław Nowak |[Luck, Reason, and the Price–Pareto type-2 Distributions](#18102021)                                                                                                      |
 |22.11.2021|Aleksandra Buczek |[Modelling of citation vectors and Hirsch index](#22112021)                                                                                                      |
+|22.11.2021|Grzegorz Moś  |[An overview of honeycomb-based graph aggregation functions](#17012022)                                                                                                      |
 
 
 
 
 
 ### Abstracts
+
+
+###### 17.01.2022 
+
+#### **_Modelling of citation vectors and Hirsch index_**
+
+##### Grzegorz Moś <sup>\[ University of Silesia in Katowice ] </sup>
+
+
+> <div style="text-align:justify">
+Structures  that  are  based  on  honeycomb  graphs  appear  in  many  scientific  fields.  Many  chemical  molecules contain such a structure. Some polymers consist of a hexagonal part in their repeating subunits or are  made  with  such  hexagons  [1],  [2].  Some  regular  benzenoid  strips  and  their  polynomial  representation  were  presented [3], [4], [5]. There are many appearances of honeycombs in nature. They are widely used in material  science  and  physics  because  of  their  properties  [6].  The  prevalence  leads  to  the  necessity  of  handling  a  vast amount  of  data.  That  indicates  that  the  databases  have  to  be  greater  and  greater.  Thus,  optimization  and aggregation methods are essential to possess and process such data. </div>
+
+> <div style="text-align:justify">
+An aggregation is a mapping that returns exactly one object from a given sequence of objects [7]. The important part of data aggregation is comparing the objects. It is well studied for numbers where there are many aggregation  functions,  for  example,  averages,  minimum,  maximum.  Strings  can  be  aggregated  with  a  merge function or with a length function [8]. Hence, it is possible to aggregate any object. The main problem is to define the  axioms  with  meaningful  grounds.  The  idea  has  to  have  logical  justification  under-considered  field,  for example, average in statistics or minimum and maximum in fuzzy logic. Some axioms are expected to be satisfied by any aggregation function. The returned element should not be simpler than the simplest considered object. On  the  other  hand,  it  should  not  be  more  complex  than  the  most  complex  considered  object.  Moreover, associative, commutative, and monotone properties should be satisfied.</div>
+
+> <div style="text-align:justify">
+The  main  point  of  this presentation  is  to  specify  the  grounds  of  the  honeycomb-based  graphs aggregation and explain such an approach. It is justified by given the most uncomplicated cases. The graphs based on  a  hexagon  grid  where  every  vertex  belongs  to  at  most  two  edges  and  exactly  two  vertices  that  belong  to exactly  one  edge  each  are  the  most  straightforward  considered  structures.  Moreover,  it  is  assumed  that  the graph is connected. Otherwise, it would be enough to treat a disconnected graph as a set of connected graphs. The next key step is to introduce an approach to deal with vertices of degree 3. Furthermore, there are presented first  examples  of  aggregating  functions.  The  greatest  common  subset  and  the  least  set  containing  sets  are adapted to graphs as a considered purpose. This is preceded by exploring current results from the bibliography, which has something in common with aggregate theory. The conclusion and future work are formulated at the end.</div>
+
+> <div style="text-align:justify">
+[1] Coleman, M. M. (2019). Fundamentals of Polymer Science: An introductory text. Routledge. 
+[2] McCrum, N. G., Buckley, C. P., Bucknall, C. B., Bucknall, C. B., & Bucknall, C. B. (1997). Principles of polymer 
+engineering. Oxford University Press, USA. 
+[3] Langner, J., Witek, H. A., & Mos, G. (2018). Zhang-zhang polynomials of multiple zigzag chains. MATCH 
+Commun. Math. Comput. Chem, 80(1), 245-265. 
+[4] Witek, H. A., Langner, J., Moś, G., & Chou, C. P. (2017). Zhang–Zhang polynomials of regular 5–tier 
+benzenoid strips. MATCH Commun. Math. Comput. Chem, 78(2), 487-504. 
+[5] Witek, H. A., Moś, G., & Chou, C. P. (2015). Zhang-Zhang polynomials of regular 3-and 4-tier benzenoid 
+strips. MATCH Commun. Math. Comput. Chem, 73(2), 427-442. 
+[6] Wang, Z. (2019). Recent advances in novel metallic honeycomb structure. Composites Part B: Engineering, 
+166, 731-741. 
+[7] Grabisch, M., Marichal, J. L., Mesiar, R., & Pap, E. (2009). Aggregation functions (No. 127). Cambridge 
+University Press. 
+[8] Gągolewski, M. (2015). Data fusion: theory, methods, and applications. Institute of Computer Science, 
+Polish Academy of Scienceso.
+</div>
+
+
+
+
+
 
 ###### 22.11.2021 
 
