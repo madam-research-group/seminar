@@ -32,12 +32,40 @@ Mondays, 9:00-11:00 (Warsaw)
 |22.11.2021|Aleksandra Buczek |[Modelling of citation vectors and Hirsch index](#22112021)                                                                                                      |
 |10.01.2022|[Anna Cena](http://cena.rexamine.com/) |[TBA](#10012022)  |
 |17.01.2022|Grzegorz Moś  |[An overview of honeycomb-based graph aggregation functions](#17012022)                                                                                                      |
+|24.01.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[The Formula for (bibliometric) success](#24012022)                                                                                                      |
+|31.01.2022|Maciej J. Mrowiński |[TBA](#31012022)                                                                                                      |
+
+
 
 
 
 
 
 ### Abstracts
+
+###### 31.01.2022 
+
+#### **_TBA_**
+
+##### Maciej J. Mrowiński <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
+
+
+> <div style="text-align:justify">
+TBA.</div>
+
+
+
+###### 24.01.2022 
+
+#### **_The Formula for (bibliometric) success_**
+
+##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
+
+
+> <div style="text-align:justify">
+TBA.</div>
+
+
 
 
 ###### 17.01.2022 
@@ -152,7 +180,7 @@ Price model for the growth of a bibliographic network is a known approach since 
 
 
 > <div style="text-align:justify">
-Discrete Generalized Beta Distribution (DGBD) finds application in the description of data coming from an impressively broad spectrum of fields and disciplines. From scienceometrics, to income and complex network modeling, to art and ecology. What is this distribution? What makes it universal? And whether has anything to do with Beta Distribution ? I will try to answer these questions during my talk. .</div>
+Discrete Generalized Beta Distribution (DGBD) finds application in the description of data coming from an impressively broad spectrum of fields and disciplines. From scienceometrics, to income and complex network modeling, to art and ecology. What is this distribution? What makes it universal? And whether has anything to do with Beta Distribution ? I will try to answer these questions during my talk.</div>
 
 
 
