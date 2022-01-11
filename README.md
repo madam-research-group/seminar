@@ -30,7 +30,8 @@ Mondays, 9:00-11:00 (Warsaw)
 |04.10.2021|-- |Group's last research summary|
 |18.10.2021|Przemysław Nowak |[Luck, Reason, and the Price–Pareto type-2 Distributions](#18102021)                                                                                                      |
 |22.11.2021|Aleksandra Buczek |[Modelling of citation vectors and Hirsch index](#22112021)                                                                                                      |
-|22.11.2021|Grzegorz Moś  |[An overview of honeycomb-based graph aggregation functions](#17012022)                                                                                                      |
+|10.01.2022|[Anna Cena](http://cena.rexamine.com/) |[TBA](#10012022)  |
+|17.01.2022|Grzegorz Moś  |[An overview of honeycomb-based graph aggregation functions](#17012022)                                                                                                      |
 
 
 
@@ -41,7 +42,7 @@ Mondays, 9:00-11:00 (Warsaw)
 
 ###### 17.01.2022 
 
-#### **_Modelling of citation vectors and Hirsch index_**
+#### **_An overview of honeycomb-based graph aggregation functions_**
 
 ##### Grzegorz Moś <sup>\[ University of Silesia in Katowice ] </sup>
 
@@ -73,6 +74,17 @@ University Press.
 Polish Academy of Scienceso.
 </div>
 
+
+###### 10.01.2022 
+
+#### **_TBA**
+
+##### [Anna Cena](http://cena.rexamine.com/) <sup>\[ <a href="https://ww2.mini.pw.edu.pl/)\">WUT</a> ] </sup>
+
+
+> <div style="text-align:justify">
+TBA
+</div>
 
 
 
