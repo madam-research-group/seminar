@@ -59,7 +59,7 @@ TBA.</div>
 
 #### **_The Formula for (bibliometric) success_**
 
-##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
+##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[ <a href="http://fizyka.pw.edu.pl">WUT</a> ] </sup>
 
 
 > <div style="text-align:justify">
@@ -72,7 +72,7 @@ TBA.</div>
 
 #### **_An overview of honeycomb-based graph aggregation functions_**
 
-##### Grzegorz Moś <sup>\[ University of Silesia in Katowice ] </sup>
+##### Grzegorz Moś <sup>\[ <a href="https://us.edu.pl/">University of Silesia in Katowice</a> ] </sup>
 
 
 > <div style="text-align:justify">
