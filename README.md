@@ -63,8 +63,7 @@ TBA.</div>
 
 
 > <div style="text-align:justify">
-During the talk, we will be looking for compact, analytical formulas for calculating canonical bibliometric indexes. We will start with the well-known Lotka informetrics and generalize our considerations to more complex bibliometric models. Attention! The talk contains a large number of equations!
-</div>
+During the talk, we will be looking for compact, analytical formulas for calculating canonical bibliometric indexes. We will start with the well-known Lotka informetrics and generalize our considerations to more complex bibliometric models. Attention! The talk contains a large number of equations!</div>
 
 
 
@@ -100,8 +99,7 @@ strips. MATCH Commun. Math. Comput. Chem, 73(2), 427-442.
 [7] Grabisch, M., Marichal, J. L., Mesiar, R., & Pap, E. (2009). Aggregation functions (No. 127). Cambridge 
 University Press. 
 [8] Gągolewski, M. (2015). Data fusion: theory, methods, and applications. Institute of Computer Science, 
-Polish Academy of Scienceso.
-</div>
+Polish Academy of Scienceso.</div>
 
 
 ###### 10.01.2022 
@@ -112,8 +110,7 @@ Polish Academy of Scienceso.
 
 
 > <div style="text-align:justify">
-TBA
-</div>
+TBA</div>
 
 
 
