@@ -85,14 +85,11 @@ An aggregation is a mapping that returns exactly one object from a given sequenc
 The  main  point  of  this presentation  is  to  specify  the  grounds  of  the  honeycomb-based  graphs aggregation and explain such an approach. It is justified by given the most uncomplicated cases. The graphs based on  a  hexagon  grid  where  every  vertex  belongs  to  at  most  two  edges  and  exactly  two  vertices  that  belong  to exactly  one  edge  each  are  the  most  straightforward  considered  structures.  Moreover,  it  is  assumed  that  the graph is connected. Otherwise, it would be enough to treat a disconnected graph as a set of connected graphs. The next key step is to introduce an approach to deal with vertices of degree 3. Furthermore, there are presented first  examples  of  aggregating  functions.  The  greatest  common  subset  and  the  least  set  containing  sets  are adapted to graphs as a considered purpose. This is preceded by exploring current results from the bibliography, which has something in common with aggregate theory. The conclusion and future work are formulated at the end.</div>
 
 > <div style="text-align:justify">
-[1] Coleman, M. M. (2019). Fundamentals of Polymer Science: An introductory text. Routledge.
- 
+[1] Coleman, M. M. (2019). Fundamentals of Polymer Science: An introductory text. Routledge. 
 [2] McCrum, N. G., Buckley, C. P., Bucknall, C. B., Bucknall, C. B., & Bucknall, C. B. (1997). Principles of polymer 
 engineering. Oxford University Press, USA. 
-
 [3] Langner, J., Witek, H. A., & Mos, G. (2018). Zhang-zhang polynomials of multiple zigzag chains. MATCH 
 Commun. Math. Comput. Chem, 80(1), 245-265. 
-
 [4] Witek, H. A., Langner, J., Moś, G., & Chou, C. P. (2017). Zhang–Zhang polynomials of regular 5–tier 
 benzenoid strips. MATCH Commun. Math. Comput. Chem, 78(2), 487-504. 
 [5] Witek, H. A., Moś, G., & Chou, C. P. (2015). Zhang-Zhang polynomials of regular 3-and 4-tier benzenoid 
