@@ -63,7 +63,8 @@ TBA.</div>
 
 
 > <div style="text-align:justify">
-TBA.</div>
+During the talk, we will be looking for compact, analytical formulas for calculating canonical bibliometric indexes. We will start with the well-known Lotka informetrics and generalize our considerations to more complex bibliometric models. Attention! The talk contains a large number of equations!
+</div>
 
 
 
