@@ -118,7 +118,7 @@ Polish Academy of Scienceso.</div>
 
 ###### 10.01.2022 
 
-#### **_TBA**
+#### **_TBA_**
 
 ##### [Anna Cena](http://cena.rexamine.com/) <sup>\[ <a href="https://ww2.mini.pw.edu.pl/)\">WUT</a> ] </sup>
 
