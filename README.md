@@ -41,7 +41,7 @@ Mondays, 9:00-11:00 (Warsaw)
 
 ###### 31.01.2022 
 
-#### **_Scientific success from the perspective of the strength of weak ties _**
+#### **_Scientific success from the perspective of the strength of weak ties_**
 
 ##### Maciej J. Mrowiński <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
 
