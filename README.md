@@ -33,11 +33,7 @@ Mondays, 9:00-11:00 (Warsaw)
 |10.01.2022|[Anna Cena](http://cena.rexamine.com/) |[TBA](#10012022)  |
 |17.01.2022|Grzegorz Moś  |[An overview of honeycomb-based graph aggregation functions](#17012022)                                                                                                      |
 |24.01.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[The Formula for (bibliometric) success](#24012022)                                                                                                      |
-|31.01.2022|Maciej J. Mrowiński |[TBA](#31012022)                                                                                                      |
-
-
-
-
+|31.01.2022|Maciej J. Mrowiński |[Scientific success from the perspective of the strength of weak ties](#31012022)                                                                                                      |
 
 
 
@@ -45,13 +41,13 @@ Mondays, 9:00-11:00 (Warsaw)
 
 ###### 31.01.2022 
 
-#### **_TBA_**
+#### **_Scientific success from the perspective of the strength of weak ties _**
 
 ##### Maciej J. Mrowiński <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
 
 
 > <div style="text-align:justify">
-TBA.</div>
+Granovetter’s theory of weak ties in social networks can be expressed as as two separate hypotheses. The first hypothesis states that strong ties, which are responsible for the majority of interactions in a network, are located in highly connected clusters of nodes. According to the second hypothesis, these clusters are connected by weak ties and nodes with access to such ties have an advantage over those with only strong connections. In our work, we test both parts of Granovetter’s theory using the co-authorship network of articles recreated from the DBLP dataset. We show that the very definition of connection strength and the asymmetry of social ties play a crucial role in the theory.</div>
 
 
 
