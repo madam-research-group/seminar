@@ -1,24 +1,28 @@
-
 ![MADAM](madam_500.png)
 
-## Seminar info
+## Seminar Info
 
-#### Hosts:
+#### Hosts
+
 * Dr [Anna Cena](http://cena.rexamine.com/)
-* Prof. [Marek Gagolewski](http://www.gagolewski.com) 
+* Prof. [Marek Gagolewski](https://www.gagolewski.com) 
 * Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
-#### Time:
-Mondays, 9:00-11:00 (Warsaw)
+#### Time
 
-#### Place:
-**We are meeting online (Teams/zoom), feel free to write an e-mail and ask for the link**
+Mondays, 9:00-11:00 ([Warsaw](https://www.timehubzone.com/time/zone/poland/warsaw))
 
-#### Topics:
-* data aggregation and fusion
+#### Location
+
+**We are meeting online (*M$ Teams*), feel free to request the link or subscribe to our newsletter via [email](http://www.if.pw.edu.pl/~siudem/).**
+
+#### Topics
+
+* data fusion, aggregation, and clustering
 * complex networks and agent-based models
 * machine learning algorithms
-* interdisciplinary modeling (economics, social sciences, sports, etc.)
+* computational and applied statistics
+* interdisciplinary modelling (economics, social sciences, sports, etc.)
 
 
 
@@ -198,9 +202,25 @@ Discrete Generalized Beta Distribution (DGBD) finds application in the descripti
 
 #### **_Ockham's index_**
 
-##### [Marek Gagolewski](http://www.gagolewski.com) <sup>\[[Deakin University](https://www.deakin.edu.au/)</sup>
+##### [Marek Gagolewski](http://www.gagolewski.com) <sup>\[ [Deakin University](https://www.deakin.edu.au/) \]</sup>
 
-> <div style="text-align:justify">TBA</div>
+> <div style="text-align:justify">
+We demonstrate that by using a triple of simple numerical summaries:
+an author's productivity, their overall impact, and a single other
+bibliometric index that aims to capture the inequality or skewness
+of the citation distribution, we can reconstruct other popular metrics
+of bibliometric impact with a sufficient degree of precision.
+We thus conclude that the use of many indices may be unnecessary –
+entities should not be multiplied beyond
+necessity. Such a study was possible thanks to our new agent-based model
+(Siudem, Żogała-Siudem, Cena, Gagolewski; PNAS 117; 2020), which
+not only assumes that citations are distributed according to a mixture
+of the rich-get-richer rule and sheer chance, but also fits real
+bibliometric data quite well. We investigate which bibliometric
+indices have good discriminative power, which measures can be easily
+predicted as functions of other ones, and what implications to the research
+evaluation practice our findings have.
+</div>
 
 
 ###### 08.09.2020 
