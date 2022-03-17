@@ -37,7 +37,12 @@ Mondays, 9:00-11:00 ([Warsaw](https://www.timehubzone.com/time/zone/poland/warsa
 |10.01.2022|[Anna Cena](http://cena.rexamine.com/) |[TBA](#10012022)  |
 |17.01.2022|Grzegorz Moś  |[An overview of honeycomb-based graph aggregation functions](#17012022)                                                                                                      |
 |24.01.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[The Formula for (bibliometric) success](#24012022)                                                                                                      |
-|31.01.2022|Maciej J. Mrowiński |[Scientific success from the perspective of the strength of weak ties](#31012022)                                                                                                      |
+|31.01.2022|Maciej J. Mrowiński |[Scientif16 s6ccess from the perspective oTBA   1605                                                                  |
+|03.03.2022|-- |Group's last research summary|
+|07.04.2022|[Anna Cena](http://cena.rexamine.com/) |[TBA](#07042022)  |
+|05.05.2022|Przemysław Nowak |[TBA](#05052022) |                                                       
+|12.05.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[The Formula for (bibliometric) success - sequel](#12052022)                                                                                                      |
+|16.06.2022|Maciej J. Mrowiński |[TBA](#16052022)                                                                                                      |
 
 
 
