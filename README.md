@@ -5,16 +5,16 @@
 #### Hosts
 
 * Dr [Anna Cena](http://cena.rexamine.com/)
-* Prof. [Marek Gagolewski](https://www.gagolewski.com) 
+* Prof. [Marek Gagolewski](https://www.gagolewski.com)
 * Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)
 
 #### Time
 
-Mondays, 9:00-11:00 ([Warsaw](https://www.timehubzone.com/time/zone/poland/warsaw))
+Mondays, 9:00am-11:00am ([Warsaw](https://www.timehubzone.com/time/zone/poland/warsaw))
 
 #### Location
 
-**We are meeting online (*M$ Teams*), feel free to request the link or subscribe to our newsletter via [email](http://www.if.pw.edu.pl/~siudem/).**
+**Online (*M$ Teams*)** – feel free to request an access link or subscribe to our newsletter via [email](http://www.if.pw.edu.pl/~siudem/)
 
 #### Topics
 
@@ -26,29 +26,29 @@ Mondays, 9:00-11:00 ([Warsaw](https://www.timehubzone.com/time/zone/poland/warsa
 
 
 
-### Schedule 
+### Schedule
 
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
-|04.10.2021|-- |Group's last research summary|
-|18.10.2021|Przemysław Nowak |[Luck, Reason, and the Price–Pareto type-2 Distributions](#18102021)                                                                                                      |
-|22.11.2021|Aleksandra Buczek |[Modelling of citation vectors and Hirsch index](#22112021)                                                                                                      |
-|10.01.2022|[Anna Cena](http://cena.rexamine.com/) |[TBA](#10012022)  |
-|17.01.2022|Grzegorz Moś  |[An overview of honeycomb-based graph aggregation functions](#17012022)                                                                                                      |
-|24.01.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[The Formula for (bibliometric) success](#24012022)                                                                                                      |
-|31.01.2022|Maciej J. Mrowiński |[Scientific success from the perspective of the strength of weak ties](#31012022)                                                                 |
-|03.03.2022|-- |Group's last research summary|
-|07.04.2022|[Anna Cena](http://cena.rexamine.com/) |[TBA](#07042022)  |
-|05.05.2022|Przemysław Nowak |[TBA](#05052022) |                                                       
-|12.05.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[The Formula for (bibliometric) success - sequel](#12052022)                                                                                                      |
-|16.06.2022|Maciej J. Mrowiński |[TBA](#16052022)                                                                                                      |
+|04.10.2021|–                 | (Group's internal meeting)                                                            |
+|18.10.2021|Przemysław Nowak  |[Luck, Reason, and the Price–Pareto type-2 Distributions](#18102021)                   |
+|22.11.2021|Aleksandra Buczek |[Modelling of citation vectors and Hirsch index](#22112021)                            |
+|10.01.2022|[Anna Cena](http://cena.rexamine.com/) |[TBA](#10012022)                                                  |
+|17.01.2022|Grzegorz Moś  |[An overview of honeycomb-based graph aggregation functions](#17012022)                    |
+|24.01.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[The formula for (bibliometric) success](#24012022)      |
+|31.01.2022|Maciej J. Mrowiński |[Scientific success from the perspective of the strength of weak ties](#31012022)    |
+|03.03.2022|–                 | (Group's internal meeting)                                                            |
+|07.04.2022|[Anna Cena](http://cena.rexamine.com/) |[TBA](#07042022)                                                  |
+|05.05.2022|Przemysław Nowak |[TBA](#05052022)                                                                        |
+|12.05.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[The formula for (bibliometric) success - sequel](#12052022) |
+|16.06.2022|Maciej J. Mrowiński |[TBA](#16052022)                                                                         |
 
 
 
 ### Abstracts
 
-###### 31.01.2022 
+###### 31.01.2022
 
 #### **_Scientific success from the perspective of the strength of weak ties_**
 
@@ -60,7 +60,7 @@ Granovetter’s theory of weak ties in social networks can be expressed as as tw
 
 
 
-###### 24.01.2022 
+###### 24.01.2022
 
 #### **_The Formula for (bibliometric) success_**
 
@@ -68,12 +68,12 @@ Granovetter’s theory of weak ties in social networks can be expressed as as tw
 
 
 > <div style="text-align:justify">
-During the talk, we will be looking for compact, analytical formulas for calculating canonical bibliometric indexes. We will start with the well-known Lotka informetrics and generalize our considerations to more complex bibliometric models. Attention! The talk contains a large number of equations!</div>
+During the talk, we will be looking for compact, analytical formulas for calculating canonical bibliometric indexes. We will start with the well-known Lotka informetrics and generalise our considerations to more complex bibliometric models.</div>
 
 
 
 
-###### 17.01.2022 
+###### 17.01.2022
 
 #### **_An overview of honeycomb-based graph aggregation functions_**
 
@@ -93,35 +93,35 @@ The  main  point  of  this presentation  is  to  specify  the  grounds  of  the 
 [1] Coleman, M. M. (2019). Fundamentals of Polymer Science: An introductory text. Routledge. </div>
 
 > <div style="text-align:justify">
-[2] McCrum, N. G., Buckley, C. P., Bucknall, C. B., Bucknall, C. B., & Bucknall, C. B. (1997). Principles of polymer 
+[2] McCrum, N. G., Buckley, C. P., Bucknall, C. B., Bucknall, C. B., & Bucknall, C. B. (1997). Principles of polymer
 engineering. Oxford University Press, USA.</div>
 
-> <div style="text-align:justify"> 
-[3] Langner, J., Witek, H. A., & Mos, G. (2018). Zhang-zhang polynomials of multiple zigzag chains. MATCH 
+> <div style="text-align:justify">
+[3] Langner, J., Witek, H. A., & Mos, G. (2018). Zhang-zhang polynomials of multiple zigzag chains. MATCH
 Commun. Math. Comput. Chem, 80(1), 245-265.</div>
 
-> <div style="text-align:justify"> 
-[4] Witek, H. A., Langner, J., Moś, G., & Chou, C. P. (2017). Zhang–Zhang polynomials of regular 5–tier 
+> <div style="text-align:justify">
+[4] Witek, H. A., Langner, J., Moś, G., & Chou, C. P. (2017). Zhang–Zhang polynomials of regular 5–tier
 benzenoid strips. MATCH Commun. Math. Comput. Chem, 78(2), 487-504. </div>
 
 > <div style="text-align:justify">
-[5] Witek, H. A., Moś, G., & Chou, C. P. (2015). Zhang-Zhang polynomials of regular 3-and 4-tier benzenoid 
+[5] Witek, H. A., Moś, G., & Chou, C. P. (2015). Zhang-Zhang polynomials of regular 3-and 4-tier benzenoid
 strips. MATCH Commun. Math. Comput. Chem, 73(2), 427-442. </div>
 
 > <div style="text-align:justify">
-[6] Wang, Z. (2019). Recent advances in novel metallic honeycomb structure. Composites Part B: Engineering, 
+[6] Wang, Z. (2019). Recent advances in novel metallic honeycomb structure. Composites Part B: Engineering,
 166, 731-741. </div>
 
 > <div style="text-align:justify">
-[7] Grabisch, M., Marichal, J. L., Mesiar, R., & Pap, E. (2009). Aggregation functions (No. 127). Cambridge 
+[7] Grabisch, M., Marichal, J. L., Mesiar, R., & Pap, E. (2009). Aggregation functions (No. 127). Cambridge
 University Press. </div>
 
 > <div style="text-align:justify">
-[8] Gągolewski, M. (2015). Data fusion: theory, methods, and applications. Institute of Computer Science, 
+[8] Gągolewski, M. (2015). Data fusion: theory, methods, and applications. Institute of Computer Science,
 Polish Academy of Scienceso.</div>
 
 
-###### 10.01.2022 
+###### 10.01.2022
 
 #### **_TBA_**
 
@@ -135,7 +135,7 @@ TBA</div>
 
 
 
-###### 22.11.2021 
+###### 22.11.2021
 
 #### **_Modelling of citation vectors and Hirsch index_**
 
@@ -149,11 +149,11 @@ Citation network is one of numerous examples of complex networks. Recent years h
 One of these models is the IC model, proposed in 2013 by Georgia Ionescu and Bastien Chopard. It reconstructs a citation vector based only on the numbers of publications and citations of a given author. In every time step constant number of citations is distributed among papers. There are two different groups of citations – self and external, both distributed according to the preferential attachment rule.</div>
 
 > <div style="text-align:justify">
-In my Engineer’s and Master’s Theses I worked on some modifications of the IC model, which were ment to improve its efficiency. I tested new ideas for numbers of citations distributed in every time step and new methods of citation distribution. In both cases modifications were based on the analysis of real bibliometric data. In my presentation I would like to talk about the IC model, proposed modifications and obtained results.</div>
+In my Engineer’s and Master’s Theses I worked on some modifications of the IC model, which were meant to improve its efficiency. I tested new ideas for numbers of citations distributed in every time step and new methods of citation distribution. In both cases modifications were based on the analysis of real bibliometric data. In my presentation I would like to talk about the IC model, proposed modifications and obtained results.</div>
 
 
 
-###### 18.10.2021 
+###### 18.10.2021
 
 #### **_Luck, Reason, and the Price–Pareto type-2 Distributions_**
 
@@ -167,7 +167,7 @@ Price model for the growth of a bibliographic network is a known approach since 
 
 ---
 
-### Schedule 2019-2021 
+### Schedule 2019-2021
 
 
 | Date     | Author                                       | Title                                                               |
@@ -178,9 +178,9 @@ Price model for the growth of a bibliographic network is a known approach since 
 |24.01.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |Scientific problems in the universities' rankings                                                                                                      |
 |05.05.2020|working seminar |Bibliometric models review                                                                                                      |
 |19.05.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[Pareto-Tsallis distribution for bibliometric data](#19052020)                                                                                                      |
-|17.07.2020|Przemysław Nowak |[Preferential attachment rules in modeling bibliometric data](#17072020)      |        
+|17.07.2020|Przemysław Nowak |[Preferential attachment rules in modeling bibliometric data](#17072020)      |
 |08.09.2020|Barbara Żogała-Siudem |[How to fit to bibliometric data?](#08092020)                                                |
-|26.10.2020|[Marek Gagolewski](http://www.gagolewski.com)      |[Ockham's index](#26102020)| 
+|26.10.2020|[Marek Gagolewski](http://www.gagolewski.com)      |[Ockham's index](#26102020)|
 |19.11.2020|[Anna Cena](http://cena.rexamine.com/) |Citation models vs. bibliometric indices  |
 |15.02.2021|Barbara Żogała-Siudem |How to fit to measure errors in bibliometric data?                                                |
 |12.07.2021|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[DGBD](#12072021)                                                                                                      |
@@ -189,7 +189,7 @@ Price model for the growth of a bibliographic network is a known approach since 
 
 ### Abstracts 2019-2021
 
-###### 12.07.2021 
+###### 12.07.2021
 
 #### **_DGBD_**
 
@@ -197,13 +197,13 @@ Price model for the growth of a bibliographic network is a known approach since 
 
 
 > <div style="text-align:justify">
-Discrete Generalized Beta Distribution (DGBD) finds application in the description of data coming from an impressively broad spectrum of fields and disciplines. From scienceometrics, to income and complex network modeling, to art and ecology. What is this distribution? What makes it universal? And whether has anything to do with Beta Distribution ? I will try to answer these questions during my talk.</div>
+Discrete Generalised Beta Distribution (DGBD) finds application in the description of data coming from an impressively broad spectrum of fields and disciplines. From scientometrics, to income and complex network modelling, to art and ecology. What is this distribution? What makes it universal? And whether has anything to do with the Beta Distribution? I will try to answer these questions during my talk.</div>
 
 
 
 
 
-###### 26.10.2020  
+###### 26.10.2020
 
 #### **_Ockham's index_**
 
@@ -228,7 +228,7 @@ evaluation practice our findings have.
 </div>
 
 
-###### 08.09.2020 
+###### 08.09.2020
 
 #### **_How to fit to bibliometric data?_**
 
@@ -238,7 +238,7 @@ evaluation practice our findings have.
 
 
 
-###### 17.07.2020 
+###### 17.07.2020
 
 #### **_Preferential attachment rules in modeling bibliometric data_**
 
@@ -246,11 +246,11 @@ evaluation practice our findings have.
 
 
 > <div style="text-align:justify">
-The purpose of this talk was the analysis and modification of preferential attachment rule. It was done based on Barabási-Albert model for citation network and Ionescu-Chopard model for vectors of citations. It has been proposed to modify preferential attachment by adding random attachment.  By applying those approaches to data from DBLP database, it was proved that both BAand IC models gave the same results.</div>
+The purpose of this talk was the analysis and modification of preferential attachment rule. It was done based on Barabási-Albert model for citation network and Ionescu-Chopard model for vectors of citations. It has been proposed to modify preferential attachment by adding random attachment.  By applying those approaches to data from DBLP database, it was proved that both BA and IC models gave the same results.</div>
 
 
 
-###### 19.05.2020 
+###### 19.05.2020
 
 #### **_Pareto-Tsallis distribution for bibliometric data_**
 
@@ -258,14 +258,14 @@ The purpose of this talk was the analysis and modification of preferential attac
 
 
 > <div style="text-align:justify">
-During the talk we will follow the work: Néda Z, Varga L, Biró TS (2017) Science and Facebook: The same popularity law!. PLOS ONE 12(7): e0179656. https://doi.org/10.1371/journal.pone.0179656 and derivate Pareto-Tsallis distribution as an usefull tool in the description of the citation network.</div>
+During the talk we will follow the work: Néda Z, Varga L, Biró TS (2017) Science and Facebook: The same popularity law!. PLOS ONE 12(7): e0179656. https://doi.org/10.1371/journal.pone.0179656 and derive a Pareto-Tsallis distribution as an useful tool in the description of the citation network.</div>
 
 
 
 
 
 
-###### 26.11.2019 
+###### 26.11.2019
 
 #### **_The true dimension of scientific impact_**
 
@@ -274,11 +274,11 @@ During the talk we will follow the work: Néda Z, Varga L, Biró TS (2017) Scien
 
 > <div style="text-align:justify">
 The growing popularity of bibliometric indexes  (whose most famous example is the h-index by J.E. Hirsch) is opposed by those claiming that one's scientific impact cannot be reduced to a single number. Some even believe that our complex reality fails to submit to any quantitative description. We argue that neither of the two controversial extremes is true.
-By assuming that some citations are distributed according to the rich get richer rule (preferential attachment)  while some others are assigned totally at random (all in all, a paper needs a bibliography), we have crafted a  model that accurately summarizes citation records with merely three easily interpretable parameters: productivity, total impact,
+By assuming that some citations are distributed according to the rich get richer rule (preferential attachment)  while some others are assigned totally at random (all in all, a paper needs a bibliography), we have crafted a  model that accurately summarises citation records with merely three easily interpretable parameters: productivity, total impact,
 and how lucky an  author has been so far.</div>
 
 
-###### 08.10.2019 
+###### 08.10.2019
 
 #### **_How to measure Science?_**
 
@@ -286,7 +286,7 @@ and how lucky an  author has been so far.</div>
 
 
 > <div style="text-align:justify">
-Science of Science describes the new interdisciplinary field which combines traditional Bibliometry, Philosophy and Sociology of Science with Complexity Science and Data Science. In this talk, I will present a summary of the recent achievements in the field as well as the list of (still) open questions. In addition to those purely academic considerations, we also consider the practical consequences of such research (e.g. in the context of the planning of scientific career or  during ranking universities).</div>
+Science of Science describes the new interdisciplinary field which combines traditional Bibliometrics, Philosophy and Sociology of Science with Complexity Science and Data Science. In this talk, I will present a summary of the recent achievements in the field as well as the list of (still) open questions. In addition to those purely academic considerations, we also consider the practical consequences of such research (e.g. in the context of the planning of scientific career or  during ranking universities).</div>
 
 
 
@@ -303,7 +303,7 @@ Science of Science describes the new interdisciplinary field which combines trad
 |28.02.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[Interpolation with an arbitrary precision](#28022019)                                                                                                            |
 |23.05.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[Methodology of University Rankings S01E01 - QS](#23052019)                                                                                                            |
 |30.05.2019|[Anna Cena](http://cena.rexamine.com/) |[Methodology of University Rankings S01E02 - Times Higher Education](#30052019)                                                                                                            |
-|30.05.2019|Barbara Żogała-Siudem  |[Methodology of University Rankings S01E03 - ShanghaiRanking](#300520192)                                                                                                            |
+|30.05.2019|Barbara Żogała-Siudem  |[Methodology of University Rankings S01E03 - Shanghai Ranking](#300520192)                                                                                                            |
 |06.06.2019|[Jan Lasek](http://lasek.rexamine.com/)       |[New data-driven rating systems for association football](#060620192)                                                                                                            |
 |13.06.2019|Jarosław Klamut|[Activity clustering in continuous-time random walk formalism](#13062019)                                                                                                            |
 |27.06.2019|Mikołaj Biesaga & Szymon Talaga|[Discovery of socio-semantic networks based on discourse analysis on large corpora of documents](#27062019)                                                                                                            |
@@ -313,7 +313,7 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 ### Abstracts 2018-2019
 
-###### 27.06.2019 
+###### 27.06.2019
 
 #### **_Discovery of socio-semantic networks based on discourse analysis on large corpora of documents_**
 
@@ -321,13 +321,13 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 > <div style="text-align:justify">While reading newspapers of different publishers and watching different news channels humans intuitively perceive how different actors are described by different discourse sources. Can we do it in an automated and systematic fashion? Recent advances in natural language processing (NLP) techniques together with the increase of easily accessible computational power make it possible to create new analytic methods for studying socio-semantic systems. Especially, entity recognition methods and advanced part of speech tagging turned out to be crucial for automatic text processing. They allow to not only discover and classify main actors but also to understand semantics which are ascribed to them by content producers.</div>
 
-> <div style="text-align:justify">We propose a novel approach to automated discourse analysis on large corpora of documents which is a combination of four methods: entity recognition methods, topic modelling, sentiment analysis and analysis of syntactic dependencies. This approach allows to identify main actors (entity recognition method) and analyze differences in regard to how they are described (sentiment analysis and syntactic analysis) by different content sources. The differences are described along two main dimensions: semantics and sentiment (emotional valence). This technique makes it possible to discover complex networks of relations between actors and their discursive representations as well as content generating sources.</div>
+> <div style="text-align:justify">We propose a novel approach to automated discourse analysis on large corpora of documents which is a combination of four methods: entity recognition methods, topic modelling, sentiment analysis and analysis of syntactic dependencies. This approach allows to identify main actors (entity recognition method) and analyse differences in regard to how they are described (sentiment analysis and syntactic analysis) by different content sources. The differences are described along two main dimensions: semantics and sentiment (emotional valence). This technique makes it possible to discover complex networks of relations between actors and their discursive representations as well as content generating sources.</div>
 
 > <div style="text-align:justify">We present results of an application of the proposed approach to a corpus of texts published in 2017 and 2018 by leading European online magazines such as POLITICO Europe and Euronews English. The scope of the articles was narrowed to issues related to European Union (EU), Europe itself and world affairs as viewed from the European perspective. The main aim herein was to determine crucial actors (i.e. politicians, institutions) present in the discourse and  discover how discourse generating actors (i.e. POLITICO Europe, Euronews English) perceive/depict important public figures and institutions over the time period. The analysis is based on English content exclusively, but we will also discuss how this approach might be extended to other languages.</div>
 
 
 
-###### 13.06.2019 
+###### 13.06.2019
 
 <div style="color:crimson;"> Thursday, 15:15, room 102, Math building, WUT. </div>
 
@@ -346,7 +346,7 @@ Science of Science describes the new interdisciplinary field which combines trad
 > <div style="text-align:justify"> [3] Klamut, J. & Gubiec, T. (2019), Directed continuous-time random walk with memory, Eur. Phys. J. B 92:69.</div>
 
 
-###### 06.06.2019.2  
+###### 06.06.2019.2
 
 <div style="color:crimson;"> Thursday, 18:10, room 103, Math building, WUT. </div>
 
@@ -359,20 +359,20 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 
 
-###### 30.05.2019.2 
+###### 30.05.2019.2
 
 <div style="color:crimson;"> Thursday 15:00, room 103, Math building, WUT. </div>
 
 
-#### **_Methodology of University Rankings S01E03 - ShanghaiRanking_**
+#### **_Methodology of University Rankings S01E03 - Shanghai Ranking_**
 
 ##### Barbara Żogała-Siudem <sup>\[[SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
 
-> <div style="text-align:justify">Since 2003 (when the ShanghaiRanking was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News. Joint work with <a href="http://cena.rexamine.com/)">A. Cena</a>, M.J. Mrowiński and <a href="http://if.pw.edu.pl">G. Siudem</a>. under the  <a href="http://intvp.edu.pl/">InternationalVisibility Project</a>.</div>
+> <div style="text-align:justify">Since 2003 (when the Shanghai Ranking was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, Shanghai Ranking and US News. Joint work with <a href="http://cena.rexamine.com/)">A. Cena</a>, M.J. Mrowiński and <a href="http://if.pw.edu.pl">G. Siudem</a>. under the  <a href="http://intvp.edu.pl/">International Visibility Project</a>.</div>
 
 
 
-###### 30.05.2019  
+###### 30.05.2019
 
 <div style="color:crimson;"> Thursday 14:00, room 103, Math building, WUT. </div>
 
@@ -381,11 +381,11 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 ##### [Anna Cena](http://cena.rexamine.com/) <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/)\] </sup>
 
-> <div style="text-align:justify">Since 2003 (when the ShanghaiRanking was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News. Joint work with M.J. Mrowiński, <a href="http://if.pw.edu.pl/~siudem">G. Siudem</a> and B. Żogała-Siudem under the <a href="http://intvp.edu.pl/">InternationalVisibility Project</a>.</div>
+> <div style="text-align:justify">Since 2003 (when the Shanghai Ranking was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, Shanghai Ranking and US News. Joint work with M.J. Mrowiński, <a href="http://if.pw.edu.pl/~siudem">G. Siudem</a> and B. Żogała-Siudem under the <a href="http://intvp.edu.pl/">International Visibility Project</a>.</div>
 
 
 
-###### 23.05.2019 
+###### 23.05.2019
 
 <div style="color:crimson;"> Thursday 14:00, room 101, Math building, WUT. </div>
 
@@ -394,12 +394,12 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 ##### [Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) <sup>\[[WUT](http://www.fizyka.pw.edu.pl/)\] </sup>
 
-> <div style="text-align:justify">Since 2003 (when the ShanghaiRanking was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, ShanghaiRanking and US News. Joint work with <a href="http://cena.rexamine.com/">A. Cena</a>, M.J. Mrowinski and B. Żogała-Siudem under the <a href="http://intvp.edu.pl/">InternationalVisibility Project</a>.</div>
+> <div style="text-align:justify">Since 2003 (when the Shanghai Ranking was first published) academic rankings have become more and more popular among the policy makers, management of the universities and the general publicity. They provide a simple tool for comparison between different universities or allow to track the progress of the chosen institution over the years. In this series of seminars, we focus on the methodology of the most popular rankings, the so-called Big Four - QS, Times Higher Education, Shanghai Ranking and US News. Joint work with <a href="http://cena.rexamine.com/">A. Cena</a>, M.J. Mrowinski and B. Żogała-Siudem under the <a href="http://intvp.edu.pl/">International Visibility Project</a>.</div>
 
 
 
 
-###### 28.02.2019 
+###### 28.02.2019
 
 #### **_Interpolation with an arbitrary precision_**
 
@@ -409,7 +409,7 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 
 
-###### 29.11.2018  
+###### 29.11.2018
 
 #### **_Variable selection algorithms for linear models based on multidimensional index_**
 
@@ -420,7 +420,7 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 
 
-###### 04.10.2018  
+###### 04.10.2018
 
 #### **_Power law and its application_**
 
@@ -430,7 +430,7 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 
 
-###### 20.09.2018  
+###### 20.09.2018
 
 <div style="color:crimson;"> Thursday 16:15, room 431, Math building, WUT.
  </div>
@@ -454,7 +454,7 @@ Science of Science describes the new interdisciplinary field which combines trad
 |:---------|:---------------------------|:-------------------------------------------------------------------------------------|
 |24.11.2017|[Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)|[How accidental scientific success is?](#24112017)             |
 |05.01.2018|[Jan Lasek](http://lasek.rexamine.com/)            |[Measuring the efficacy of league formats](#05012018)          |
-|26.01.2018|[Marek Gagolewski](http://www.gagolewski.com)      |[Stochastic properties of discrete Sugeno integrals](#26012018)| 
+|26.01.2018|[Marek Gagolewski](http://www.gagolewski.com)      |[Stochastic properties of discrete Sugeno integrals](#26012018)|
 |14.03.2018|[Antoni Ruciński](https://anru-project.wixsite.com/anru-project)|[Analysis of the Warsaw rail transport network](#14032018)                                                                                                                    |
 |21.03.2018|Agnieszka I. Geras                                    |[Should we introduce a 'dislike' button for papers?](#21032018)|
 |28.03.2018|[Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez)  |[Aggregation through the poset glass](#28032018)                                                                                                              |
@@ -469,7 +469,7 @@ Science of Science describes the new interdisciplinary field which combines trad
 ### Abstracts - 2017/2018
 
 
-###### 27.06.2018  
+###### 27.06.2018
 
 #### **_Detectability of Macroscopic Structures in Directed Networks: a Stochastic Block Model Approach_**
 
@@ -481,7 +481,7 @@ Science of Science describes the new interdisciplinary field which combines trad
 During my presentation I will show this unintuitive result both by means of numerical simulations and with an elegant analytic approximation.</div>
 
 
-###### 21.06.2018  
+###### 21.06.2018
 
 **Thursday 16:15**
 
@@ -494,7 +494,7 @@ During my presentation I will show this unintuitive result both by means of nume
 > <div style="text-align:justify">Recurrent Cartesian Genetic Programming (RCGP) is a variant of CGP which allows cycles in the graphs representing programs, which implicitly introduces memory into CGP. The addition of memory broadens the range of applications of CGP and makes it a more viable tool for problems like time series forecasting. In our work, we propose a modification of CGP which results in an explicit inclusion of memory. We achieve this by directly including a shift register in each node of the CGP graph and constantly providing these registers with values processed by nodes. Thanks to this approach (which we call SRMCGP Shift Register Memory CGP), users gain fine-grained control over the memory in the program, which is not possible in RCGP, and avoid forward, recurrent connections. In order to study the memory capabilities of RCGP and SRMCGP, we performed numerical simulations of programs whose purpose was to memorise and repeat the input signal after a given number of time steps. Our results suggest that SRMCGP is much more efficient than RCG usable solutions/programs can be acquired faster through SRMCGP. Additionally, SRMCGP results in a smaller number of active nodes which makes SRMCGP programs less costly (it terms of computation time) to decode. SRMCGP is also more likely to actually create usable solutions/programs.</div>
 
 
-###### 20.06.2018  
+###### 20.06.2018
 
 #### **_A source code similarity assessment system for functional programming languages based on machine learning and data aggregation methods_**
 
@@ -503,7 +503,7 @@ During my presentation I will show this unintuitive result both by means of nume
 > <div style="text-align:justify">This presentation deals with the problem of detecting similar source codes (also known as clones) in functional languages, especially in R. Code clones' detection is useful in e.g. programming tutoring. This work introduces a new approach to evaluate performance of proposed methods. What is more, the current state-of-the-art code clone detection approaches based on Program Dependence Graphs (PDG) rely on some exponential-time subroutines. In this work, the performance of a polynomial-time algorithm based on the Weisfeier--Lehman method for finding similar graphs is examined. Since all the algorithms for comparing source codes focus on different code similarity aspects, the current work also proposes new similarity aggregation method (based on B-splines curves and surfaces) of the results generated by different approaches. The new models not only posses an intuitive interpretation, but also were experimentally shown to yield better results. In this work for the first time non symmetric measures were proposed, quantifying the degree to which one function is contained within a second one and vice versa were proposed.</div>
 
 
-###### 08.06.2018  
+###### 08.06.2018
 
 <div style="color:crimson;"> Friday 12:15, <a href="http://www.ibspan.waw.pl/glowna/en">SRI PAS</a> room 200 </div>
 
@@ -515,8 +515,8 @@ During my presentation I will show this unintuitive result both by means of nume
 
 > <div style="text-align:justify">In experimental verifications, the most well-known benchmark datasets available in the Internet that have been also used in tests described in many scientific publications are chosen. Fuzzy C-Means function and algorithms as well as advanced modified prototype-based methods have been compared with the proposed method. The new method was compared with conventional supervised and unsupervised learning methods in terms of accuracy. Promising results achieved by the experiments prove that the BFPM method ensures better accuracy than conventional learning methods due to taking into account the critical objects and dominant features. </div>
 
-  
-###### 28.03.2018  
+
+###### 28.03.2018
 
 #### **_Aggregation through the poset glass_**
 
@@ -525,7 +525,7 @@ During my presentation I will show this unintuitive result both by means of nume
 > <div style="text-align:justify">The aggregation of several objects into a single one is a common study subject in mathematics. Unfortunately, whereas practitioners often need to deal with the aggregation of many different types of objects (rankings, graphs, strings, etc.), the current theory of aggregation is mostly developed for dealing with the aggregation of values in a poset. In this presentation, we will reflect on the limitations of this poset-based theory of aggregation and "jump through the poset glass". On the other side, we will not find Wonderland, but, instead, we will find more questions than answers. Indeed, a new theory of aggregation is being born, and we will need to work together on this reboot for years to come.</div>
 
 
-###### 21.03.2018  
+###### 21.03.2018
 
 #### **_Should we introduce a 'dislike' button for academic papers?_**
 
@@ -534,7 +534,7 @@ During my presentation I will show this unintuitive result both by means of nume
 > <div style="text-align:justify">Citations scores and the h-index are basic tools used for measuring the quality of scientific work. Nonetheless, while evaluating academic achievements one rarely takes into consideration for what reason the paper was mentioned by another author - whether in order to highlight the connection between their work or to bring to the reader’s attention any mistakes or flaws. In my talk I will shed some insight into the problem of "negative" citations analyzing data from the <a href="https://stackexchange.com">Stack Exchange</a> and using the proposed agent-based model. Joint work with  <a href="http://www.gagolewski.com">M. Gągolewski</a>  and <a href="http://if.pw.edu.pl/~siudem">G. Siudem</a>.</div>
 
 
-###### 14.03.2018  
+###### 14.03.2018
 
 #### **_Analysis of the Warsaw rail transport network_**
 
@@ -548,7 +548,7 @@ During my presentation I will show this unintuitive result both by means of nume
 
 
 
-###### 26.01.2018  
+###### 26.01.2018
 
 #### **_Stochastic properties of the Hirsch index and other discrete Sugeno integrals_**
 
@@ -557,7 +557,7 @@ During my presentation I will show this unintuitive result both by means of nume
 > <div style="text-align:justify">Hirsch's h-index is perhaps the most popular citation-based measure of scientific excellence. Many of its natural generalizations can be expressed as simple functions of some discrete Sugeno integrals. In this talk we shall review some less-known results concerning various stochastic properties of the discrete Sugeno integral with respect to a symmetric normalized capacity, i.e., weighted lattice polynomial functions of real-valued random variables - both in i.i.d. (independent and identically distributed) and non-i.i.d. (with some dependence structure) cases. For instance, we will be interested in investigating their exact and asymptotic distributions. Based on these, we can, among others, show that the h-index is a consistent estimator of some natural probability distribution's location characteristic. Moreover, we can derive a statistical test to verify whether the difference between two h-indices (say, h'=7 vs. h''=10 in cases where both authors published 40 papers) is actually significant.</div>
 
 
-###### 05.01.2018  
+###### 05.01.2018
 
 #### **_Measuring the efficacy of league formats in ranking football teams_**
 
@@ -566,7 +566,7 @@ During my presentation I will show this unintuitive result both by means of nume
 > <div style="text-align:justify">Choosing between different tournament designs based on their accuracy in ranking teams is an important topic in football since many domestic championships underwent changes in the recent years. In particular, the transformations of Ekstraklasa -- the top-tier football competition in Poland -- is a topic receiving much attention from the organizing body of the competition, participating football clubs as well as supporters. In this presentation we will discuss the problem of measuring the accuracy of different league formats in ranking teams. We will present various models for rating teams that will be next used to simulate a number of tournaments to evaluate their efficacy, for example, by measuring the probability of the best team win. Finally, we will discuss several other aspects of league formats including the influence of the number of points allocated for a win on the final league standings.</div>
 
 
-###### 24.11.2017  
+###### 24.11.2017
 
 #### **_How accidental scientific success is?_**
 
