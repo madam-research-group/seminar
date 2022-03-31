@@ -48,7 +48,7 @@ Mondays, 9:00am-11:00am ([Warsaw](https://www.timehubzone.com/time/zone/poland/w
 
 ### Abstracts
 
-###### 10.01.2022
+###### 07.04.2022
 
 #### **_Keywords: What Do They Know? Do They Know Things? Let's Find Out! _**
 
