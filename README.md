@@ -10,7 +10,7 @@
 
 #### Time
 
-Mondays, 9:00am-11:00am ([Warsaw](https://www.timehubzone.com/time/zone/poland/warsaw))
+Thursdays, 10:00am-12:00am ([Warsaw](https://www.timehubzone.com/time/zone/poland/warsaw))
 
 #### Location
 
