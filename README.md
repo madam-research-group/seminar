@@ -50,7 +50,7 @@ Thursdays, 10:00am-12:00am ([Warsaw](https://www.timehubzone.com/time/zone/polan
 
 ###### 07.04.2022
 
-#### **_Keywords: What Do They Know? Do They Know Things? Let's Find Out! _**
+#### **_Keywords: What Do They Know? Do They Know Things? Let's Find Out!_**
 
 ##### [Anna Cena](http://cena.rexamine.com/) <sup>\[ <a href="https://ww2.mini.pw.edu.pl/)\">WUT</a> ] </sup>
 
