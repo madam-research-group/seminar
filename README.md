@@ -39,7 +39,7 @@ Mondays, 9:00am-11:00am ([Warsaw](https://www.timehubzone.com/time/zone/poland/w
 |24.01.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[The formula for (bibliometric) success](#24012022)      |
 |31.01.2022|Maciej J. Mrowiński |[Scientific success from the perspective of the strength of weak ties](#31012022)    |
 |03.03.2022|–                 | (Group's internal meeting)                                                            |
-|07.04.2022|[Anna Cena](http://cena.rexamine.com/) |[TBA](#07042022)                                                  |
+|07.04.2022|[Anna Cena](http://cena.rexamine.com/) |[Keywords: What Do They Know? Do They Know Things? Let's Find Out! ](#07042022)                                                  |
 |05.05.2022|Przemysław Nowak |[TBA](#05052022)                                                                        |
 |12.05.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[The formula for (bibliometric) success - sequel](#12052022) |
 |16.06.2022|Maciej J. Mrowiński |[TBA](#16052022)                                                                         |
@@ -47,6 +47,18 @@ Mondays, 9:00am-11:00am ([Warsaw](https://www.timehubzone.com/time/zone/poland/w
 
 
 ### Abstracts
+
+###### 10.01.2022
+
+#### **_Keywords: What Do They Know? Do They Know Things? Let's Find Out! _**
+
+##### [Anna Cena](http://cena.rexamine.com/) <sup>\[ <a href="https://ww2.mini.pw.edu.pl/)\">WUT</a> ] </sup>
+
+
+> <div style="text-align:justify">
+The talk will address the issue of keywords in scientific literature. We will discuss the most interesting methods of analyzing them (e.g. co-occurence methods, clustering and / or social network analysis) and present the preliminary results obtained for subset of Elsevier database.</div>
+
+
 
 ###### 31.01.2022
 
