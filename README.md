@@ -40,13 +40,31 @@ Thursdays, 10:00am-12:00am ([Warsaw](https://www.timehubzone.com/time/zone/polan
 |31.01.2022|Maciej J. Mrowiński |[Scientific success from the perspective of the strength of weak ties](#31012022)    |
 |03.03.2022|–                 | (Group's internal meeting)                                                            |
 |07.04.2022|[Anna Cena](http://cena.rexamine.com/) |[Keywords: What Do They Know? Do They Know Things? Let's Find Out! ](#07042022)                                                  |
-|05.05.2022|Przemysław Nowak |[TBA](#05052022)                                                                        |
+|28.04.2022|Iryna Balagura |[Technology of co-author network scientometric analysis using the terms extracted from abstract databases](#28042022) |
+
 |12.05.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[The formula for (bibliometric) success - sequel](#12052022) |
+|TBA|Przemysław Nowak |TBA                                                                        |
 |16.06.2022|Maciej J. Mrowiński |[TBA](#16052022)                                                                         |
 
 
 
 ### Abstracts
+
+###### 28.04.2022
+
+#### **_Technology of co-author network scientometric analysis using the terms extracted from abstract databases_**
+
+##### Iryna Balagura <sup>\[ <a href="https://www.nas.gov.ua)\">National Academy of Sciences of Ukraine</a> ] </sup>
+
+
+> <div style="text-align:justify">
+Research deals with the investigation of co-authors and co-words networks appliance for scientometric analysis of scientific databases. Using of computer linguistics methods in order to fulfill scientometric investigation of the abstract database was proposed. Innovative methods for estimating the level of inter-scientists cooperation were developed. Methods based on the improved centrality index and Borda count method were used for science group detecting and co-word network building. Proposed methods allow estimating of “weight” coefficient of authors with equal co-author ties. It is shown that the construction of networks of terms based on scientific papers in the area of the most active and cooperative scientists allows determining associative relations as well as entry relations for developing ontology research directions. It is shown that clusters in networks of a co-authorship can be considered as a basis for identification of schools of sciences. </div>
+> <div style="text-align:justify"> 
+The algorithm for expert groups’ determination by formal characteristics is proposed, it solves the problem of expert groups’ determination in accordance with their qualifications, possession of special knowledge for scientific and technical expertise. The expert groups’ identification could be accomplished by defining the clusters in co-authorship networks and building appropriate terms network.</div>
+
+
+
+
 
 ###### 07.04.2022
 
