@@ -41,7 +41,7 @@ Thursdays, 10:00am-12:00am ([Warsaw](https://www.timehubzone.com/time/zone/polan
 |03.03.2022|–                 | (Group's internal meeting)                                                            |
 |07.04.2022|[Anna Cena](http://cena.rexamine.com/) |[Keywords: What Do They Know? Do They Know Things? Let's Find Out! ](#07042022)                                                  |
 |28.04.2022|Iryna Balagura |[Technology of co-author network scientometric analysis using the terms extracted from abstract databases](#28042022) |
-|12.05.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[The formula for (bibliometric) success - sequel](#12052022) |
+|19.05.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[The formula for (bibliometric) success - sequel](#19052022) |
 |TBA|Przemysław Nowak |TBA                                                                        |
 |16.06.2022|Maciej J. Mrowiński |[TBA](#16052022)                                                                         |
 
