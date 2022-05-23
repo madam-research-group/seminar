@@ -41,13 +41,28 @@ Thursdays, 10:00am-12:00am ([Warsaw](https://www.timehubzone.com/time/zone/polan
 |03.03.2022|–                 | (Group's internal meeting)                                                            |
 |07.04.2022|[Anna Cena](http://cena.rexamine.com/) |[Keywords: What Do They Know? Do They Know Things? Let's Find Out! ](#07042022)                                                  |
 |28.04.2022|Iryna Balagura |[Technology of co-author network scientometric analysis using the terms extracted from abstract databases](#28042022) |
-|19.05.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[The formula for (bibliometric) success - sequel](#19052022) |
-|TBA|Przemysław Nowak |TBA                                                                        |
+|26.05.2022|[Arkadiusz Jędrzejewski](https://jedrzejewski.wppt.pwr.edu.pl/) |[q-voter models with quenched and annealed disorders on networks
+
+](#26052022)                                                                         |
 |16.06.2022|Maciej J. Mrowiński |[TBA](#16052022)                                                                         |
+|TBA|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |The formula for (bibliometric) success - sequel |
+|TBA|Przemysław Nowak |TBA                                                                        |
 
 
 
 ### Abstracts
+
+###### 26.05.2022
+
+#### **_q-voter models with quenched and annealed disorders on networks_**
+
+##### [Arkadiusz Jędrzejewski](https://jedrzejewski.wppt.pwr.edu.pl/) <sup>\[ <a href="https://kft.pwr.edu.pl/index.php)\">Wrocław University of Science and Technology</a> ] </sup>
+
+
+> <div style="text-align:justify">
+Using two models of opinion dynamics, the q-voter model with independence and the q-voter model with anticonformity, I will discuss how the change of disorder from annealed to quenched affects phase transitions on different networks. The results indicate that such a change of disorder eliminates all discontinuous phase transitions and broadens ordered phases. The comparative analysis on networks reveals differences between the models that are not displayed in well-mixed populations, at the mean-field level. This demonstrates how important is the network structure in answering the question about the differences between dynamics. Numerical and analytical methods based on the mean-field and pair approximations are used to analyze the problem.  </div>
+
+
 
 ###### 28.04.2022
 
