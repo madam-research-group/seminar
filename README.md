@@ -41,9 +41,7 @@ Thursdays, 10:00am-12:00am ([Warsaw](https://www.timehubzone.com/time/zone/polan
 |03.03.2022|–                 | (Group's internal meeting)                                                            |
 |07.04.2022|[Anna Cena](http://cena.rexamine.com/) |[Keywords: What Do They Know? Do They Know Things? Let's Find Out! ](#07042022)                                                  |
 |28.04.2022|Iryna Balagura |[Technology of co-author network scientometric analysis using the terms extracted from abstract databases](#28042022) |
-|26.05.2022|[Arkadiusz Jędrzejewski](https://jedrzejewski.wppt.pwr.edu.pl/) |[q-voter models with quenched and annealed disorders on networks
-
-](#26052022)                                                                         |
+|26.05.2022|[Arkadiusz Jędrzejewski](https://jedrzejewski.wppt.pwr.edu.pl/) |[q-voter models with quenched and annealed disorders on networks](#26052022)                                                                         |
 |16.06.2022|Maciej J. Mrowiński |[TBA](#16052022)                                                                         |
 |TBA|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |The formula for (bibliometric) success - sequel |
 |TBA|Przemysław Nowak |TBA                                                                        |
