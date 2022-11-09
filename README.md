@@ -464,7 +464,8 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 ##### Barbara Żogała-Siudem <sup>\[[SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
 
-> <div style="text-align:justify">TBA </div>
+> <div style="text-align:justify">We will analyze methods for variable selection in linear models,
+built based on a very large number of predictors, which cannot be stored in RAM. We will explain what multidimensional indexing is and how can it be of use in modifications of stepwise regression and the Lasso method applied to large collectionc of variables.</div>
 
 
 
