@@ -30,7 +30,7 @@ Mondays, 10:00 am - 12:00 am ([Warsaw](https://www.timehubzone.com/time/zone/pol
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
-|07.11.2022|Kinga Pilch and Dominik Kolasa (Warsaw University of Technology) |[TBA](#07112022)      |
+|07.11.2022|Kinga Pilch and Dominik Kolasa (Warsaw University of Technology) |[Data collection methods for blockchain wallets and transaction data. Wallet classification, detection of mixers and blockchain fraud.](#07112022)      |
 |16.06.2022|Maciej J. Mrowiński (Warsaw University of Technology) |[TBA](#16052022)                                                                               |
 |26.05.2022|[Arkadiusz Jędrzejewski](https://jedrzejewski.wppt.pwr.edu.pl/) |[q-voter models with quenched and annealed disorders on networks](#26052022)      |
 |28.04.2022|Iryna Balagura (National Academy of Sciences of Ukraine)|[Technology of co-author network scientometric analysis using the terms extracted from abstract databases](#28042022) |
@@ -87,12 +87,13 @@ Mondays, 10:00 am - 12:00 am ([Warsaw](https://www.timehubzone.com/time/zone/pol
 
 ###### 26.05.2022
 
-#### TBA
+#### Data collection methods for blockchain wallets and transaction data. Wallet classification, detection of mixers and blockchain fraud.
 
 ##### Kinga Pilch and Dominik Kolasa  <sup>\[ Warsaw University of Technology) ] </sup>
 
 > <div style="text-align:justify"> ....
-
+Collecting data using scrapers from blockchain related websites. Use of additional data sources - APIs. Labeling data using sentiment analysis. Blockchain wallet classification using neural networks. Analysis of wallet data, detection of mixers and crime suspected addresses.</div>
+ 
 ###### 26.05.2022
 
 #### **_q-voter models with quenched and annealed disorders on networks_**
