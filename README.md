@@ -35,14 +35,12 @@ Mondays, 10:00 am - 12:00 am ([Warsaw](https://www.timehubzone.com/time/zone/pol
 |26.05.2022|[Arkadiusz Jędrzejewski](https://jedrzejewski.wppt.pwr.edu.pl/) (Wrocław University of Science and Technology) |[q-voter models with quenched and annealed disorders on networks](#26052022)      |
 |28.04.2022|Iryna Balagura (National Academy of Sciences of Ukraine)|[Technology of co-author network scientometric analysis using the terms extracted from abstract databases](#28042022) |
 |07.04.2022|[Anna Cena](http://cena.rexamine.com/) |[Keywords: What Do They Know? Do They Know Things? Let's Find Out!](#07042022)                |
-|03.03.2022|–                 | (internal meeting)                                                            |
 |31.01.2022|Maciej J. Mrowiński  |[Scientific success from the perspective of the strength of weak ties](#31012022)    |
 |24.01.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  |[The formula for (bibliometric) success](#24012022)      |
 |17.01.2022|Grzegorz Moś (University of Silesia)  |[An overview of honeycomb-based graph aggregation functions](#17012022)                    |
 |10.01.2022|[Anna Cena ](http://cena.rexamine.com/)  |[TBA](#10012022)                                                  |
 |22.11.2021|Aleksandra Buczek  |[Modelling of citation vectors and Hirsch index](#22112021)                            |
 |18.10.2021|Przemysław Nowak  |[Luck, Reason, and the Price–Pareto type-2 Distributions](#18102021)                   |
-|04.10.2021|–                 | (internal meeting)                                                            |
 |12.07.2021|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  |[DGBD](#12072021)                                |
 |15.02.2021|Barbara Żogała-Siudem (Polish Academy of Sciences) |How to fit to measure errors in bibliometric data?                         |
 |19.11.2020|[Anna Cena](http://cena.rexamine.com/)  |Citation models vs. bibliometric indices  |
@@ -50,10 +48,8 @@ Mondays, 10:00 am - 12:00 am ([Warsaw](https://www.timehubzone.com/time/zone/pol
 |08.09.2020|Barbara Żogała-Siudem (Polish Academy of Sciences) |[How to fit to bibliometric data?](#08092020)                              |
 |17.07.2020|Przemysław Nowak  |[Preferential attachment rules in modeling bibliometric data](#17072020)      |
 |19.05.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  |[Pareto-Tsallis distribution for bibliometric data](#19052020)               |
-|05.05.2020|working seminar |Bibliometric models review                                           |
 |24.01.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  |Scientific problems in the universities' rankings                    |
 |26.11.2019|[Anna Cena](http://cena.rexamine.com/)  |[The true dimension of scientific impact](#26112019)  |
-|18.10.2019|-- |Recent literature review |
 |08.10.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |      [How to measure Science?](#08102019)                                          |
 |27.06.2019|Mikołaj Biesaga & Szymon Talaga (University of Warsaw)|[Discovery of socio-semantic networks based on discourse analysis on large corpora of documents](#27062019)     |
 |13.06.2019|Jarosław Klamut (University of Warsaw)|[Activity clustering in continuous-time random walk formalism](#13062019)                                               |
