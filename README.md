@@ -297,7 +297,15 @@ evaluation practice our findings have.</div>
 
 ##### Barbara Żogała-Siudem <sup>\[[SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
 
-> <div style="text-align:justify">TBA</div>
+> <div style="text-align:justify">We show why fitting to cumulative
+sums of the highest items instead of to the original rank-size distribution
+can be beneficial in the case of heavy-tailed data that are frequently
+observed in informetrics and similar disciplines.
+Based on this observation, we analyse reparameterised versions of
+the discrete generalised beta distribution (DGBD) and power law models
+that preserve the total sum of elements in a citation vector.
+They enjoy much better predictive power with respect to
+many bibliometric indices.</div>
 
 
 
