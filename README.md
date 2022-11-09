@@ -32,7 +32,7 @@ Mondays, 10:00 am - 12:00 am ([Warsaw](https://www.timehubzone.com/time/zone/pol
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
 |07.11.2022|Kinga Pilch and Dominik Kolasa (Warsaw University of Technology) |[Data collection methods for blockchain wallets and transaction data. Wallet classification, detection of mixers and blockchain fraud.](#07112022)      |
 |16.06.2022|Maciej J. Mrowiński (Warsaw University of Technology) |[TBA](#16052022)                                                                               |
-|26.05.2022|[Arkadiusz Jędrzejewski](https://jedrzejewski.wppt.pwr.edu.pl/) |[q-voter models with quenched and annealed disorders on networks](#26052022)      |
+|26.05.2022|[Arkadiusz Jędrzejewski (<a href="https://kft.pwr.edu.pl/index.php)\">Wrocław University of Science and Technology</a>)](https://jedrzejewski.wppt.pwr.edu.pl/) |[q-voter models with quenched and annealed disorders on networks](#26052022)      |
 |28.04.2022|Iryna Balagura (National Academy of Sciences of Ukraine)|[Technology of co-author network scientometric analysis using the terms extracted from abstract databases](#28042022) |
 |07.04.2022|[Anna Cena (Warsaw University of Technology)](http://cena.rexamine.com/) |[Keywords: What Do They Know? Do They Know Things? Let's Find Out!](#07042022)                |
 |03.03.2022|–                 | (internal meeting)                                                            |
