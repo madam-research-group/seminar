@@ -32,9 +32,9 @@ Mondays, 10:00 am - 12:00 am ([Warsaw](https://www.timehubzone.com/time/zone/pol
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
 |07.11.2022|Kinga Pilch and Dominik Kolasa (Warsaw University of Technology) |[Data collection methods for blockchain wallets and transaction data. Wallet classification, detection of mixers and blockchain fraud.](#07112022)      |
 |16.06.2022|Maciej J. Mrowiński (Warsaw University of Technology) |[TBA](#16052022)                                                                               |
-|26.05.2022|[Arkadiusz Jędrzejewski (<a href="https://kft.pwr.edu.pl/index.php)\">Wrocław University of Science and Technology</a>)](https://jedrzejewski.wppt.pwr.edu.pl/) |[q-voter models with quenched and annealed disorders on networks](#26052022)      |
+|26.05.2022|[Arkadiusz Jędrzejewski](https://jedrzejewski.wppt.pwr.edu.pl/) (Wrocław University of Science and Technology) |[q-voter models with quenched and annealed disorders on networks](#26052022)      |
 |28.04.2022|Iryna Balagura (National Academy of Sciences of Ukraine)|[Technology of co-author network scientometric analysis using the terms extracted from abstract databases](#28042022) |
-|07.04.2022|[Anna Cena (Warsaw University of Technology)](http://cena.rexamine.com/) |[Keywords: What Do They Know? Do They Know Things? Let's Find Out!](#07042022)                |
+|07.04.2022|[Anna Cena](http://cena.rexamine.com/)(Warsaw University of Technology) |[Keywords: What Do They Know? Do They Know Things? Let's Find Out!](#07042022)                |
 |03.03.2022|–                 | (internal meeting)                                                            |
 |31.01.2022|Maciej J. Mrowiński (Warsaw University of Technology) |[Scientific success from the perspective of the strength of weak ties](#31012022)    |
 |24.01.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) (Warsaw University of Technology) |[The formula for (bibliometric) success](#24012022)      |
@@ -52,7 +52,7 @@ Mondays, 10:00 am - 12:00 am ([Warsaw](https://www.timehubzone.com/time/zone/pol
 |19.05.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) (Warsaw University of Technology) |[Pareto-Tsallis distribution for bibliometric data](#19052020)               |
 |05.05.2020|working seminar |Bibliometric models review                                           |
 |24.01.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) (Warsaw University of Technology) |Scientific problems in the universities' rankings                    |
-|26.11.2019|[Anna Cena (Warsaw University of Technology)](http://cena.rexamine.com/) |[The true dimension of scientific impact](#26112019)  |
+|26.11.2019|[Anna Cena](http://cena.rexamine.com/) (Warsaw University of Technology) |[The true dimension of scientific impact](#26112019)  |
 |18.10.2019|-- |Recent literature review |
 |08.10.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) (Warsaw University of Technology) |      [How to measure Science?](#08102019)                                          |
 |27.06.2019|Mikołaj Biesaga & Szymon Talaga (University of Warsaw)|[Discovery of socio-semantic networks based on discourse analysis on large corpora of documents](#27062019)     |
