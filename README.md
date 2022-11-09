@@ -37,44 +37,44 @@ Mondays, 10:00 am - 12:00 am ([Warsaw](https://www.timehubzone.com/time/zone/pol
 |07.04.2022|[Anna Cena (Warsaw University of Technology)](http://cena.rexamine.com/) |[Keywords: What Do They Know? Do They Know Things? Let's Find Out!](#07042022)                |
 |03.03.2022|–                 | (internal meeting)                                                            |
 |31.01.2022|Maciej J. Mrowiński (Warsaw University of Technology) |[Scientific success from the perspective of the strength of weak ties](#31012022)    |
-|24.01.2022|[Grzegorz Siudem (Warsaw University of Technology)](http://if.pw.edu.pl/~siudem/) |[The formula for (bibliometric) success](#24012022)      |
+|24.01.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) (Warsaw University of Technology) |[The formula for (bibliometric) success](#24012022)      |
 |17.01.2022|Grzegorz Moś (University of Silesia)  |[An overview of honeycomb-based graph aggregation functions](#17012022)                    |
-|10.01.2022|[Anna Cena (Warsaw University of Technology)](http://cena.rexamine.com/) |[TBA](#10012022)                                                  |
-|22.11.2021|Aleksandra Buczek |[Modelling of citation vectors and Hirsch index](#22112021)                            |
-|18.10.2021|Przemysław Nowak  |[Luck, Reason, and the Price–Pareto type-2 Distributions](#18102021)                   |
+|10.01.2022|[Anna Cena ](http://cena.rexamine.com/) (Warsaw University of Technology) |[TBA](#10012022)                                                  |
+|22.11.2021|Aleksandra Buczek (Warsaw University of Technology) |[Modelling of citation vectors and Hirsch index](#22112021)                            |
+|18.10.2021|Przemysław Nowak (Warsaw University of Technology)  |[Luck, Reason, and the Price–Pareto type-2 Distributions](#18102021)                   |
 |04.10.2021|–                 | (internal meeting)                                                            |
-|12.07.2021|[Grzegorz Siudem (Warsaw University of Technology)](http://if.pw.edu.pl/~siudem/) |[DGBD](#12072021)                                |
+|12.07.2021|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) (Warsaw University of Technology) |[DGBD](#12072021)                                |
 |15.02.2021|Barbara Żogała-Siudem (Polish Academy of Sciences) |How to fit to measure errors in bibliometric data?                         |
-|19.11.2020|[Anna Cena (Warsaw University of Technology)](http://cena.rexamine.com/) |Citation models vs. bibliometric indices  |
-|26.10.2020|[Marek Gagolewski (Deakin University)](http://www.gagolewski.com)      |[Ockham's index](#26102020)|
-|08.09.2020|Barbara Żogała-Siudem |[How to fit to bibliometric data?](#08092020)                              |
-|17.07.2020|Przemysław Nowak |[Preferential attachment rules in modeling bibliometric data](#17072020)      |
-|19.05.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[Pareto-Tsallis distribution for bibliometric data](#19052020)               |
+|19.11.2020|[Anna Cena](http://cena.rexamine.com/) (Warsaw University of Technology) |Citation models vs. bibliometric indices  |
+|26.10.2020|[Marek Gagolewski](http://www.gagolewski.com) (Deakin University)      |[Ockham's index](#26102020)|
+|08.09.2020|Barbara Żogała-Siudem (Polish Academy of Sciences) |[How to fit to bibliometric data?](#08092020)                              |
+|17.07.2020|Przemysław Nowak (Warsaw University of Technology) |[Preferential attachment rules in modeling bibliometric data](#17072020)      |
+|19.05.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) (Warsaw University of Technology) |[Pareto-Tsallis distribution for bibliometric data](#19052020)               |
 |05.05.2020|working seminar |Bibliometric models review                                           |
-|24.01.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |Scientific problems in the universities' rankings                    |
-|26.11.2019|[Anna Cena](http://cena.rexamine.com/) |[The true dimension of scientific impact](#26112019)  |
+|24.01.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) (Warsaw University of Technology) |Scientific problems in the universities' rankings                    |
+|26.11.2019|[Anna Cena (Warsaw University of Technology)](http://cena.rexamine.com/) |[The true dimension of scientific impact](#26112019)  |
 |18.10.2019|-- |Recent literature review |
-|08.10.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |      [How to measure Science?](#08102019)                                          |
+|08.10.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) (Warsaw University of Technology) |      [How to measure Science?](#08102019)                                          |
 |27.06.2019|Mikołaj Biesaga & Szymon Talaga (University of Warsaw)|[Discovery of socio-semantic networks based on discourse analysis on large corpora of documents](#27062019)     |
 |13.06.2019|Jarosław Klamut (University of Warsaw)|[Activity clustering in continuous-time random walk formalism](#13062019)                                               |
-|06.06.2019|[Jan Lasek (deepsense.ai)](http://lasek.rexamine.com/)       |[New data-driven rating systems for association football](#060620192)                    |
-|30.05.2019|Barbara Żogała-Siudem  |[Methodology of University Rankings S01E03 - Shanghai Ranking](#300520192)                                      |
-|30.05.2019|[Anna Cena](http://cena.rexamine.com/) |[Methodology of University Rankings S01E02 - Times Higher Education](#30052019)                 |
-|23.05.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[Methodology of University Rankings S01E01 - QS](#23052019)                            |
-|28.02.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |[Interpolation with an arbitrary precision](#28022019)                                 |
-|29.11.2018|Barbara Żogała-Siudem |[Variable selection algorithms for linear models based on multidimensional index](#29112018)                     |
-|04.10.2018|Agnieszka I. Geras                     |[Power law and its application](#04102018)                             |
-|20.09.2018|[Anna Cena](http://cena.rexamine.com/) |[Adaptive hierarchical clustering algorithms based on data aggregation methods](#20092018)                   |
-|27.06.2018|[Mateusz Wiliński (Scuola Normale Superiore di Pisa)](https://www.researchgate.net/profile/Mateusz_Wilinski)|  [Detectability of Macroscopic Structures in Directed Network](#27062018)         |
-|21.06.2018|Maciej J. Mrowiński                                      |[ Cartesian Genetic Programming with memory](#21062018)  |
-|20.06.2018|[Maciej Bartoszuk](http://bartoszuk.rexamine.com/)       |[A source code similarity assessment system](#20062018)  |
-|08.06.2018|[Hossein Yazdani (Wrocław University of Technology)](https://www.researchgate.net/profile/Hossein_Yazdani) |[Bounded Fuzzy Possibilistic Method of Critical Objects Processing](#08062018)         |
-|28.03.2018|[Raúl Pérez-Fernández (Ghent University)](https://www.researchgate.net/profile/Raul_Perez-Fernandez)  |[Aggregation through the poset glass](#28032018)                            |
-|21.03.2018|Agnieszka I. Geras                                    |[Should we introduce a 'dislike' button for papers?](#21032018)|
-|14.03.2018|[Antoni Ruciński](https://anru-project.wixsite.com/anru-project)|[Analysis of the Warsaw rail transport network](#14032018)  |
-|26.01.2018|[Marek Gagolewski](http://www.gagolewski.com)      |[Stochastic properties of discrete Sugeno integrals](#26012018)|
+|06.06.2019|[Jan Lasek](http://lasek.rexamine.com/) (deepsense.ai)       |[New data-driven rating systems for association football](#060620192)                    |
+|30.05.2019|Barbara Żogała-Siudem (Polish Academy of Sciences)  |[Methodology of University Rankings S01E03 - Shanghai Ranking](#300520192)                                      |
+|30.05.2019|[Anna Cena](http://cena.rexamine.com/) (Warsaw University of Technology) |[Methodology of University Rankings S01E02 - Times Higher Education](#30052019)                 |
+|23.05.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) (Warsaw University of Technology) |[Methodology of University Rankings S01E01 - QS](#23052019)                            |
+|28.02.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) (Warsaw University of Technology) |[Interpolation with an arbitrary precision](#28022019)                                 |
+|29.11.2018|Barbara Żogała-Siudem  (Polish Academy of Sciences) |[Variable selection algorithms for linear models based on multidimensional index](#29112018)                     |
+|04.10.2018|Agnieszka I. Geras   (Warsaw University of Technology)                  |[Power law and its application](#04102018)                             |
+|20.09.2018|[Anna Cena](http://cena.rexamine.com/) (Warsaw University of Technology) |[Adaptive hierarchical clustering algorithms based on data aggregation methods](#20092018)                   |
+|27.06.2018|[Mateusz Wiliński](https://www.researchgate.net/profile/Mateusz_Wilinski) (Scuola Normale Superiore di Pisa)|  [Detectability of Macroscopic Structures in Directed Network](#27062018)         |
+|21.06.2018|Maciej J. Mrowiński                   (Warsaw University of Technology)                   |[ Cartesian Genetic Programming with memory](#21062018)  |
+|20.06.2018|[Maciej Bartoszuk](http://bartoszuk.rexamine.com/)   (Warsaw University of Technology)    |[A source code similarity assessment system](#20062018)  |
+|08.06.2018|[Hossein Yazdani](https://www.researchgate.net/profile/Hossein_Yazdani) (Wrocław University of Technology) |[Bounded Fuzzy Possibilistic Method of Critical Objects Processing](#08062018)         |
+|28.03.2018|[Raúl Pérez-Fernández](https://www.researchgate.net/profile/Raul_Perez-Fernandez) (Ghent University)  |[Aggregation through the poset glass](#28032018)                            |
+|21.03.2018|Agnieszka I. Geras  (Warsaw University of Technology)                                   |[Should we introduce a 'dislike' button for papers?](#21032018)|
+|14.03.2018|[Antoni Ruciński](https://anru-project.wixsite.com/anru-project) (Warsaw University of Technology)|[Analysis of the Warsaw rail transport network](#14032018)  |
+|26.01.2018|[Marek Gagolewski](http://www.gagolewski.com)  (Polish Academy of Sciences)    |[Stochastic properties of discrete Sugeno integrals](#26012018)|
 |05.01.2018|[Jan Lasek](http://lasek.rexamine.com/)            |[Measuring the efficacy of league formats](#05012018)          |
-|24.11.2017|[Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/)|[How accidental scientific success is?](#24112017)             |
+|24.11.2017|[Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) (Warsaw University of Technology)|[How accidental scientific success is?](#24112017)             |
 
 
 
