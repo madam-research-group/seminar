@@ -91,7 +91,7 @@ Mondays, 10:00 am - 12:00 am ([Warsaw](https://www.timehubzone.com/time/zone/pol
 
 ##### Kinga Pilch and Dominik Kolasa  <sup>\[ Warsaw University of Technology) ] </sup>
 
-> <div style="text-align:justify"> ....
+> <div style="text-align:justify">
 Collecting data using scrapers from blockchain related websites. Use of additional data sources - APIs. Labeling data using sentiment analysis. Blockchain wallet classification using neural networks. Analysis of wallet data, detection of mixers and crime suspected addresses.</div>
  
 ###### 26.05.2022
