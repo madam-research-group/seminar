@@ -287,8 +287,7 @@ of the rich-get-richer rule and sheer chance, but also fits real
 bibliometric data quite well. We investigate which bibliometric
 indices have good discriminative power, which measures can be easily
 predicted as functions of other ones, and what implications to the research
-evaluation practice our findings have.
-</div>
+evaluation practice our findings have.</div>
 
 
 ###### 08.09.2020
