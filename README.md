@@ -90,8 +90,7 @@ Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/ti
 
 ##### Kinga Pilch and Dominik Kolasa  <sup>\[ Warsaw University of Technology ] </sup>
 
-> <div style="text-align:justify">
-Collecting data using scrapers from blockchain related websites. Use of additional data sources - APIs. Labeling data using sentiment analysis. Blockchain wallet classification using neural networks. Analysis of wallet data, detection of mixers and crime suspected addresses.</div>
+> <div style="text-align:justify"> Collecting data using scrapers from blockchain related websites. Use of additional data sources - APIs. Labeling data using sentiment analysis. Blockchain wallet classification using neural networks. Analysis of wallet data, detection of mixers and crime suspected addresses.</div>
  
  
  
@@ -103,8 +102,7 @@ Collecting data using scrapers from blockchain related websites. Use of addition
 ##### [Arkadiusz Jędrzejewski](https://jedrzejewski.wppt.pwr.edu.pl/) <sup>\[ <a href="https://kft.pwr.edu.pl/index.php)\">Wrocław University of Science and Technology</a> ] </sup>
 
 
-> <div style="text-align:justify">
-Using two models of opinion dynamics, the q-voter model with independence and the q-voter model with anticonformity, I will discuss how the change of disorder from annealed to quenched affects phase transitions on different networks. The results indicate that such a change of disorder eliminates all discontinuous phase transitions and broadens ordered phases. The comparative analysis on networks reveals differences between the models that are not displayed in well-mixed populations, at the mean-field level. This demonstrates how important is the network structure in answering the question about the differences between dynamics. Numerical and analytical methods based on the mean-field and pair approximations are used to analyze the problem.  </div>
+> <div style="text-align:justify"> Using two models of opinion dynamics, the q-voter model with independence and the q-voter model with anticonformity, I will discuss how the change of disorder from annealed to quenched affects phase transitions on different networks. The results indicate that such a change of disorder eliminates all discontinuous phase transitions and broadens ordered phases. The comparative analysis on networks reveals differences between the models that are not displayed in well-mixed populations, at the mean-field level. This demonstrates how important is the network structure in answering the question about the differences between dynamics. Numerical and analytical methods based on the mean-field and pair approximations are used to analyze the problem.  </div>
 
 
 
@@ -117,10 +115,9 @@ Using two models of opinion dynamics, the q-voter model with independence and th
 ##### Iryna Balagura <sup>\[ <a href="https://www.nas.gov.ua)\">National Academy of Sciences of Ukraine</a> ] </sup>
 
 
-> <div style="text-align:justify">
-Research deals with the investigation of co-authors and co-words networks appliance for scientometric analysis of scientific databases. Using of computer linguistics methods in order to fulfill scientometric investigation of the abstract database was proposed. Innovative methods for estimating the level of inter-scientists cooperation were developed. Methods based on the improved centrality index and Borda count method were used for science group detecting and co-word network building. Proposed methods allow estimating of “weight” coefficient of authors with equal co-author ties. It is shown that the construction of networks of terms based on scientific papers in the area of the most active and cooperative scientists allows determining associative relations as well as entry relations for developing ontology research directions. It is shown that clusters in networks of a co-authorship can be considered as a basis for identification of schools of sciences. </div>
-> <div style="text-align:justify"> 
-The algorithm for expert groups’ determination by formal characteristics is proposed, it solves the problem of expert groups’ determination in accordance with their qualifications, possession of special knowledge for scientific and technical expertise. The expert groups’ identification could be accomplished by defining the clusters in co-authorship networks and building appropriate terms network.</div>
+> <div style="text-align:justify"> Research deals with the investigation of co-authors and co-words networks appliance for scientometric analysis of scientific databases. Using of computer linguistics methods in order to fulfill scientometric investigation of the abstract database was proposed. Innovative methods for estimating the level of inter-scientists cooperation were developed. Methods based on the improved centrality index and Borda count method were used for science group detecting and co-word network building. Proposed methods allow estimating of “weight” coefficient of authors with equal co-author ties. It is shown that the construction of networks of terms based on scientific papers in the area of the most active and cooperative scientists allows determining associative relations as well as entry relations for developing ontology research directions. It is shown that clusters in networks of a co-authorship can be considered as a basis for identification of schools of sciences. </div>
+
+> <div style="text-align:justify">  The algorithm for expert groups’ determination by formal characteristics is proposed, it solves the problem of expert groups’ determination in accordance with their qualifications, possession of special knowledge for scientific and technical expertise. The expert groups’ identification could be accomplished by defining the clusters in co-authorship networks and building appropriate terms network.</div>
 
 
 
@@ -133,8 +130,7 @@ The algorithm for expert groups’ determination by formal characteristics is pr
 ##### [Anna Cena](http://cena.rexamine.com/) <sup>\[ <a href="https://ww2.mini.pw.edu.pl/)\">WUT</a> ] </sup>
 
 
-> <div style="text-align:justify">
-The talk will address the issue of keywords in scientific literature. We will discuss the most interesting methods of analyzing them (e.g. co-occurence methods, clustering and / or social network analysis) and present the preliminary results obtained for subset of Elsevier database.</div>
+> <div style="text-align:justify"> The talk will address the issue of keywords in scientific literature. We will discuss the most interesting methods of analyzing them (e.g. co-occurence methods, clustering and / or social network analysis) and present the preliminary results obtained for subset of Elsevier database.</div>
 
 
 
@@ -145,8 +141,7 @@ The talk will address the issue of keywords in scientific literature. We will di
 ##### Maciej J. Mrowiński <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
 
 
-> <div style="text-align:justify">
-Granovetter’s theory of weak ties in social networks can be expressed as as two separate hypotheses. The first hypothesis states that strong ties, which are responsible for the majority of interactions in a network, are located in highly connected clusters of nodes. According to the second hypothesis, these clusters are connected by weak ties and nodes with access to such ties have an advantage over those with only strong connections. In our work, we test both parts of Granovetter’s theory using the co-authorship network of articles recreated from the DBLP dataset. We show that the very definition of connection strength and the asymmetry of social ties play a crucial role in the theory.</div>
+> <div style="text-align:justify"> Granovetter’s theory of weak ties in social networks can be expressed as as two separate hypotheses. The first hypothesis states that strong ties, which are responsible for the majority of interactions in a network, are located in highly connected clusters of nodes. According to the second hypothesis, these clusters are connected by weak ties and nodes with access to such ties have an advantage over those with only strong connections. In our work, we test both parts of Granovetter’s theory using the co-authorship network of articles recreated from the DBLP dataset. We show that the very definition of connection strength and the asymmetry of social ties play a crucial role in the theory.</div>
 
 
 
@@ -157,8 +152,7 @@ Granovetter’s theory of weak ties in social networks can be expressed as as tw
 ##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[ <a href="http://fizyka.pw.edu.pl">WUT</a> ] </sup>
 
 
-> <div style="text-align:justify">
-During the talk, we will be looking for compact, analytical formulas for calculating canonical bibliometric indexes. We will start with the well-known Lotka informetrics and generalise our considerations to more complex bibliometric models.</div>
+> <div style="text-align:justify"> During the talk, we will be looking for compact, analytical formulas for calculating canonical bibliometric indexes. We will start with the well-known Lotka informetrics and generalise our considerations to more complex bibliometric models.</div>
 
 
 
@@ -170,44 +164,33 @@ During the talk, we will be looking for compact, analytical formulas for calcula
 ##### Grzegorz Moś <sup>\[ <a href="https://us.edu.pl/">University of Silesia in Katowice</a> ] </sup>
 
 
-> <div style="text-align:justify">
-Structures  that  are  based  on  honeycomb  graphs  appear  in  many  scientific  fields.  Many  chemical  molecules contain such a structure. Some polymers consist of a hexagonal part in their repeating subunits or are  made  with  such  hexagons  [1],  [2].  Some  regular  benzenoid  strips  and  their  polynomial  representation  were  presented [3], [4], [5]. There are many appearances of honeycombs in nature. They are widely used in material  science  and  physics  because  of  their  properties  [6].  The  prevalence  leads  to  the  necessity  of  handling  a  vast amount  of  data.  That  indicates  that  the  databases  have  to  be  greater  and  greater.  Thus,  optimization  and aggregation methods are essential to possess and process such data. </div>
+> <div style="text-align:justify"> Structures  that  are  based  on  honeycomb  graphs  appear  in  many  scientific  fields.  Many  chemical  molecules contain such a structure. Some polymers consist of a hexagonal part in their repeating subunits or are  made  with  such  hexagons  [1],  [2].  Some  regular  benzenoid  strips  and  their  polynomial  representation  were  presented [3], [4], [5]. There are many appearances of honeycombs in nature. They are widely used in material  science  and  physics  because  of  their  properties  [6].  The  prevalence  leads  to  the  necessity  of  handling  a  vast amount  of  data.  That  indicates  that  the  databases  have  to  be  greater  and  greater.  Thus,  optimization  and aggregation methods are essential to possess and process such data. </div>
 
-> <div style="text-align:justify">
-An aggregation is a mapping that returns exactly one object from a given sequence of objects [7]. The important part of data aggregation is comparing the objects. It is well studied for numbers where there are many aggregation  functions,  for  example,  averages,  minimum,  maximum.  Strings  can  be  aggregated  with  a  merge function or with a length function [8]. Hence, it is possible to aggregate any object. The main problem is to define the  axioms  with  meaningful  grounds.  The  idea  has  to  have  logical  justification  under-considered  field,  for example, average in statistics or minimum and maximum in fuzzy logic. Some axioms are expected to be satisfied by any aggregation function. The returned element should not be simpler than the simplest considered object. On  the  other  hand,  it  should  not  be  more  complex  than  the  most  complex  considered  object.  Moreover, associative, commutative, and monotone properties should be satisfied.</div>
+> <div style="text-align:justify"> An aggregation is a mapping that returns exactly one object from a given sequence of objects [7]. The important part of data aggregation is comparing the objects. It is well studied for numbers where there are many aggregation  functions,  for  example,  averages,  minimum,  maximum.  Strings  can  be  aggregated  with  a  merge function or with a length function [8]. Hence, it is possible to aggregate any object. The main problem is to define the  axioms  with  meaningful  grounds.  The  idea  has  to  have  logical  justification  under-considered  field,  for example, average in statistics or minimum and maximum in fuzzy logic. Some axioms are expected to be satisfied by any aggregation function. The returned element should not be simpler than the simplest considered object. On  the  other  hand,  it  should  not  be  more  complex  than  the  most  complex  considered  object.  Moreover, associative, commutative, and monotone properties should be satisfied.</div>
 
-> <div style="text-align:justify">
-The  main  point  of  this presentation  is  to  specify  the  grounds  of  the  honeycomb-based  graphs aggregation and explain such an approach. It is justified by given the most uncomplicated cases. The graphs based on  a  hexagon  grid  where  every  vertex  belongs  to  at  most  two  edges  and  exactly  two  vertices  that  belong  to exactly  one  edge  each  are  the  most  straightforward  considered  structures.  Moreover,  it  is  assumed  that  the graph is connected. Otherwise, it would be enough to treat a disconnected graph as a set of connected graphs. The next key step is to introduce an approach to deal with vertices of degree 3. Furthermore, there are presented first  examples  of  aggregating  functions.  The  greatest  common  subset  and  the  least  set  containing  sets  are adapted to graphs as a considered purpose. This is preceded by exploring current results from the bibliography, which has something in common with aggregate theory. The conclusion and future work are formulated at the end.</div>
+> <div style="text-align:justify"> The  main  point  of  this presentation  is  to  specify  the  grounds  of  the  honeycomb-based  graphs aggregation and explain such an approach. It is justified by given the most uncomplicated cases. The graphs based on  a  hexagon  grid  where  every  vertex  belongs  to  at  most  two  edges  and  exactly  two  vertices  that  belong  to exactly  one  edge  each  are  the  most  straightforward  considered  structures.  Moreover,  it  is  assumed  that  the graph is connected. Otherwise, it would be enough to treat a disconnected graph as a set of connected graphs. The next key step is to introduce an approach to deal with vertices of degree 3. Furthermore, there are presented first  examples  of  aggregating  functions.  The  greatest  common  subset  and  the  least  set  containing  sets  are adapted to graphs as a considered purpose. This is preceded by exploring current results from the bibliography, which has something in common with aggregate theory. The conclusion and future work are formulated at the end.</div>
 
-> <div style="text-align:justify">
-[1] Coleman, M. M. (2019). Fundamentals of Polymer Science: An introductory text. Routledge. </div>
+> <div style="text-align:justify"> [1] Coleman, M. M. (2019). Fundamentals of Polymer Science: An introductory text. Routledge. </div>
 
-> <div style="text-align:justify">
-[2] McCrum, N. G., Buckley, C. P., Bucknall, C. B., Bucknall, C. B., & Bucknall, C. B. (1997). Principles of polymer
+> <div style="text-align:justify"> [2] McCrum, N. G., Buckley, C. P., Bucknall, C. B., Bucknall, C. B., & Bucknall, C. B. (1997). Principles of polymer
 engineering. Oxford University Press, USA.</div>
 
-> <div style="text-align:justify">
-[3] Langner, J., Witek, H. A., & Mos, G. (2018). Zhang-zhang polynomials of multiple zigzag chains. MATCH
+> <div style="text-align:justify"> [3] Langner, J., Witek, H. A., & Mos, G. (2018). Zhang-zhang polynomials of multiple zigzag chains. MATCH
 Commun. Math. Comput. Chem, 80(1), 245-265.</div>
 
-> <div style="text-align:justify">
-[4] Witek, H. A., Langner, J., Moś, G., & Chou, C. P. (2017). Zhang–Zhang polynomials of regular 5–tier
+> <div style="text-align:justify"> [4] Witek, H. A., Langner, J., Moś, G., & Chou, C. P. (2017). Zhang–Zhang polynomials of regular 5–tier
 benzenoid strips. MATCH Commun. Math. Comput. Chem, 78(2), 487-504. </div>
 
-> <div style="text-align:justify">
-[5] Witek, H. A., Moś, G., & Chou, C. P. (2015). Zhang-Zhang polynomials of regular 3-and 4-tier benzenoid
+> <div style="text-align:justify"> [5] Witek, H. A., Moś, G., & Chou, C. P. (2015). Zhang-Zhang polynomials of regular 3-and 4-tier benzenoid
 strips. MATCH Commun. Math. Comput. Chem, 73(2), 427-442. </div>
 
-> <div style="text-align:justify">
-[6] Wang, Z. (2019). Recent advances in novel metallic honeycomb structure. Composites Part B: Engineering,
+> <div style="text-align:justify"> [6] Wang, Z. (2019). Recent advances in novel metallic honeycomb structure. Composites Part B: Engineering,
 166, 731-741. </div>
 
-> <div style="text-align:justify">
-[7] Grabisch, M., Marichal, J. L., Mesiar, R., & Pap, E. (2009). Aggregation functions (No. 127). Cambridge
+> <div style="text-align:justify"> [7] Grabisch, M., Marichal, J. L., Mesiar, R., & Pap, E. (2009). Aggregation functions (No. 127). Cambridge
 University Press. </div>
 
-> <div style="text-align:justify">
-[8] Gągolewski, M. (2015). Data fusion: theory, methods, and applications. Institute of Computer Science,
+> <div style="text-align:justify"> [8] Gągolewski, M. (2015). Data fusion: theory, methods, and applications. Institute of Computer Science,
 Polish Academy of Scienceso.</div>
 
 
@@ -218,8 +201,7 @@ Polish Academy of Scienceso.</div>
 ##### [Anna Cena](http://cena.rexamine.com/) <sup>\[ <a href="https://ww2.mini.pw.edu.pl/)\">WUT</a> ] </sup>
 
 
-> <div style="text-align:justify">
-TBA</div>
+> <div style="text-align:justify"> TBA</div>
 
 
 
@@ -232,14 +214,11 @@ TBA</div>
 ##### Aleksandra Buczek <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
 
 
-> <div style="text-align:justify">
-Citation network is one of numerous examples of complex networks. Recent years have witnessed a growing interest of scientific community in various methods of estimating and measuring of the performance of researchers’ outputs. Scientific impact of a researcher can be now determined by multiple bibliometric indicators. Moreover, many models for the citation network have been developed over the years.</div>
+> <div style="text-align:justify"> Citation network is one of numerous examples of complex networks. Recent years have witnessed a growing interest of scientific community in various methods of estimating and measuring of the performance of researchers’ outputs. Scientific impact of a researcher can be now determined by multiple bibliometric indicators. Moreover, many models for the citation network have been developed over the years.</div>
 
-> <div style="text-align:justify">
-One of these models is the IC model, proposed in 2013 by Georgia Ionescu and Bastien Chopard. It reconstructs a citation vector based only on the numbers of publications and citations of a given author. In every time step constant number of citations is distributed among papers. There are two different groups of citations – self and external, both distributed according to the preferential attachment rule.</div>
+> <div style="text-align:justify"> One of these models is the IC model, proposed in 2013 by Georgia Ionescu and Bastien Chopard. It reconstructs a citation vector based only on the numbers of publications and citations of a given author. In every time step constant number of citations is distributed among papers. There are two different groups of citations – self and external, both distributed according to the preferential attachment rule.</div>
 
-> <div style="text-align:justify">
-In my Engineer’s and Master’s Theses I worked on some modifications of the IC model, which were meant to improve its efficiency. I tested new ideas for numbers of citations distributed in every time step and new methods of citation distribution. In both cases modifications were based on the analysis of real bibliometric data. In my presentation I would like to talk about the IC model, proposed modifications and obtained results.</div>
+> <div style="text-align:justify"> In my Engineer’s and Master’s Theses I worked on some modifications of the IC model, which were meant to improve its efficiency. I tested new ideas for numbers of citations distributed in every time step and new methods of citation distribution. In both cases modifications were based on the analysis of real bibliometric data. In my presentation I would like to talk about the IC model, proposed modifications and obtained results.</div>
 
 
 
@@ -249,8 +228,7 @@ In my Engineer’s and Master’s Theses I worked on some modifications of the I
 
 ##### Przemysław Nowak <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
 
-> <div style="text-align:justify">
-Price model for the growth of a bibliographic network is a known approach since 1965. In our case we distribute citations using both preferential attachment (also known as rich get richer) and random attachment rule. Applying the new method based on rank-size distribution we show that Price model can be described with Pareto-type 2 distribution. Moreover, knowing of this Pareto-Price relation we perform different estimators of the underlying model parameters, based on DBLP database.</div>
+> <div style="text-align:justify"> Price model for the growth of a bibliographic network is a known approach since 1965. In our case we distribute citations using both preferential attachment (also known as rich get richer) and random attachment rule. Applying the new method based on rank-size distribution we show that Price model can be described with Pareto-type 2 distribution. Moreover, knowing of this Pareto-Price relation we perform different estimators of the underlying model parameters, based on DBLP database.</div>
 
 
 
@@ -264,8 +242,7 @@ Price model for the growth of a bibliographic network is a known approach since 
 ##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
 
 
-> <div style="text-align:justify">
-Discrete Generalised Beta Distribution (DGBD) finds application in the description of data coming from an impressively broad spectrum of fields and disciplines. From scientometrics, to income and complex network modelling, to art and ecology. What is this distribution? What makes it universal? And whether has anything to do with the Beta Distribution? I will try to answer these questions during my talk.</div>
+> <div style="text-align:justify"> Discrete Generalised Beta Distribution (DGBD) finds application in the description of data coming from an impressively broad spectrum of fields and disciplines. From scientometrics, to income and complex network modelling, to art and ecology. What is this distribution? What makes it universal? And whether has anything to do with the Beta Distribution? I will try to answer these questions during my talk.</div>
 
 
 
@@ -277,22 +254,7 @@ Discrete Generalised Beta Distribution (DGBD) finds application in the descripti
 
 ##### [Marek Gagolewski](http://www.gagolewski.com) <sup>\[ Deakin University \]</sup>
 
-> <div style="text-align:justify">
-We demonstrate that by using a triple of simple numerical summaries:
-an author's productivity, their overall impact, and a single other
-bibliometric index that aims to capture the inequality or skewness
-of the citation distribution, we can reconstruct other popular metrics
-of bibliometric impact with a sufficient degree of precision.
-We thus conclude that the use of many indices may be unnecessary –
-entities should not be multiplied beyond
-necessity. Such a study was possible thanks to our new agent-based model
-(Siudem, Żogała-Siudem, Cena, Gagolewski; PNAS 117; 2020), which
-not only assumes that citations are distributed according to a mixture
-of the rich-get-richer rule and sheer chance, but also fits real
-bibliometric data quite well. We investigate which bibliometric
-indices have good discriminative power, which measures can be easily
-predicted as functions of other ones, and what implications to the research
-evaluation practice our findings have.</div>
+> <div style="text-align:justify"> We demonstrate that by using a triple of simple numerical summaries: an author's productivity, their overall impact, and a single other bibliometric index that aims to capture the inequality or skewness of the citation distribution, we can reconstruct other popular metrics of bibliometric impact with a sufficient degree of precision. We thus conclude that the use of many indices may be unnecessary – entities should not be multiplied beyond necessity. Such a study was possible thanks to our new agent-based model (Siudem, Żogała-Siudem, Cena, Gagolewski; PNAS 117; 2020), which not only assumes that citations are distributed according to a mixture of the rich-get-richer rule and sheer chance, but also fits real bibliometric data quite well. We investigate which bibliometric indices have good discriminative power, which measures can be easily predicted as functions of other ones, and what implications to the research evaluation practice our findings have.</div>
 
 
 ###### 08.09.2020
@@ -301,15 +263,7 @@ evaluation practice our findings have.</div>
 
 ##### Barbara Żogała-Siudem <sup>\[[SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
 
-> <div style="text-align:justify">We show why fitting to cumulative
-sums of the highest items instead of to the original rank-size distribution
-can be beneficial in the case of heavy-tailed data that are frequently
-observed in informetrics and similar disciplines.
-Based on this observation, we analyse reparameterised versions of
-the discrete generalised beta distribution (DGBD) and power law models
-that preserve the total sum of elements in a citation vector.
-They enjoy much better predictive power with respect to
-many bibliometric indices.</div>
+> <div style="text-align:justify"> We show why fitting to cumulative sums of the highest items instead of to the original rank-size distribution can be beneficial in the case of heavy-tailed data that are frequently observed in informetrics and similar disciplines. Based on this observation, we analyse reparameterised versions of the discrete generalised beta distribution (DGBD) and power law models that preserve the total sum of elements in a citation vector. They enjoy much better predictive power with respect to many bibliometric indices.</div>
 
 
 
@@ -320,8 +274,7 @@ many bibliometric indices.</div>
 ##### Przemysław Nowak <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
 
 
-> <div style="text-align:justify">
-The purpose of this talk was the analysis and modification of preferential attachment rule. It was done based on Barabási-Albert model for citation network and Ionescu-Chopard model for vectors of citations. It has been proposed to modify preferential attachment by adding random attachment.  By applying those approaches to data from DBLP database, it was proved that both BA and IC models gave the same results.</div>
+> <div style="text-align:justify"> The purpose of this talk was the analysis and modification of preferential attachment rule. It was done based on Barabási-Albert model for citation network and Ionescu-Chopard model for vectors of citations. It has been proposed to modify preferential attachment by adding random attachment.  By applying those approaches to data from DBLP database, it was proved that both BA and IC models gave the same results.</div>
 
 
 
@@ -332,8 +285,7 @@ The purpose of this talk was the analysis and modification of preferential attac
 ##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
 
 
-> <div style="text-align:justify">
-During the talk we will follow the work: Néda Z, Varga L, Biró TS (2017) Science and Facebook: The same popularity law!. PLOS ONE 12(7): e0179656. https://doi.org/10.1371/journal.pone.0179656 and derive a Pareto-Tsallis distribution as an useful tool in the description of the citation network.</div>
+> <div style="text-align:justify"> During the talk we will follow the work: Néda Z, Varga L, Biró TS (2017) Science and Facebook: The same popularity law!. PLOS ONE 12(7): e0179656. https://doi.org/10.1371/journal.pone.0179656 and derive a Pareto-Tsallis distribution as an useful tool in the description of the citation network.</div>
 
 
 
@@ -347,10 +299,7 @@ During the talk we will follow the work: Néda Z, Varga L, Biró TS (2017) Scien
 ##### [Anna Cena](http://cena.rexamine.com/) <sup>\[ <a href="https://ww2.mini.pw.edu.pl/)\">WUT</a> ] </sup>
 
 
-> <div style="text-align:justify">
-The growing popularity of bibliometric indexes  (whose most famous example is the h-index by J.E. Hirsch) is opposed by those claiming that one's scientific impact cannot be reduced to a single number. Some even believe that our complex reality fails to submit to any quantitative description. We argue that neither of the two controversial extremes is true.
-By assuming that some citations are distributed according to the rich get richer rule (preferential attachment)  while some others are assigned totally at random (all in all, a paper needs a bibliography), we have crafted a  model that accurately summarises citation records with merely three easily interpretable parameters: productivity, total impact,
-and how lucky an  author has been so far.</div>
+> <div style="text-align:justify"> The growing popularity of bibliometric indexes  (whose most famous example is the h-index by J.E. Hirsch) is opposed by those claiming that one's scientific impact cannot be reduced to a single number. Some even believe that our complex reality fails to submit to any quantitative description. We argue that neither of the two controversial extremes is true. By assuming that some citations are distributed according to the rich get richer rule (preferential attachment)  while some others are assigned totally at random (all in all, a paper needs a bibliography), we have crafted a  model that accurately summarises citation records with merely three easily interpretable parameters: productivity, total impact, and how lucky an  author has been so far.</div>
 
 
 ###### 08.10.2019
@@ -360,8 +309,7 @@ and how lucky an  author has been so far.</div>
 ##### [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) <sup>\[ <a href="http://fizyka.pw.edu.pl)\">WUT</a> ] </sup>
 
 
-> <div style="text-align:justify">
-Science of Science describes the new interdisciplinary field which combines traditional Bibliometrics, Philosophy and Sociology of Science with Complexity Science and Data Science. In this talk, I will present a summary of the recent achievements in the field as well as the list of (still) open questions. In addition to those purely academic considerations, we also consider the practical consequences of such research (e.g. in the context of the planning of scientific career or  during ranking universities).</div>
+> <div style="text-align:justify"> Science of Science describes the new interdisciplinary field which combines traditional Bibliometrics, Philosophy and Sociology of Science with Complexity Science and Data Science. In this talk, I will present a summary of the recent achievements in the field as well as the list of (still) open questions. In addition to those purely academic considerations, we also consider the practical consequences of such research (e.g. in the context of the planning of scientific career or  during ranking universities).</div>
 
 
 
@@ -382,9 +330,6 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 ###### 13.06.2019
 
-<div style="color:crimson;"> Thursday, 15:15, room 102, Math building, WUT. </div>
-
-
 #### **_Activity clustering in continuous-time random walk formalism_**
 
 ##### Jarosław Klamut <sup>\[[UW](https://www.fuw.edu.pl/)\] </sup>
@@ -401,8 +346,6 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 ###### 06.06.2019.2
 
-<div style="color:crimson;"> Thursday, 18:10, room 103, Math building, WUT. </div>
-
 
 #### **_New data-driven rating systems for association football_**
 
@@ -414,7 +357,6 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 ###### 30.05.2019.2
 
-<div style="color:crimson;"> Thursday 15:00, room 103, Math building, WUT. </div>
 
 
 #### **_Methodology of University Rankings S01E03 - Shanghai Ranking_**
@@ -427,7 +369,6 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 ###### 30.05.2019
 
-<div style="color:crimson;"> Thursday 14:00, room 103, Math building, WUT. </div>
 
 
 #### **_Methodology of University Rankings S01E02 -  Times Higher Education_**
@@ -440,7 +381,6 @@ Science of Science describes the new interdisciplinary field which combines trad
 
 ###### 23.05.2019
 
-<div style="color:crimson;"> Thursday 14:00, room 101, Math building, WUT. </div>
 
 
 #### **_Methodology of University Rankings S01E01 - QS_**
