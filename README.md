@@ -4,12 +4,12 @@
 
 #### Hosts
 
-* Prof. [Marek Gagolewski](https://www.gagolewski.com) (Deakin University, Warsaw University of Technology)
-* Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) (Warsaw University of Technology)
+* Prof. [Marek Gagolewski](https://www.gagolewski.com) (Deakin University, Australia; Warsaw University of Technology, Poland)
+* Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) (Warsaw University of Technology, Poland)
 
 #### Time
 
-Mondays, 10:00 am - 12:00 am ([Warsaw](https://www.timehubzone.com/time/zone/poland/warsaw) time zone)
+Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/time/zone/poland/warsaw) time)
 
 #### Location
 
@@ -21,7 +21,8 @@ Mondays, 10:00 am - 12:00 am ([Warsaw](https://www.timehubzone.com/time/zone/pol
 * complex networks and agent-based models
 * machine learning algorithms
 * computational and applied statistics
-* interdisciplinary modelling (economics, informetrics, science of science, social sciences, sports, etc.)
+* statistical software
+* interdisciplinary modelling (economics, informetrics, bibliometrics, science of science, social sciences, sports, etc.)
 
 
 
@@ -30,26 +31,26 @@ Mondays, 10:00 am - 12:00 am ([Warsaw](https://www.timehubzone.com/time/zone/pol
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
-|07.11.2022|Kinga Pilch and Dominik Kolasa |[Data collection methods for blockchain wallets and transaction data. Wallet classification, detection of mixers and blockchain fraud.](#07112022)      |
+|07.11.2022|Kinga Pilch and Dominik Kolasa (Warsaw University of Technology)|[Data collection methods for blockchain wallets and transaction data. Wallet classification, detection of mixers and blockchain fraud](#07112022)      |
 |26.05.2022|[Arkadiusz Jędrzejewski](https://jedrzejewski.wppt.pwr.edu.pl/) (Wrocław University of Science and Technology) |[q-voter models with quenched and annealed disorders on networks](#26052022)      |
 |28.04.2022|Iryna Balagura (National Academy of Sciences of Ukraine)|[Technology of co-author network scientometric analysis using the terms extracted from abstract databases](#28042022) |
-|07.04.2022|[Anna Cena](http://cena.rexamine.com/) |[Keywords: What Do They Know? Do They Know Things? Let's Find Out!](#07042022)                |
-|31.01.2022|Maciej J. Mrowiński  |[Scientific success from the perspective of the strength of weak ties](#31012022)    |
-|24.01.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  |[The formula for (bibliometric) success](#24012022)      |
+|07.04.2022|[Anna Cena](http://cena.rexamine.com/) (Warsaw University of Technology) |[Keywords: What Do They Know? Do They Know Things? Let's Find Out!](#07042022)                |
+|31.01.2022|Maciej J. Mrowiński (Warsaw University of Technology)  |[Scientific success from the perspective of the strength of weak ties](#31012022)    |
+|24.01.2022|[Grzegorz Siudem (Warsaw University of Technology)](http://if.pw.edu.pl/~siudem/)  |[The formula for (bibliometric) success](#24012022)      |
 |17.01.2022|Grzegorz Moś (University of Silesia)  |[An overview of honeycomb-based graph aggregation functions](#17012022)                    |
-|10.01.2022|[Anna Cena ](http://cena.rexamine.com/)  |[TBA](#10012022)                                                  |
-|22.11.2021|Aleksandra Buczek  |[Modelling of citation vectors and Hirsch index](#22112021)                            |
-|18.10.2021|Przemysław Nowak  |[Luck, Reason, and the Price–Pareto type-2 Distributions](#18102021)                   |
-|12.07.2021|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  |[DGBD](#12072021)                                |
+|10.01.2022|[Anna Cena (Warsaw University of Technology)](http://cena.rexamine.com/)  |[TBA](#10012022)                                                  |
+|22.11.2021|Aleksandra Buczek (Warsaw University of Technology)|[Modelling of citation vectors and Hirsch index](#22112021)                            |
+|18.10.2021|Przemysław Nowak  (Warsaw University of Technology) |[Luck, Reason, and the Price–Pareto type-2 Distributions](#18102021)                   |
+|12.07.2021|[Grzegorz Siudem (Warsaw University of Technology)](http://if.pw.edu.pl/~siudem/)  |[DGBD](#12072021)                                |
 |15.02.2021|Barbara Żogała-Siudem (Polish Academy of Sciences) |How to fit to measure errors in bibliometric data?                         |
-|19.11.2020|[Anna Cena](http://cena.rexamine.com/)  |Citation models vs. bibliometric indices  |
+|19.11.2020|[Anna Cena](http://cena.rexamine.com/) (Warsaw University of Technology)  |Citation models vs. bibliometric indices  |
 |26.10.2020|[Marek Gagolewski](http://www.gagolewski.com) (Deakin University)      |[Ockham's index](#26102020)|
 |08.09.2020|Barbara Żogała-Siudem (Polish Academy of Sciences) |[How to fit to bibliometric data?](#08092020)                              |
-|17.07.2020|Przemysław Nowak  |[Preferential attachment rules in modeling bibliometric data](#17072020)      |
-|19.05.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  |[Pareto-Tsallis distribution for bibliometric data](#19052020)               |
-|24.01.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  |Scientific problems in the universities' rankings                    |
-|26.11.2019|[Anna Cena](http://cena.rexamine.com/)  |[The true dimension of scientific impact](#26112019)  |
-|08.10.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) |      [How to measure Science?](#08102019)                                          |
+|17.07.2020|Przemysław Nowak (Warsaw University of Technology)  |[Preferential attachment rules in modeling bibliometric data](#17072020)      |
+|19.05.2020|[Grzegorz Siudem (Warsaw University of Technology)](http://if.pw.edu.pl/~siudem/)  |[Pareto-Tsallis distribution for bibliometric data](#19052020)               |
+|24.01.2020|[Grzegorz Siudem (Warsaw University of Technology)](http://if.pw.edu.pl/~siudem/)  |Scientific problems in the universities' rankings                    |
+|26.11.2019|[Anna Cena](http://cena.rexamine.com/) (Warsaw University of Technology)  |[The true dimension of scientific impact](#26112019)  |
+|08.10.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) (Warsaw University of Technology) |      [How to measure Science?](#08102019)                                          |
 |27.06.2019|Mikołaj Biesaga & Szymon Talaga (University of Warsaw)|[Discovery of socio-semantic networks based on discourse analysis on large corpora of documents](#27062019)     |
 |13.06.2019|Jarosław Klamut (University of Warsaw)|[Activity clustering in continuous-time random walk formalism](#13062019)                                               |
 |06.06.2019|[Jan Lasek](http://lasek.rexamine.com/) (deepsense.ai)       |[New data-driven rating systems for association football](#060620192)                    |
@@ -84,7 +85,7 @@ Mondays, 10:00 am - 12:00 am ([Warsaw](https://www.timehubzone.com/time/zone/pol
 
 #### Data collection methods for blockchain wallets and transaction data. Wallet classification, detection of mixers and blockchain fraud.
 
-##### Kinga Pilch and Dominik Kolasa  <sup>\[ Warsaw University of Technology) ] </sup>
+##### Kinga Pilch and Dominik Kolasa  <sup>\[ Warsaw University of Technology ] </sup>
 
 > <div style="text-align:justify">
 Collecting data using scrapers from blockchain related websites. Use of additional data sources - APIs. Labeling data using sentiment analysis. Blockchain wallet classification using neural networks. Analysis of wallet data, detection of mixers and crime suspected addresses.</div>
