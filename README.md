@@ -81,7 +81,10 @@ Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/ti
 
 ### Abstracts
 
-###### 26.05.2022
+
+
+
+###### 07.11.2022
 
 #### Data collection methods for blockchain wallets and transaction data. Wallet classification, detection of mixers and blockchain fraud.
 
@@ -89,6 +92,9 @@ Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/ti
 
 > <div style="text-align:justify">
 Collecting data using scrapers from blockchain related websites. Use of additional data sources - APIs. Labeling data using sentiment analysis. Blockchain wallet classification using neural networks. Analysis of wallet data, detection of mixers and crime suspected addresses.</div>
+ 
+ 
+ 
  
 ###### 26.05.2022
 
@@ -99,6 +105,8 @@ Collecting data using scrapers from blockchain related websites. Use of addition
 
 > <div style="text-align:justify">
 Using two models of opinion dynamics, the q-voter model with independence and the q-voter model with anticonformity, I will discuss how the change of disorder from annealed to quenched affects phase transitions on different networks. The results indicate that such a change of disorder eliminates all discontinuous phase transitions and broadens ordered phases. The comparative analysis on networks reveals differences between the models that are not displayed in well-mixed populations, at the mean-field level. This demonstrates how important is the network structure in answering the question about the differences between dynamics. Numerical and analytical methods based on the mean-field and pair approximations are used to analyze the problem.  </div>
+
+
 
 
 
@@ -267,7 +275,7 @@ Discrete Generalised Beta Distribution (DGBD) finds application in the descripti
 
 #### **_Ockham's index_**
 
-##### [Marek Gagolewski](http://www.gagolewski.com) <sup>\[ [Deakin University](https://www.deakin.edu.au/) \]</sup>
+##### [Marek Gagolewski](http://www.gagolewski.com) <sup>\[ Deakin University \]</sup>
 
 > <div style="text-align:justify">
 We demonstrate that by using a triple of simple numerical summaries:
