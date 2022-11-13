@@ -38,7 +38,7 @@ Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/ti
 |31.01.2022|Maciej J. Mrowiński (Warsaw University of Technology)  |[Scientific success from the perspective of the strength of weak ties](#31012022)    |
 |24.01.2022|[Grzegorz Siudem (Warsaw University of Technology)](http://if.pw.edu.pl/~siudem/)  |[The formula for (bibliometric) success](#24012022)      |
 |17.01.2022|Grzegorz Moś (University of Silesia)  |[An overview of honeycomb-based graph aggregation functions](#17012022)                    |
-|10.01.2022|[Anna Cena (Warsaw University of Technology)](http://cena.rexamine.com/)  |[TBA](#10012022)                                                  |
+|10.01.2022|[Anna Cena (Warsaw University of Technology)](http://cena.rexamine.com/)  |[Citation vectors and impact measures - a clustering aporoach](#10012022)                                                  |
 |22.11.2021|Aleksandra Buczek (Warsaw University of Technology)|[Modelling of citation vectors and Hirsch index](#22112021)                            |
 |18.10.2021|Przemysław Nowak  (Warsaw University of Technology) |[Luck, Reason, and the Price–Pareto type-2 Distributions](#18102021)                   |
 |12.07.2021|[Grzegorz Siudem (Warsaw University of Technology)](http://if.pw.edu.pl/~siudem/)  |[DGBD](#12072021)                                |
@@ -196,14 +196,13 @@ Polish Academy of Scienceso.</div>
 
 ###### 10.01.2022
 
-#### **_TBA_**
+#### **_Citation vectors and impact measures - a clustering aporoach_**
 
 ##### [Anna Cena](http://cena.rexamine.com/) <sup>\[ <a href="https://ww2.mini.pw.edu.pl/)\">WUT</a> ] </sup>
 
+> <div style="text-align:justify">Technical report of the research</div>
 
-> <div style="text-align:justify"> TBA</div>
-
-
+> <div style="text-align:justify"> The seminar addresses potential research in the area of scientometrics based on clustering methods and algorithms. The results obtained in terms of citation vector clustering as well as parameter analysis of selected citation models will be discussed.</div>
 
 
 
