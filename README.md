@@ -41,17 +41,17 @@ Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/ti
 |10.01.2022|[Anna Cena (Warsaw University of Technology)](http://cena.rexamine.com/)  |[Citation vectors and impact measures - a clustering aporoach](#10012022)                                                  |
 |22.11.2021|Aleksandra Buczek (Warsaw University of Technology)|[Modelling of citation vectors and Hirsch index](#22112021)                            |
 |18.10.2021|Przemysław Nowak  (Warsaw University of Technology) |[Luck, Reason, and the Price–Pareto type-2 Distributions](#18102021)                   |
-|12.07.2021|[Grzegorz Siudem (Warsaw University of Technology)](http://if.pw.edu.pl/~siudem/)  |[DGBD](#12072021)                                |
+|12.07.2021|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  (Warsaw University of Technology) |[DGBD](#12072021)                                |
 |15.02.2021|Barbara Żogała-Siudem (Polish Academy of Sciences) |How to fit to measure errors in bibliometric data?                         |
 |19.11.2020|[Anna Cena](http://cena.rexamine.com/) (Warsaw University of Technology)  |Citation models vs. bibliometric indices  |
 |26.10.2020|[Marek Gagolewski](http://www.gagolewski.com) (Deakin University)      |[Ockham's index](#26102020)|
 |08.09.2020|Barbara Żogała-Siudem (Polish Academy of Sciences) |[How to fit to bibliometric data?](#08092020)                              |
 |17.07.2020|Przemysław Nowak (Warsaw University of Technology)  |[Preferential attachment rules in modeling bibliometric data](#17072020)      |
-|19.05.2020|[Grzegorz Siudem (Warsaw University of Technology)](http://if.pw.edu.pl/~siudem/)  |[Pareto-Tsallis distribution for bibliometric data](#19052020)               |
-|24.01.2020|[Grzegorz Siudem (Warsaw University of Technology)](http://if.pw.edu.pl/~siudem/)  |Scientific problems in the universities' rankings                    |
+|19.05.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  (Warsaw University of Technology) |[Pareto-Tsallis distribution for bibliometric data](#19052020)               |
+|24.01.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  (Warsaw University of Technology) |Scientific problems in the universities' rankings                    |
 |26.11.2019|[Anna Cena](http://cena.rexamine.com/) (Warsaw University of Technology)  |[The true dimension of scientific impact](#26112019)  |
 |08.10.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) (Warsaw University of Technology) |      [How to measure Science?](#08102019)                                          |
-|27.06.2019|Mikołaj Biesaga & Szymon Talaga (University of Warsaw)|[Discovery of socio-semantic networks based on discourse analysis on large corpora of documents](#27062019)     |
+|27.06.2019|Mikołaj Biesaga and Szymon Talaga (University of Warsaw)|[Discovery of socio-semantic networks based on discourse analysis on large corpora of documents](#27062019)     |
 |13.06.2019|Jarosław Klamut (University of Warsaw)|[Activity clustering in continuous-time random walk formalism](#13062019)                                               |
 |06.06.2019|[Jan Lasek](http://lasek.rexamine.com/) (deepsense.ai)       |[New data-driven rating systems for association football](#060620192)                    |
 |30.05.2019|Barbara Żogała-Siudem (Polish Academy of Sciences)  |[Methodology of University Rankings S01E03 - Shanghai Ranking](#300520192)                                      |
@@ -172,26 +172,19 @@ Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/ti
 
 > <div style="text-align:justify"> [1] Coleman, M. M. (2019). Fundamentals of Polymer Science: An introductory text. Routledge. </div>
 
-> <div style="text-align:justify"> [2] McCrum, N. G., Buckley, C. P., Bucknall, C. B., Bucknall, C. B., & Bucknall, C. B. (1997). Principles of polymer
-engineering. Oxford University Press, USA.</div>
+> <div style="text-align:justify"> [2] McCrum, N. G., Buckley, C. P., Bucknall, C. B., Bucknall, C. B., & Bucknall, C. B. (1997). Principles of polymer engineering. Oxford University Press, USA.</div>
 
-> <div style="text-align:justify"> [3] Langner, J., Witek, H. A., & Mos, G. (2018). Zhang-zhang polynomials of multiple zigzag chains. MATCH
-Commun. Math. Comput. Chem, 80(1), 245-265.</div>
+> <div style="text-align:justify"> [3] Langner, J., Witek, H. A., & Mos, G. (2018). Zhang-zhang polynomials of multiple zigzag chains. MATCH Commun. Math. Comput. Chem, 80(1), 245-265.</div>
 
-> <div style="text-align:justify"> [4] Witek, H. A., Langner, J., Moś, G., & Chou, C. P. (2017). Zhang–Zhang polynomials of regular 5–tier
-benzenoid strips. MATCH Commun. Math. Comput. Chem, 78(2), 487-504. </div>
+> <div style="text-align:justify"> [4] Witek, H. A., Langner, J., Moś, G., & Chou, C. P. (2017). Zhang–Zhang polynomials of regular 5–tier benzenoid strips. MATCH Commun. Math. Comput. Chem, 78(2), 487-504. </div>
 
-> <div style="text-align:justify"> [5] Witek, H. A., Moś, G., & Chou, C. P. (2015). Zhang-Zhang polynomials of regular 3-and 4-tier benzenoid
-strips. MATCH Commun. Math. Comput. Chem, 73(2), 427-442. </div>
+> <div style="text-align:justify"> [5] Witek, H. A., Moś, G., & Chou, C. P. (2015). Zhang-Zhang polynomials of regular 3-and 4-tier benzenoid strips. MATCH Commun. Math. Comput. Chem, 73(2), 427-442. </div>
 
-> <div style="text-align:justify"> [6] Wang, Z. (2019). Recent advances in novel metallic honeycomb structure. Composites Part B: Engineering,
-166, 731-741. </div>
+> <div style="text-align:justify"> [6] Wang, Z. (2019). Recent advances in novel metallic honeycomb structure. Composites Part B: Engineering, 166, 731-741. </div>
 
-> <div style="text-align:justify"> [7] Grabisch, M., Marichal, J. L., Mesiar, R., & Pap, E. (2009). Aggregation functions (No. 127). Cambridge
-University Press. </div>
+> <div style="text-align:justify"> [7] Grabisch, M., Marichal, J. L., Mesiar, R., & Pap, E. (2009). Aggregation functions (No. 127). Cambridge University Press. </div>
 
-> <div style="text-align:justify"> [8] Gągolewski, M. (2015). Data fusion: theory, methods, and applications. Institute of Computer Science,
-Polish Academy of Scienceso.</div>
+> <div style="text-align:justify"> [8] Gągolewski, M. (2015). Data fusion: theory, methods, and applications. Institute of Computer Science, Polish Academy of Scienceso.</div>
 
 
 ###### 10.01.2022
