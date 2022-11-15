@@ -31,14 +31,14 @@ Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/ti
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
-|07.11.2022|Kinga Pilch and Dominik Kolasa (Warsaw University of Technology)|[Data collection methods for blockchain wallets and transaction data. Wallet classification, detection of mixers and blockchain fraud](#07112022)      |
-|26.05.2022|[Arkadiusz Jędrzejewski](https://jedrzejewski.wppt.pwr.edu.pl/) (Wrocław University of Science and Technology) |[q-voter models with quenched and annealed disorders on networks](#26052022)      |
-|28.04.2022|Iryna Balagura (National Academy of Sciences of Ukraine)|[Technology of co-author network scientometric analysis using the terms extracted from abstract databases](#28042022) |
-|07.04.2022|[Anna Cena](http://cena.rexamine.com/) (Warsaw University of Technology) |[Keywords: What Do They Know? Do They Know Things? Let's Find Out!](#07042022)                |
-|31.01.2022|Maciej J. Mrowiński (Warsaw University of Technology)  |[Scientific success from the perspective of the strength of weak ties](#31012022)    |
-|24.01.2022|[Grzegorz Siudem)](http://if.pw.edu.pl/~siudem/)  (Warsaw University of Technology |[The formula for (bibliometric) success](#24012022)      |
-|17.01.2022|Grzegorz Moś (University of Silesia)  |[An overview of honeycomb-based graph aggregation functions](#17012022)                    |
-|10.01.2022|[Anna Cena](http://cena.rexamine.com/)  (Warsaw University of Technology) |[Citation vectors and impact measures - a clustering aporoach](#10012022)                                                  |
+|07.11.2022|Kinga Pilch and Dominik Kolasa<br /><sup>(Warsaw University of Technology)</sup> |[Data collection methods for blockchain wallets and transaction data. Wallet classification, detection of mixers and blockchain fraud](#07112022)      |
+|26.05.2022|[Arkadiusz Jędrzejewski](https://jedrzejewski.wppt.pwr.edu.pl/)<br /><sup>(Wrocław University of Science and Technology)</sup> |[q-voter models with quenched and annealed disorders on networks](#26052022)      |
+|28.04.2022|Iryna Balagura<br /><sup>(National Academy of Sciences of Ukraine)</sup>|[Technology of co-author network scientometric analysis using the terms extracted from abstract databases](#28042022) |
+|07.04.2022|[Anna Cena](http://cena.rexamine.com/)<br /><sup>(Warsaw University of Technology)</sup> |[Keywords: What Do They Know? Do They Know Things? Let's Find Out!](#07042022)                |
+|31.01.2022|Maciej J. Mrowiński<br /><sup>(Warsaw University of Technology)</sup>  |[Scientific success from the perspective of the strength of weak ties](#31012022)    |
+|24.01.2022|[Grzegorz Siudem)](http://if.pw.edu.pl/~siudem/)<br /><sup>(Warsaw University of Technology)</sup> |[The formula for (bibliometric) success](#24012022)      |
+|17.01.2022|Grzegorz Moś<br /><sup>(University of Silesia)</sup>  |[An overview of honeycomb-based graph aggregation functions](#17012022)                    |
+|10.01.2022|[Anna Cena](http://cena.rexamine.com/)<br /><sup>(Warsaw University of Technology)</sup> |[Citation vectors and impact measures - a clustering aporoach](#10012022)                                                  |
 |22.11.2021|Aleksandra Buczek (Warsaw University of Technology)|[Modelling of citation vectors and Hirsch index](#22112021)                            |
 |18.10.2021|Przemysław Nowak  (Warsaw University of Technology) |[Luck, Reason, and the Price–Pareto type-2 Distributions](#18102021)                   |
 |12.07.2021|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  (Warsaw University of Technology) |[DGBD](#12072021)                                |
