@@ -31,6 +31,7 @@ Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/ti
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
+|28.11.2022|Michał Boczek<br /><sup>(Lodz University of Technology)</sup> |[Conditional aggregation operators and its applications](#28112022)      |
 |07.11.2022|Kinga Pilch and Dominik Kolasa<br /><sup>(Warsaw University of Technology)</sup> |[Data collection methods for blockchain wallets and transaction data. Wallet classification, detection of mixers and blockchain fraud](#07112022)      |
 |26.05.2022|[Arkadiusz Jędrzejewski](https://jedrzejewski.wppt.pwr.edu.pl/)<br /><sup>(Wrocław University of Science and Technology)</sup> |[q-voter models with quenched and annealed disorders on networks](#26052022)      |
 |28.04.2022|Iryna Balagura<br /><sup>(National Academy of Sciences of Ukraine)</sup>|[Technology of co-author network scientometric analysis using the terms extracted from abstract databases](#28042022) |
@@ -81,6 +82,13 @@ Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/ti
 
 ### Abstracts
 
+###### 28.11.2022
+
+#### Conditional aggregation operators and its applications
+
+##### Michał Boczek  <sup>\[Lodz University of Technology] </sup>
+
+> <div style="text-align:justify"> TBA </div>
 
 
 
