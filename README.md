@@ -88,7 +88,7 @@ Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/ti
 
 ##### Michał Boczek  <sup>\[Lodz University of Technology] </sup>
 
-> <div style="text-align:justify"> TBA </div>
+> <div style="text-align:justify"> In this talk, we will introduce the concept of conditional aggregation operator and discuss its basic properties. We will use it to generalize survival functions and list some applications, including scientometrics. We will then present some Choquet-like operators based on (i) generalizations of the survival function and (ii) conditional aggregation operators. </div>
 
 
 
