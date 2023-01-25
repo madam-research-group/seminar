@@ -31,6 +31,7 @@ Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/ti
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
+|30.01.2023|Mateusz Iskrzyński<br /><sup>(SRI PAS)</sup> |[ Modelling ecosystems - food webs, multilayer networks, hypergraphs.](#30012023)      |
 |05.12.2022|Michał Boczek<br /><sup>(Lodz University of Technology)</sup> |[Conditional aggregation operators and its applications](#05122022)      |
 |07.11.2022|Kinga Pilch and Dominik Kolasa<br /><sup>(Warsaw University of Technology)</sup> |[Data collection methods for blockchain wallets and transaction data. Wallet classification, detection of mixers and blockchain fraud](#07112022)      |
 |26.05.2022|[Arkadiusz Jędrzejewski](https://jedrzejewski.wppt.pwr.edu.pl/)<br /><sup>(Wrocław University of Science and Technology)</sup> |[q-voter models with quenched and annealed disorders on networks](#26052022)      |
@@ -81,6 +82,27 @@ Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/ti
 
 
 ### Abstracts
+
+###### 30.01.2023
+
+####  Modelling ecosystems - food webs, multilayer networks, hypergraphs.
+
+##### Mateusz Iskrzyński  <sup>\[SRI PAS] </sup>
+
+> <div style="text-align:justify"> Species extinctions are compromising ecosystem functioning and services around the globe. The effects of species loss propagate over food webs (trophic networks). Food webs are directed graphs that represent feeding relationships, encoding matter flows as links between groups of species in an ecosystem. Previous food web research has been limited by reliance on purely theoretical models, few food webs, and only unweighted networks. </div>
+
+> <div style="text-align:justify"> In this seminar I will present our research on food web structure and vulnerability based on world's largest database of 245 weighted empirical food webs. I will show our various visualisation methods [1], show the importance of weights using mass cycling as an example [2].</div>
+
+> <div style="text-align:justify">
+[1] Pawluczuk, Ł. & Iskrzyński, M. (2022) Food web visualisation: Heat map, interactive graph and animated flow network. Methods in Ecology and Evolution, https://doi.org/10.1111/2041-210X.13839, https://github.com/ibs-pan/foodwebviz
+[2] Iskrzyński, M., Janssen, F., Picciolo, F., Fath, B., Ruzzenenti, F. (2021) Cycling and reciprocity in weighted food webs and economic networks. J Ind Ecol. https://doi.org/10.1111/jiec.13217</div>
+
+
+
+
+
+
+
 
 ###### 05.12.2022
 
