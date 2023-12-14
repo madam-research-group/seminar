@@ -31,7 +31,8 @@ Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/ti
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
-|30.01.2023|Mateusz Iskrzyński<br /><sup>(Polish Academy of Sciences)</sup> |[ Modelling ecosystems - food webs, multilayer networks, hypergraphs.](#30012023)      |
+|20.12.2023|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[Analyzing Graphs with Edge Attributes from Continuous Distributions](#20122023)      |
+|30.01.2023|Mateusz Iskrzyński<br /><sup>(Polish Academy of Sciences)</sup> |[Modelling ecosystems - food webs, multilayer networks, hypergraphs.](#30012023)      |
 |05.12.2022|Michał Boczek<br /><sup>(Lodz University of Technology)</sup> |[Conditional aggregation operators and its applications](#05122022)      |
 |07.11.2022|Kinga Pilch and Dominik Kolasa<br /><sup>(Warsaw University of Technology)</sup> |[Data collection methods for blockchain wallets and transaction data. Wallet classification, detection of mixers and blockchain fraud](#07112022)      |
 |26.05.2022|[Arkadiusz Jędrzejewski](https://jedrzejewski.wppt.pwr.edu.pl/)<br /><sup>(Wrocław University of Science and Technology)</sup> |[q-voter models with quenched and annealed disorders on networks](#26052022)      |
@@ -82,6 +83,15 @@ Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/ti
 
 
 ### Abstracts
+
+###### 20.12.2023
+
+#### Analyzing Graphs with Edge Attributes from Continuous Distributions
+
+##### Łukasz Brzozowski  <sup>\[Warsaw University of Technology] </sup>
+
+> <div style="text-align:justify">In real-world graph datasets, edge attributes are frequently represented with non-integer values, such as in measurements of node similarity, distance, or energy. However, research on the statistical properties of random graphs, where edge attributes are modelled as variables from continuous distributions, remains limited. Our study poses quite a general question: given two continuous distributions, $F_D$ for degree distribution (sum of incident edges) and $F_W$ for edge weight, can a graph exhibiting these distributions be obtained? We will show that given the independence assumptions, some analytic results are readily available, while other cases can be tackled algorithmically. </div>
+
 
 ###### 30.01.2023
 
