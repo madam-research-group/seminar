@@ -86,6 +86,10 @@ Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/ti
 
 ###### 20.12.2023
 
+<div style="color:crimson;"> Wednesday 10:15, room 211, Math building, WUT.
+ </div>
+
+
 #### Analyzing Graphs with Edge Attributes from Continuous Distributions
 
 ##### Łukasz Brzozowski  <sup>\[Warsaw University of Technology] </sup>
