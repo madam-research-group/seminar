@@ -4,16 +4,16 @@
 
 #### Hosts
 
-* Prof. [Marek Gagolewski](https://www.gagolewski.com) (Deakin University, Australia; Warsaw University of Technology, Poland)
+* Prof. [Marek Gagolewski](https://www.gagolewski.com) (Warsaw University of Technology, Poland)
 * Dr [Grzegorz Siudem](http://www.if.pw.edu.pl/~siudem/) (Warsaw University of Technology, Poland)
 
 #### Time
 
-Mondays, 10:00 am – 11:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/time/zone/poland/warsaw) time)
+Tuesdays, 10:15 am – 12:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/time/zone/poland/warsaw) time)
 
 #### Location
 
-**Online (*M$ Teams*)** – feel free to request an access link or subscribe to our newsletter via [email](http://www.if.pw.edu.pl/~siudem/)
+Faculty of Mathematics and Information Science, Warsaw University of Technology, room 318
 
 #### Topics
 
