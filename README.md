@@ -100,6 +100,7 @@ different aspects of the obtained partitions, e.g., the average degree of
 cluster compactness or point separability. Yet, their validity is
 questionable, because the clusterings they promote can sometimes be
 meaningless.</div>
+
 > <div style="text-align:justify">External measures, on the other hand, compare the algorithms’ outputs
 to the fixed ground truth groupings that are provided by experts. In
 this talk, we will argue that the commonly-used classical partition
