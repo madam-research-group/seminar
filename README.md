@@ -13,7 +13,7 @@ Tuesdays, 10:15 am – 12:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/t
 
 #### Location
 
-Faculty of Mathematics and Information Science, Warsaw University of Technology, room 318. 
+Faculty of Mathematics and Information Science, Warsaw University of Technology, room 318 or online on M$ Teams.
 
 #### Topics
 
