@@ -13,7 +13,7 @@ Tuesdays, 10:15 am – 12:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/t
 
 #### Location
 
-Faculty of Mathematics and Information Science, Warsaw University of Technology, room 318 and/or online (via M$ Teams)
+Faculty of Mathematics and Information Science, Warsaw University of Technology, room 318. 
 
 #### Topics
 
@@ -31,6 +31,7 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
+|16.04.2024|[Marek Gagolewski](http://www.gagolewski.com)<br /><sup>(Warsaw University of Technology)</sup> |[Normalised Clustering Accuracy: An Asymmetric External Cluster Validity Measure](#16042024)      |
 |20.12.2023|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[Analyzing Graphs with Edge Attributes from Continuous Distributions](#20122023)      |
 |30.01.2023|Mateusz Iskrzyński<br /><sup>(Polish Academy of Sciences)</sup> |[Modelling ecosystems - food webs, multilayer networks, hypergraphs.](#30012023)      |
 |05.12.2022|Michał Boczek<br /><sup>(Lodz University of Technology)</sup> |[Conditional aggregation operators and its applications](#05122022)      |
@@ -39,7 +40,7 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 |28.04.2022|Iryna Balagura<br /><sup>(National Academy of Sciences of Ukraine)</sup>|[Technology of co-author network scientometric analysis using the terms extracted from abstract databases](#28042022) |
 |07.04.2022|[Anna Cena](http://cena.rexamine.com/)<br /><sup>(Warsaw University of Technology)</sup> |[Keywords: What Do They Know? Do They Know Things? Let's Find Out!](#07042022)                |
 |31.01.2022|Maciej J. Mrowiński<br /><sup>(Warsaw University of Technology)</sup>  |[Scientific success from the perspective of the strength of weak ties](#31012022)    |
-|24.01.2022|[Grzegorz Siudem)](http://if.pw.edu.pl/~siudem/)<br /><sup>(Warsaw University of Technology)</sup> |[The formula for (bibliometric) success](#24012022)      |
+|24.01.2022|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)<br /><sup>(Warsaw University of Technology)</sup> |[The formula for (bibliometric) success](#24012022)      |
 |17.01.2022|Grzegorz Moś<br /><sup>(University of Silesia)</sup>  |[An overview of honeycomb-based graph aggregation functions](#17012022)                    |
 |10.01.2022|[Anna Cena](http://cena.rexamine.com/)<br /><sup>(Warsaw University of Technology)</sup> |[Citation vectors and impact measures - a clustering aporoach](#10012022)                                                  |
 |22.11.2021|Aleksandra Buczek (Warsaw University of Technology)|[Modelling of citation vectors and Hirsch index](#22112021)                            |
@@ -83,6 +84,35 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 
 
 ### Abstracts
+
+###### 16.04.2024
+
+#### **_Normalised Clustering Accuracy: An Asymmetric External Cluster Validity Measure_**
+
+##### [Marek Gagolewski](http://www.gagolewski.com) <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/) &  [SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
+
+> <div style="text-align:justify">There is no, nor will there ever be, single best clustering algorithm, but
+we would still like to be able to distinguish between methods which
+work well on certain task types and those that systematically under-
+perform. Clustering algorithms are traditionally evaluated using either
+internal or external validity measures. Internal measures quantify
+different aspects of the obtained partitions, e.g., the average degree of
+cluster compactness or point separability. Yet, their validity is
+questionable, because the clusterings they promote can sometimes be
+meaningless.</div>
+> <div style="text-align:justify">External measures, on the other hand, compare the algorithms’ outputs
+to the fixed ground truth groupings that are provided by experts. In
+this talk, we will argue that the commonly-used classical partition
+similarity scores, such as the normalised mutual information,
+Fowlkes–Mallows, or adjusted Rand index, miss some desirable properties.
+In particular, they do not identify worst-case scenarios correctly nor are
+they easily interpretable. As a consequence, it can be difficult to
+evaluate clustering algorithms on diverse benchmark datasets. To remedy
+these issues, we'll propose and analyse a new measure: a version of the
+optimal set-matching accuracy, which is normalised, monotonic with respect
+to some similarity relation, scale invariant, and corrected for the
+imbalancedness of cluster sizes (but neither symmetric nor adjusted for
+chance).</div>
 
 ###### 20.12.2023
 
