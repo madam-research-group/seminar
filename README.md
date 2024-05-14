@@ -31,7 +31,10 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
-|16.04.2024|[Marek Gagolewski](http://www.gagolewski.com)<br /><sup>(Warsaw University of Technology)</sup> |[Normalised Clustering Accuracy: An Asymmetric External Cluster Validity Measure](#16042024)      |
+|14.05.2024|Anna Cena<br /><sup>(Warsaw University of Technology)</sup> |[TBA](#14052024)      |
+|07.05.2024|Przemysław Nowak<br /><sup>(Warsaw University of Technology)</sup> |[TBA](#07052024)      |
+|22.04.2024|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[TBA](#22042024)      |
+|16.04.2024|[Marek Gagolewski](https://www.gagolewski.com)<br /><sup>(Warsaw University of Technology)</sup> |[Normalised Clustering Accuracy: An Asymmetric External Cluster Validity Measure](#16042024)      |
 |20.12.2023|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[Analyzing Graphs with Edge Attributes from Continuous Distributions](#20122023)      |
 |30.01.2023|Mateusz Iskrzyński<br /><sup>(Polish Academy of Sciences)</sup> |[Modelling ecosystems - food webs, multilayer networks, hypergraphs.](#30012023)      |
 |05.12.2022|Michał Boczek<br /><sup>(Lodz University of Technology)</sup> |[Conditional aggregation operators and its applications](#05122022)      |
