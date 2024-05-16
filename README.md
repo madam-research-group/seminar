@@ -121,29 +121,9 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 
 ##### [Marek Gagolewski](http://www.gagolewski.com) <sup>\[[WUT](http://www.mini.pw.edu.pl/tikiwiki/) &  [SRI PAS](http://www.ibspan.waw.pl/glowna/en)\] </sup>
 
-> <div style="text-align:justify">There is no, nor will there ever be, single best clustering algorithm, but
-we would still like to be able to distinguish between methods which
-work well on certain task types and those that systematically under-
-perform. Clustering algorithms are traditionally evaluated using either
-internal or external validity measures. Internal measures quantify
-different aspects of the obtained partitions, e.g., the average degree of
-cluster compactness or point separability. Yet, their validity is
-questionable, because the clusterings they promote can sometimes be
-meaningless.</div>
+> <div style="text-align:justify">There is no, nor will there ever be, single best clustering algorithm, but we would still like to be able to distinguish between methods which work well on certain task types and those that systematically under-perform. Clustering algorithms are traditionally evaluated using either internal or external validity measures. Internal measures quantify different aspects of the obtained partitions, e.g., the average degree of cluster compactness or point separability. Yet, their validity is questionable, because the clusterings they promote can sometimes be meaningless.</div>
 
-> <div style="text-align:justify">External measures, on the other hand, compare the algorithms’ outputs
-to the fixed ground truth groupings that are provided by experts. In
-this talk, we will argue that the commonly-used classical partition
-similarity scores, such as the normalised mutual information,
-Fowlkes–Mallows, or adjusted Rand index, miss some desirable properties.
-In particular, they do not identify worst-case scenarios correctly nor are
-they easily interpretable. As a consequence, it can be difficult to
-evaluate clustering algorithms on diverse benchmark datasets. To remedy
-these issues, we'll propose and analyse a new measure: a version of the
-optimal set-matching accuracy, which is normalised, monotonic with respect
-to some similarity relation, scale invariant, and corrected for the
-imbalancedness of cluster sizes (but neither symmetric nor adjusted for
-chance).</div>
+> <div style="text-align:justify">External measures, on the other hand, compare the algorithms’ outputs to the fixed ground truth groupings that are provided by experts. In this talk, we will argue that the commonly-used classical partition similarity scores, such as the normalised mutual information, Fowlkes–Mallows, or adjusted Rand index, miss some desirable properties. In particular, they do not identify worst-case scenarios correctly nor are they easily interpretable. As a consequence, it can be difficult to evaluate clustering algorithms on diverse benchmark datasets. To remedy these issues, we'll propose and analyse a new measure: a version of the optimal set-matching accuracy, which is normalised, monotonic with respect to some similarity relation, scale invariant, and corrected for the imbalancedness of cluster sizes (but neither symmetric nor adjusted for chance).</div>
 
 ###### 20.12.2023
 
