@@ -33,7 +33,7 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
 |14.05.2024|Anna Cena<br /><sup>(Warsaw University of Technology)</sup> |[TBA](#14052024)      |
 |07.05.2024|Przemysław Nowak<br /><sup>(Warsaw University of Technology)</sup> |[TBA](#07052024)      |
-|22.04.2024|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[Objective functions in community detection](#23042024)      |
+|23.04.2024|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[Objective functions in community detection](#23042024)      |
 |16.04.2024|[Marek Gagolewski](https://www.gagolewski.com)<br /><sup>(Warsaw University of Technology)</sup> |[Normalised Clustering Accuracy: An Asymmetric External Cluster Validity Measure](#16042024)      |
 |20.12.2023|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[Analyzing Graphs with Edge Attributes from Continuous Distributions](#20122023)      |
 |30.01.2023|Mateusz Iskrzyński<br /><sup>(Polish Academy of Sciences)</sup> |[Modelling ecosystems - food webs, multilayer networks, hypergraphs.](#30012023)      |
@@ -89,18 +89,27 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 ### Abstracts
 
 
+###### 14.05.2024
+
+#### **_TBA_**
+
+##### Anna Cena  <sup>\[Warsaw University of Technology] </sup>
+
+> <div style="text-align:justify">TBA</div>
+
+
+###### 07.05.2024
+
+#### **_TBA_**
+
+##### Przemysław Nowak  <sup>\[Warsaw University of Technology] </sup>
+
+> <div style="text-align:justify">TBA</div>
+
+
 ###### 23.04.2024
 
-#### **_Normalised Clustering Accuracy: An Asymmetric External Cluster Validity Measure_**
-
-##### Łukasz Brzozowski  <sup>\[Warsaw University of Technology] </sup>
-
-> <div style="text-align:justify">In this seminar we will look at various objective functions whose optimization is used in community detection in graphs. In particular, we will talk about the prospects of generalizations of those objective functions, as well as their behaviour in some border cases.</div>
-
-
-###### 23.04.2024
-
-#### **_Normalised Clustering Accuracy: An Asymmetric External Cluster Validity Measure_**
+#### **_Objective functions in community detection_**
 
 ##### Łukasz Brzozowski  <sup>\[Warsaw University of Technology] </sup>
 
