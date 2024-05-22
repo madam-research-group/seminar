@@ -32,7 +32,7 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
 |14.05.2024|Anna Cena<br /><sup>(Warsaw University of Technology)</sup> |[TBA](#14052024)      |
-|07.05.2024|Przemysław Nowak<br /><sup>(Warsaw University of Technology)</sup> |[TBA](#07052024)      |
+|07.05.2024|Przemysław Nowak<br /><sup>(Warsaw University of Technology)</sup> |[Biomass Flows in Food Webs: Rank-Size Analysis and DGBD Modeling](#07052024)      |
 |23.04.2024|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[Objective functions in community detection](#23042024)      |
 |16.04.2024|[Marek Gagolewski](https://www.gagolewski.com)<br /><sup>(Warsaw University of Technology)</sup> |[Normalised Clustering Accuracy: An Asymmetric External Cluster Validity Measure](#16042024)      |
 |20.12.2023|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[Analyzing Graphs with Edge Attributes from Continuous Distributions](#20122023)      |
@@ -100,11 +100,15 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 
 ###### 07.05.2024
 
-#### **_TBA_**
+#### **Biomass Flows in Food Webs: Rank-Size Analysis and DGBD Modeling**
 
 ##### Przemysław Nowak  <sup>\[Warsaw University of Technology] </sup>
 
-> <div style="text-align:justify">TBA</div>
+> <div style="text-align:justify">This study analyzes food webs, focusing on the dependencies of biomass quantities and their flows in the context of rank-size distributions. The research is aimed to examine how these dependencies occur in various food webs and to develop a simulation model that accurately reflects these relationships.</div>
+
+> <div style="text-align:justify">The study employed the Discrete Generalized Beta Distribution (DGBD), which showed good agreement with all analyzed food webs. The results indicate that sorting the data, rather than averaging it, is a crucial element in the analysis of rank-size distributions. This is particularly important in the context of real-world data, where we often have only a single series available, which can only be sorted and not averaged.</div>
+
+> <div style="text-align:justify">The proposed simulation model of food webs replicates the properties of the DGBD distribution, thus offering a tool that bridges the theoretical approach with the practical aspects of real data analysis. This work serves as a bridge between theoretical mathematical modeling and practical empirical data analysis, highlighting the importance of sorting in the context of rank-size distributions in food webs.</div>
 
 
 ###### 23.04.2024
