@@ -31,6 +31,7 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
+|28.05.2024|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[TBA](#28052024)      |
 |14.05.2024|Anna Cena<br /><sup>(Warsaw University of Technology)</sup> |[Information-based clustering: introduction](#14052024)      |
 |07.05.2024|Przemysław Nowak<br /><sup>(Warsaw University of Technology)</sup> |[Biomass Flows in Food Webs: Rank-Size Analysis and DGBD Modeling](#07052024)      |
 |23.04.2024|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[Objective functions in community detection](#23042024)      |
@@ -87,6 +88,14 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 
 
 ### Abstracts
+
+###### 28.05.2024
+
+#### **_TBA_**
+
+##### Łukasz Brzozowski  <sup>\[Warsaw University of Technology] </sup>
+
+> <div style="text-align:justify">TBA</div>
 
 
 ###### 14.05.2024
