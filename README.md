@@ -104,7 +104,7 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 
 ##### Anna Cena  <sup>\[Warsaw University of Technology] </sup>
 
-> <div style="text-align:justify">TBA</div>
+> <div style="text-align:justify">Information-based clustering offers interesting approach to data grouping. However, there are a lot of questions regarding the specifics: form theoretical foundations and unclear notation to usefulness of such techniques. In this talk we will adress some issues, raise many more and hopefully understad better what it is we are dealing with.</div>
 
 
 ###### 07.05.2024
