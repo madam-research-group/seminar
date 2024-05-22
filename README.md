@@ -31,7 +31,7 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
-|14.05.2024|Anna Cena<br /><sup>(Warsaw University of Technology)</sup> |[TBA](#14052024)      |
+|14.05.2024|Anna Cena<br /><sup>(Warsaw University of Technology)</sup> |[Information-based clustering: introduction](#14052024)      |
 |07.05.2024|Przemysław Nowak<br /><sup>(Warsaw University of Technology)</sup> |[Biomass Flows in Food Webs: Rank-Size Analysis and DGBD Modeling](#07052024)      |
 |23.04.2024|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[Objective functions in community detection](#23042024)      |
 |16.04.2024|[Marek Gagolewski](https://www.gagolewski.com)<br /><sup>(Warsaw University of Technology)</sup> |[Normalised Clustering Accuracy: An Asymmetric External Cluster Validity Measure](#16042024)      |
@@ -91,7 +91,7 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 
 ###### 14.05.2024
 
-#### **_TBA_**
+#### **_Information-based clustering: introduction_**
 
 ##### Anna Cena  <sup>\[Warsaw University of Technology] </sup>
 
@@ -100,7 +100,7 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 
 ###### 07.05.2024
 
-#### **Biomass Flows in Food Webs: Rank-Size Analysis and DGBD Modeling**
+#### **_Biomass Flows in Food Webs: Rank-Size Analysis and DGBD Modeling_**
 
 ##### Przemysław Nowak  <sup>\[Warsaw University of Technology] </sup>
 
