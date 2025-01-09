@@ -96,7 +96,8 @@ Faculty of Physics, Warsaw University of Technology, room 309 or online on M$ Te
 
 ##### Anna Kozak  <sup>\[Warsaw University of Technology] </sup>
 
-> <div style="text-align:justify">One core challenge in machine learning is balancing model performance with interpretability. Various approaches aim to make advanced machine learning techniques more understandable without sacrificing their predictive power. During this presentation, we will explore:
+> <div style="text-align:justify">One core challenge in machine learning is balancing model performance with interpretability. Various approaches aim to make advanced machine learning techniques more understandable without sacrificing their predictive power. During this presentation, we will explore:</div>
+> <div style="text-align:justify">
   *   Methods for improving model interpretability while maintaining performance.
   *   Tree-based modeling approaches and automated machine learning solutions.
   *   Data preparation and feature engineering techniques for better model performance.
