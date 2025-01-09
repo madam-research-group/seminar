@@ -104,11 +104,11 @@ Faculty of Physics, Warsaw University of Technology, room 309 or online on M$ Te
 
 ###### 28.05.2024
 
-#### **_TBA_**
+#### **_Random Graph Models in Community Detection_**
 
 ##### Łukasz Brzozowski  <sup>\[Warsaw University of Technology] </sup>
 
-> <div style="text-align:justify">TBA</div>
+> <div style="text-align:justify">During the presentation, we will introduce selected random graph models with community structure, such as the Stochastic Block Model or the Lancichinetti-Fortunato-Radicchi benchmark. We will consider how parameter changes of the models affect the resulting community structures and talk about the possibility of generalizing the presented solutions.</div>
 
 
 ###### 14.05.2024
