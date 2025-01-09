@@ -32,7 +32,7 @@ Faculty of Physics, Warsaw University of Technology, room 309 or online on M$ Te
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
 |20.01.2025|Anna Kozak<br /><sup>(Warsaw University of Technology)</sup> |[Balancing Performance and Interpretability in Machine Learning](#20012025)      |
-|28.05.2024|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[TBA](#28052024)      |
+|28.05.2024|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[Random Graph Models in Community Detection](#28052024)      |
 |14.05.2024|Anna Cena<br /><sup>(Warsaw University of Technology)</sup> |[Information-based clustering: introduction](#14052024)      |
 |07.05.2024|Przemysław Nowak<br /><sup>(Warsaw University of Technology)</sup> |[Biomass Flows in Food Webs: Rank-Size Analysis and DGBD Modeling](#07052024)      |
 |23.04.2024|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[Objective functions in community detection](#23042024)      |
@@ -96,13 +96,11 @@ Faculty of Physics, Warsaw University of Technology, room 309 or online on M$ Te
 
 ##### Anna Kozak  <sup>\[Warsaw University of Technology] </sup>
 
-> <div style="text-align:justify">One core challenge in machine learning is balancing model performance with interpretability. Various approaches aim to make advanced machine learning techniques more understandable without sacrificing their predictive power. During this presentation, we will explore:
-  *   Methods for improving model interpretability while maintaining performance.
-  *   Tree-based modeling approaches and automated machine learning solutions.
-  *   Data preparation and feature engineering techniques for better model performance.
-  *   Maintaining interpretability in ensemble models.</div>
-
-
+> <div style="text-align:justify">One core challenge in machine learning is balancing model performance with interpretability. Various approaches aim to make advanced machine learning techniques more understandable without sacrificing their predictive power. During this presentation, we will explore:</div>
+>  *   Methods for improving model interpretability while maintaining performance.
+>  *   Tree-based modeling approaches and automated machine learning solutions.
+>  *   Data preparation and feature engineering techniques for better model performance.
+>  *   Maintaining interpretability in ensemble models.
 
 ###### 28.05.2024
 
