@@ -31,6 +31,7 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 
 | Date     | Author                                       | Title                                                               |
 |:---------|:---------------------------------------------|:--------------------------------------------------------------------|
+|20.01.2025|Anna Kozak<br /><sup>(Warsaw University of Technology)</sup> |[Balancing Performance and Interpretability in Machine Learning](#20012025)      |
 |28.05.2024|Łukasz Brzozowski<br /><sup>(Warsaw University of Technology)</sup> |[TBA](#28052024)      |
 |14.05.2024|Anna Cena<br /><sup>(Warsaw University of Technology)</sup> |[Information-based clustering: introduction](#14052024)      |
 |07.05.2024|Przemysław Nowak<br /><sup>(Warsaw University of Technology)</sup> |[Biomass Flows in Food Webs: Rank-Size Analysis and DGBD Modeling](#07052024)      |
@@ -50,13 +51,13 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 |22.11.2021|Aleksandra Buczek (Warsaw University of Technology)|[Modelling of citation vectors and Hirsch index](#22112021)                            |
 |18.10.2021|Przemysław Nowak  (Warsaw University of Technology) |[Luck, Reason, and the Price–Pareto type-2 Distributions](#18102021)                   |
 |12.07.2021|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  (Warsaw University of Technology) |[DGBD](#12072021)                                |
-|15.02.2021|Barbara Żogała-Siudem (Polish Academy of Sciences) |How to fit to measure errors in bibliometric data?                         |
-|19.11.2020|[Anna Cena](http://cena.rexamine.com/) (Warsaw University of Technology)  |Citation models vs. bibliometric indices  |
+|15.02.2021|Barbara Żogała-Siudem (Polish Academy of Sciences) |[How  to measure errors in bibliometric data?](#15022021)                         |
+|19.11.2020|[Anna Cena](http://cena.rexamine.com/) (Warsaw University of Technology)  |[Citation models vs. bibliometric indices](#19112021)  |
 |26.10.2020|[Marek Gagolewski](http://www.gagolewski.com) (Deakin University)      |[Ockham's index](#26102020)|
 |08.09.2020|Barbara Żogała-Siudem (Polish Academy of Sciences) |[How to fit to bibliometric data?](#08092020)                              |
 |17.07.2020|Przemysław Nowak (Warsaw University of Technology)  |[Preferential attachment rules in modeling bibliometric data](#17072020)      |
 |19.05.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  (Warsaw University of Technology) |[Pareto-Tsallis distribution for bibliometric data](#19052020)               |
-|24.01.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  (Warsaw University of Technology) |Scientific problems in the universities' rankings                    |
+|24.01.2020|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/)  (Warsaw University of Technology) |[Scientific problems in the universities' rankings](#24012020)                    |
 |26.11.2019|[Anna Cena](http://cena.rexamine.com/) (Warsaw University of Technology)  |[The true dimension of scientific impact](#26112019)  |
 |08.10.2019|[Grzegorz Siudem](http://if.pw.edu.pl/~siudem/) (Warsaw University of Technology) |      [How to measure Science?](#08102019)                                          |
 |27.06.2019|Mikołaj Biesaga and Szymon Talaga (University of Warsaw)|[Discovery of socio-semantic networks based on discourse analysis on large corpora of documents](#27062019)     |
@@ -88,6 +89,21 @@ Faculty of Mathematics and Information Science, Warsaw University of Technology,
 
 
 ### Abstracts
+
+###### 20.01.2025
+
+#### **_Balancing Performance and Interpretability in Machine Learning_**
+
+##### Anna Kozak  <sup>\[Warsaw University of Technology] </sup>
+
+> <div style="text-align:justify">One core challenge in machine learning is balancing model performance with interpretability. Various approaches aim to make advanced machine learning techniques more understandable without sacrificing their predictive power. During this presentation, we will explore:
+
+  *   Methods for improving model interpretability while maintaining performance.
+  *   Tree-based modeling approaches and automated machine learning solutions.
+  *   Data preparation and feature engineering techniques for better model performance.
+  *   Maintaining interpretability in ensemble models.</div>
+
+
 
 ###### 28.05.2024
 
