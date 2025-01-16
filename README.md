@@ -9,7 +9,7 @@
 
 #### Time
 
-Monday, 12:15 am – 13:00 am CET/CEST ([Warsaw](https://www.timehubzone.com/time/zone/poland/warsaw) time)
+Monday, 12:15 apm – 13:00 pm CET/CEST ([Warsaw](https://www.timehubzone.com/time/zone/poland/warsaw) time)
 
 #### Location
 
