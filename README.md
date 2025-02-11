@@ -9,11 +9,11 @@
 
 #### Time
 
-Monday, 12:15 apm – 13:00 pm CET/CEST ([Warsaw](https://www.timehubzone.com/time/zone/poland/warsaw) time)
+TBA ([Warsaw](https://www.timehubzone.com/time/zone/poland/warsaw) time)
 
 #### Location
 
-Faculty of Physics, Warsaw University of Technology, room 309 or online on M$ Teams.
+Faculty of Mathematics and Information Science, Warsaw University of Technology
 
 #### Topics
 
